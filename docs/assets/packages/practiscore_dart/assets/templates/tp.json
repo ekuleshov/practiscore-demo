@@ -1,0 +1,5 @@
+{
+  "match_name" : "Time Plus",
+  "match_type": "timeplus",
+  "match_chkins": [ "Checked in", "Paid", "Staff" ]
+}

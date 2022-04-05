@@ -1,0 +1,1083 @@
+[
+  {
+    "stage_classifiercode": "20-01", "stage_name": "Wish You Were Here",
+    "stage_scoretype": "Comstock", "stage_classictargets": true,
+    "stage_targets": [
+      { "target_number": 1, "target_reqshots": 2 },
+      { "target_number": 2, "target_reqshots": 2 },
+      { "target_number": 3, "target_reqshots": 2 },
+      { "target_number": 4, "target_reqshots": 2 },
+      { "target_number": 5, "target_reqshots": 2 } ],
+    "stage_classifier": true, "stage_poppers": 2, "stage_noshoots": true,
+    "stage_strings": 1,
+    "stage_briefing": "Wish You Were Here is a 12 round, 60-point, Comstock Classifier course. There are 5 USPSA targets and 2 USPSA Poppers.\n\nThe handgun start position is standing inside the shooting area, feet touching marks, wrists below belt, with handgun loaded and holstered.\n\nThe PCC start position is standing inside the shooting area, feet touching marks, loaded PCC held in both hands, safety on, stock touching belt, muzzle generally downrange.\n\nOn the audible start signal, engage targets as they become available from within the shooting area." },
+  {
+    "stage_classifiercode": "20-02", "stage_name": "Deja Vu",
+    "stage_scoretype": "Comstock", "stage_classictargets": true,
+    "stage_targets": [
+      { "target_number": 1, "target_reqshots": 2 },
+      { "target_number": 2, "target_reqshots": 2 },
+      { "target_number": 3, "target_reqshots": 2 },
+      { "target_number": 4, "target_reqshots": 2 },
+      { "target_number": 5, "target_reqshots": 2 },
+      { "target_number": 6, "target_reqshots": 2 } ],
+    "stage_classifier": true, "stage_poppers": 0, "stage_noshoots": true,
+    "stage_strings": 1,
+    "stage_briefing": "Deja Vu is a 12 round, 60-point, Comstock Classifier course. There are 6 USPSA targets.\n\nThe handgun start position is standing anywhere in the shooting area, wrists below belt, handgun loaded and holstered.\n\nThe PCC start position is standing anywhere in the shooting area, loaded PCC held in both hands, safety on, stock touching belt, muzzle generally downrange.\n\nOn the audible start signal, engage targets as available from within the shooting area." },
+  {
+    "stage_classifiercode": "20-03", "stage_name": "Deja Vu All Over Again",
+    "stage_scoretype": "Comstock", "stage_classictargets": true,
+    "stage_targets": [
+      { "target_number": 1, "target_reqshots": 2 },
+      { "target_number": 2, "target_reqshots": 2 },
+      { "target_number": 3, "target_reqshots": 2 },
+      { "target_number": 4, "target_reqshots": 2 } ],
+    "stage_classifier": true, "stage_poppers": 4, "stage_noshoots": true,
+    "stage_strings": 1,
+    "stage_briefing": "Déjà vu All Over Again is a 12 round, 60-point, Comstock Classifier course. There are 4 USPSA targets, 2 USPSA Poppers, and 2 USPSA Mini-Poppers.\n\nThe handgun start position is standing anywhere in the shooting area, wrists below belt, handgun loaded and holstered.\n\nThe PCC start position is standing anywhere in the shooting area, loaded PCC held in both hands, safety on, stock on belt, muzzle generally downrange.\n\nOn the audible start signal, engage targets as available from within the shooting area." },
+  {
+   "stage_classifiercode" : "19-01", "stage_name" : "HI-Jinx",
+   "stage_scoretype" : "Comstock", "stage_classictargets" : true,
+   "stage_targets" : [ {
+     "target_number" : 1, "target_reqshots" : 2 }, {
+     "target_number" : 2, "target_reqshots" : 2 }, {
+     "target_number" : 3, "target_reqshots" : 2 }, {
+     "target_number" : 4, "target_reqshots" : 2 }, {
+     "target_number" : 5, "target_reqshots" : 2 }, {
+     "target_number" : 6, "target_reqshots" : 2 } ],
+   "stage_classifier" : true, "stage_poppers" : 0, "stage_noshoots" : true,
+   "stage_strings" : 1,
+   "stage_briefing" : "HI Jinx is a 12 round, 60-point, Comstock Short Course. There are 6 USPSA targets. The best 2 hits per cardboard will score.\n\nThe handgun start position is standing anywhere inside the shooting area, wrists below belt with handgun loaded and holstered.\n\nThe PCC start position is standing anywhere inside shooting area, holding loaded PCC with safety on, stock on belt, muzzle pointing downrange.\n\nOn the audible start signal, engage targets as they become available from within the shooting area."},
+ {
+   "stage_classifiercode" : "19-02", "stage_name" : "HI-Way Robbery",
+   "stage_scoretype" : "Comstock", "stage_classictargets" : true,
+   "stage_targets" : [ {
+     "target_number" : 1, "target_reqshots" : 2 }, {
+     "target_number" : 2, "target_reqshots" : 2 }, {
+     "target_number" : 3, "target_reqshots" : 2 }, {
+     "target_number" : 4, "target_reqshots" : 2 } ],
+   "stage_classifier" : true, "stage_poppers" : 4, "stage_noshoots" : true,
+   "stage_strings" : 1,
+   "stage_briefing" : "HI-Way Robbery is a 12 round, 60-point, Comstock Short Course. There are 4 IPSC targets and 4 USPSA poppers. The best 2 hits per cardboard will score and steel must fall to score.\n\nThe handgun start position is standing inside shooting area, facing downrange, heels touching rear fault line, wrists below belt with handgun loaded and holstered.\n\nThe PCC start position is standing inside shooting area, facing downrange, heels touching rear fault line, holding loaded PCC with safety on, stock on belt, and muzzle pointing downrange.\n\nOn the audible start signal, engage targets as they become available from within the shooting area."},
+ {
+   "stage_classifiercode" : "19-03", "stage_name" : "HI'er Love",
+   "stage_scoretype" : "Comstock", "stage_classictargets" : true,
+   "stage_targets" : [ {
+     "target_number" : 1, "target_reqshots" : 2 }, {
+     "target_number" : 2, "target_reqshots" : 2 }, {
+     "target_number" : 3, "target_reqshots" : 2 }, {
+     "target_number" : 4, "target_reqshots" : 2 }, {
+     "target_number" : 5, "target_reqshots" : 2 }, {
+     "target_number" : 6, "target_reqshots" : 2 } ],
+   "stage_classifier" : true, "stage_poppers" : 0, "stage_noshoots" : true,
+   "stage_strings" : 1,
+   "stage_briefing" : "HI'er Love is a 12round, 60-point, Comstock Short Course. There are 6 USPSA targets. The best 2 hits per cardboard will score.The handgun start position is standing inside shooting area with heels touching anywhere on rear fault line, wrists below belt with handgun loaded and holstered.\n\nThe PCC start position is standing inside shooting area with heels touching anywhere on rear fault line, holding loaded PCC with safety on, stock on belt, and muzzle pointing downrange.\n\nOn the audible start signal, engage targets as they become available from within the shooting area."},
+ {
+   "stage_classifiercode" : "19-04", "stage_name" : "HI Cost of Living",
+   "stage_scoretype" : "Comstock", "stage_classictargets" : true,
+   "stage_targets" : [ {
+     "target_number" : 1, "target_reqshots" : 2 }, {
+     "target_number" : 2, "target_reqshots" : 2 }, {
+     "target_number" : 3, "target_reqshots" : 2 }, {
+     "target_number" : 4, "target_reqshots" : 2 }, {
+     "target_number" : 5, "target_reqshots" : 2 }, {
+     "target_number" : 6, "target_reqshots" : 2 }, {
+     "target_number" : 7, "target_reqshots" : 2 } ],
+   "stage_classifier" : true, "stage_poppers" : 0, "stage_noshoots" : true,
+   "stage_strings" : 1,
+   "stage_briefing" : "HI Cost of Living is a 14 round, 70-point, Comstock Medium Course. There are 7 USPSA targets. The best 2 hits per cardboard will score.\n\nThe handgun start position is standing inside shooting area, heels touching mark, wrists below belt with handgun loaded and holstered.\n\nThe PCC start position is standing inside shooting area, heels touching mark, holding loaded PCC with safety on, stock on belt, and muzzle pointing downrange.\n\nOn the audible start signal, engage targets as they become available from within the shooting area."},   
+  {
+    "stage_classifiercode" : "18-01", "stage_name" : "Of Course It Did",
+    "stage_scoretype" : "Virginia", "stage_classictargets" : true,
+    "stage_targets" : [ {
+      "target_number" : 1, "target_reqshots" : 4 }, {
+      "target_number" : 2, "target_reqshots" : 4 }, {
+      "target_number" : 3, "target_reqshots" : 4 }, {
+      "target_number" : 4, "target_reqshots" : 4 }, {
+      "target_number" : 5, "target_reqshots" : 4 }, {
+      "target_number" : 6, "target_reqshots" : 4 } ],
+    "stage_classifier" : true, "stage_poppers" : 0, "stage_noshoots" : false,
+    "stage_strings" : 2,
+    "stage_briefing" : "Of Course It Did is a 24 round, 120-point, Virginia Count Standard Exercise. There are 6 IPSC targets. The best 4 hits per paper will score.\n\nThe handgun start position is standing inside box A or B, facing uprange, toes touching rear of box, wrists above respective shoulders with handgun loaded and holstered.\n\nThe PCC start position is standing inside box A or B, facing downrange, heels touching rear of box holding loaded PCC with safety on, stock on belt, and muzzle pointing downrange.\n\nString 1: On the audible start signal, engage each target with only one round each from start box, perform a mandatory reload, and engage each target with only one round each from the opposite box, strong hand only.\n\nString 2: On the audible start signal, engage each target with only one round each from start bo x, perform a mandatory reload, and engage each target with only one round each from the opposite box, weak hand only."},
+  {
+    "stage_classifiercode" : "18-02", "stage_name" : "What Is With You People",
+    "stage_scoretype" : "Comstock", "stage_classictargets" : true,
+    "stage_targets" : [ {
+      "target_number" : 1, "target_reqshots" : 2 }, {
+      "target_number" : 2, "target_reqshots" : 2 }, {
+      "target_number" : 3, "target_reqshots" : 2 }, {
+      "target_number" : 4, "target_reqshots" : 2 }, {
+      "target_number" : 5, "target_reqshots" : 2 }, {
+      "target_number" : 6, "target_reqshots" : 2 } ],
+    "stage_classifier" : true, "stage_poppers" : 0, "stage_noshoots" : false,
+    "stage_strings" : 1,
+    "stage_briefing" : "What Is With You People is a 12 round, 60-point, Comstock Speed Shoot. There are 6 USPSA targets. The best 2 hits per paper will score.\n\nThe handgun start position is standing inside shooting area, facing downrange, wrists below belt with handgun loaded and holstered.\n\nThe PCC start position is standing inside shooting area, facing downrange, holding loaded PCC with safety on, stock on belt, and muzzle pointing downrange.\n\nOn the audible start signal from within shooting area, engage T1-T3 or T4-T6, perform a mandatory reload, and engage remaining targets."},
+  {
+    "stage_classifiercode" : "18-03", "stage_name" : "We Play Games",
+    "stage_scoretype" : "Virginia", "stage_classictargets" : true,
+    "stage_targets" : [ {
+      "target_number" : 1, "target_reqshots" : 4 }, {
+      "target_number" : 2, "target_reqshots" : 4 }, {
+      "target_number" : 3, "target_reqshots" : 4 }, {
+      "target_number" : 4, "target_reqshots" : 4 }, {
+      "target_number" : 5, "target_reqshots" : 4 }, {
+      "target_number" : 6, "target_reqshots" : 4 } ],
+    "stage_classifier" : true, "stage_poppers" : 0, "stage_noshoots" : false,
+    "stage_strings" : 2,
+    "stage_briefing" : "We Play Games is a 24 round, 120-point, Virginia Count Standard Exercise. There are 6 IPSC targets. The best 4 hits per paper will score.\n\nThe handgun start position is standing inside appropriate shooting area, facing downrange, wrists above respective shoulders with handgun loaded and holstered.\n\nThe PCC start position is standing inside appropriate shooting area, facing downrange, h olding loaded PCC with safety on, stock on belt, and muzzle pointing downrange.\n\nString 1: On the audible start signal, from shooting box A, engage each target with only one round each freestyle, perform a mandatory reload, and engage each target with only one round each from shooting box B, strong hand only.\n\nString 2: On the audible start signal, from shooting box B, engage each target with only one round each freestyle, perform a mandatory reload, and engage each target with only one round each from shooting box C, weak hand only."},
+  {
+    "stage_classifiercode" : "18-04", "stage_name" : "Didn't You Send The Mailman",
+    "stage_scoretype" : "Virginia", "stage_classictargets" : true,
+    "stage_targets" : [ {
+      "target_number" : 1, "target_reqshots" : 2 }, {
+      "target_number" : 2, "target_reqshots" : 2 }, {
+      "target_number" : 3, "target_reqshots" : 2 } ],
+    "stage_classifier" : true, "stage_poppers" : 0, "stage_noshoots" : true,
+    "stage_strings" : 1,
+    "stage_briefing" : "Didn't You Send the Mailman is a 6 round, 30-point, Virginia Count Speed Shoot. There are 3 USPSA targets. The best 2 hits per paper will score.\n\nThe handgun start position is seated in chair, hands on knees, with handgun loaded and holstered.\n\nThe PCC start position is seated in chair, holding loaded and shouldered PCC with safety on and muzzle pointing downrange.\n\nOn the audible start signal from within the shooting area engage T1 with only 2 rounds, perform a mandatory reload, and engage remaining targets with only two rounds each. T1 is the center target."},
+  {
+    "stage_classifiercode" : "18-05", "stage_name" : "No Need To Believe In Either Side",
+    "stage_scoretype" : "Comstock", "stage_classictargets" : true,
+    "stage_targets" : [ {
+      "target_number" : 1, "target_reqshots" : 2 }, {
+      "target_number" : 2, "target_reqshots" : 2 }, {
+      "target_number" : 3, "target_reqshots" : 2 }, {
+      "target_number" : 4, "target_reqshots" : 2 }, {
+      "target_number" : 5, "target_reqshots" : 2 }, {
+      "target_number" : 6, "target_reqshots" : 2 } ],
+    "stage_classifier" : true, "stage_poppers" : 4, "stage_noshoots" : true,
+    "stage_strings" : 1,
+    "stage_briefing" : "No Need to Believe in Either Side is a 16 round, 80-point, Comstock Speed Shoot. There are 6 USPSA targets and 4 USPSA Mini poppers. The best 2 hits per paper will score and steel must fall to score.\n\nThe handgun start position is standing inside shooting area, wrists below belt with handgun loaded and holstered.\n\nThe PCC start position is standing inside shooting area, holding loaded PCC with safety on, stock on belt, and muzzle pointing downrange.\n\nOn the audible start signal from within shooting area, engage T1-T2 and P1-P4 or T3-T6, perform a mandatory reload between arrays and engage remaining targets. You may engage arrays in any order."},
+  {
+    "stage_classifiercode" : "18-06", "stage_name" : "For That Day",
+    "stage_scoretype" : "Virginia", "stage_classictargets" : true,
+    "stage_targets" : [ {
+      "target_number" : 1, "target_reqshots" : 6 }, {
+      "target_number" : 2, "target_reqshots" : 6 }, {
+      "target_number" : 3, "target_reqshots" : 6 } ],
+    "stage_classifier" : true, "stage_poppers" : 0, "stage_noshoots" : true,
+    "stage_strings" : 2,
+    "stage_briefing" : "For That Day is an 18 round, 90-point, Virginia Count Standard Exercise. There are 3 USPSA targets. The best 6 hits per paper will score.\n\nThe handgun start position is standing inside shooting area, wrists above respective shoulders with handgun loaded and holstered.\n\nThe PCC start position is standing inside shooting area, holding loaded PCC with safety on, weak hand on forearm, strong hand below belt, and muzzle pointing downrange.\n\nString 1: On the audible start signal from within shooting area, engage T1 with only 6 rounds freestyle, perform a mandatory reload, and engage T3 with only 6 rounds, strong hand only.\n\nString 2: On the audible start signal from within shooting area, engage T2 with only 3 rounds freestyle, perform a mandatory reload, and engage T2 with only 3 rounds, weak hand only."},
+  {
+    "stage_classifiercode" : "18-07", "stage_name" : "Someone Is Always Willing To Pay",
+    "stage_scoretype" : "Comstock", "stage_classictargets" : true,
+    "stage_targets" : [ {
+      "target_number" : 1, "target_reqshots" : 2 }, {
+      "target_number" : 2, "target_reqshots" : 2 }, {
+      "target_number" : 3, "target_reqshots" : 2 } ],
+    "stage_classifier" : true, "stage_poppers" : 2, "stage_noshoots" : true,
+    "stage_strings" : 1,
+    "stage_briefing" : "Someone is Always Willing to Pay is an 8 round, 40-point, Comstock Speed Shoot. There are 3 USPSA targets and 2 USPSA Mini poppers. The best 2 hits per paper will score and steel must fall to score.\n\nThe handgun start position is standing inside shooting area, facing downrange, wrists below belt with handgun loaded and holstered.\n\nThe PCC start position is standing inside shooting area, facing downrange, holding loaded PCC with safety on, stock on belt, and muzzle pointing downrange.\n\nOn the audible start signal from within shooting area, engage PP1 & PP2 or T1-T3, perform a mandatory reload, and engage remaining targets."},
+  {
+    "stage_classifiercode" : "18-08", "stage_name" : "The Condor",
+    "stage_scoretype" : "Virginia", "stage_classictargets" : true,
+    "stage_targets" : [ {
+      "target_number" : 1, "target_reqshots" : 2 }, {
+      "target_number" : 2, "target_reqshots" : 2 }, {
+      "target_number" : 3, "target_reqshots" : 2 }, {
+      "target_number" : 4, "target_reqshots" : 2 }, {
+      "target_number" : 5, "target_reqshots" : 2 }, {
+      "target_number" : 6, "target_reqshots" : 2 }, {
+      "target_number" : 7, "target_reqshots" : 2 }, {
+      "target_number" : 8, "target_reqshots" : 2 } ],
+    "stage_classifier" : true, "stage_poppers" : 0, "stage_noshoots" : true,
+    "stage_strings" : 2,
+    "stage_briefing" : "The Condor is a 16 round, 80-point, Virginia Count Standard Exercise. There are 8 USPSA targets. The best 2 hits per paper will score.\n\nThe handgun start position is standing inside either designated shooting area, facing uprange, wrists above respective shoulders with handgun loaded and holstered.\n\nThe PCC start position is standing inside either designated shooting area, holding loaded PCC with safety on, weak hand on forearm, strong hand below belt, and muzzle pointing downrange.\n\nString 1: On the audible start signal, engage T1 -T4 from box A with only 1 round per target, perform a mandatory reload, and engage T5-T8 from box B with only 1 round per target.\n\nString 2: On the audible start signal, engage T5 -T8 from box B with only 1 round per target, perform a mandatory reload, and engage T1-T4 from box A with only 1 round per target."},
+  {
+    "stage_classifiercode" : "18-09", "stage_name" : "I Miss That Kind of Clarity",
+    "stage_scoretype" : "Virginia", "stage_classictargets" : true,
+    "stage_targets" : [ {
+      "target_number" : 1, "target_reqshots" : 4 }, {
+      "target_number" : 2, "target_reqshots" : 4 }, {
+      "target_number" : 3, "target_reqshots" : 4 }, {
+      "target_number" : 4, "target_reqshots" : 4 }, {
+      "target_number" : 5, "target_reqshots" : 4 }, {
+      "target_number" : 6, "target_reqshots" : 4 } ],
+    "stage_classifier" : true, "stage_poppers" : 0, "stage_noshoots" : true,
+    "stage_strings" : 2,
+    "stage_briefing" : "I Miss That Kind of Clarity is a 24 round, 120-point, Virginia Count Standard Exercise. There are 6 USPSA targets. The best 4 hits per paper will score.\n\nThe handgun start position is standing inside shooting area, with heels on rear fault line for String 1 and toes on front fault line for String 2, hands relaxed at sides with handgun loaded and holstered.\n\nThe PCC start position is standing inside shooting area, with heels on rear fault line for String 1 and toes on front fault line for String 2, holding loaded PCC with safety on, buttstock on belt, and muzzle pointing downrange.\n\nStrings 1 and 2: On the audible start signal, engage any 3 targets with only 2 rounds each, perform a mandatory reload, and engage remaining 3 targets with only 2 rounds each from within the shooting area."},
+  {
+    "stage_classifiercode" : "13-01", "stage_name" : "Disaster Factor",
+    "stage_scoretype" : "Virginia", "stage_classictargets" : true,
+    "stage_targets" : [ {
+      "target_number" : 1, "target_reqshots" : 2 }, {
+      "target_number" : 2, "target_reqshots" : 2 }, {
+      "target_number" : 3, "target_reqshots" : 2 }, {
+      "target_number" : 4, "target_reqshots" : 2 }, {
+      "target_number" : 5, "target_reqshots" : 2 }, {
+      "target_number" : 6, "target_reqshots" : 2 } ],
+    "stage_classifier" : true, "stage_poppers" : 0, "stage_noshoots" : true,
+    "stage_strings" : 1,
+    "stage_briefing" : "Disaster Factor is a 12 round, 60 point Virginia Count classifier course. There are 6 Metric targets. The best 2 hits per target will score. The start signal is audible.\n\nThe start position is standing inside the fault lines, facing uprange with your wrists above your respective shoulders, toes touching the marks. Your gun will be loaded and holstered. PCC start position is standing inside the fault lines, facing downrange, stock on belt, muzzle downrange, loaded carbine held in both hands with safety on.\n\nOn the start signal, turn then draw and engage either the upper or lower three target array with only 2 rounds per target, make a mandatory reload and engage the other 3 target array with only 2 rounds per target while remaining in the shooting area. No turn for PCC.\n\nYou may engage the targets in each array in any order, but must make a reload before changing arrays."},
+  {
+    "stage_classifiercode" : "13-02", "stage_name" : "Down The Middle",
+    "stage_scoretype" : "Virginia", "stage_classictargets" : true,
+    "stage_targets" : [ {
+      "target_number" : 1, "target_reqshots" : 2 }, {
+      "target_number" : 2, "target_reqshots" : 2 }, {
+      "target_number" : 3, "target_reqshots" : 2 }, {
+      "target_number" : 4, "target_reqshots" : 2 } ],
+    "stage_classifier" : true, "stage_poppers" : 0, "stage_noshoots" : false,
+    "stage_strings" : 1,
+    "stage_briefing" : "Down the Middle is an 8 round, 40 point Virginia Count classifier course. There are 4 Classic targets. Best two hits per target will score. The start signal is audible.\n\nThe start position is standing inside Box A, hands naturally at sides, facing downrange. Your handgun is loaded and holstered. PCC start position is standing inside Box A, facing downrange, loaded carbine held in both hands with stock on belt, muzzle downrange, safety on.\n\nUpon the audible signal, from within Box A, engage each target with two rounds only."
+  },
+  {
+    "stage_classifiercode" : "13-03",
+    "stage_name" : "Short Sprint Standards", "stage_scoretype" : "Virginia",
+    "stage_classictargets" : true, "stage_targets" : [ {
+      "target_number" : 1, "target_reqshots" : 4 }, {
+      "target_number" : 2, "target_reqshots" : 4 }, {
+      "target_number" : 3, "target_reqshots" : 4 }, {
+      "target_number" : 4, "target_reqshots" : 4 }, {
+      "target_number" : 5, "target_reqshots" : 4 }, {
+      "target_number" : 6, "target_reqshots" : 4 } ],
+    "stage_classifier" : true, "stage_poppers" : 0, "stage_noshoots" : true,
+    "stage_strings" : 2,
+    "stage_briefing" : "Short Sprint Standards is a 24-round, 120-point Virginia Count Classifier course. There are six Metric targets. The best four hits per target will score. The Start signal is audible.\n\nThe start position is standing in Box A or B, facing downrange, arms hanging naturally at sides. PCC start position is standing in Box A or B, facing downrange, stock on belt, muzzle downrange, loaded carbine held in both hands with safety on.\n\nString 1 - Upon start signal, from Box A only, engage all targets with only one round each, make a mandatory reload, then from Box B only engage all targets with only one round each, strong hand only. PCC: Strong shoulder only.\n\nString 2 - Upon start signal, from Box B only, engage all targets with only one round each, make a mandatory reload, then from Box C only, engage all targets with only one round each, weak hand only. PCC: Weak shoulder only."  
+  },
+  {
+    "stage_classifiercode" : "13-04", "stage_name" : "The Roscoe Rattle",
+    "stage_scoretype" : "Virginia", "stage_classictargets" : true,
+    "stage_targets" : [ {
+      "target_number" : 1, "target_reqshots" : 6 }, {
+      "target_number" : 2, "target_reqshots" : 6 }, {
+      "target_number" : 3, "target_reqshots" : 6 } ],
+    "stage_classifier" : true, "stage_poppers" : 0, "stage_noshoots" : true,
+    "stage_strings" : 2,
+    "stage_briefing" : "The Roscoe Rattle is an 18 round, 90 point Virginia Count Classifier course. There are three Metric targets. The best six hits per target will score. The start signal is audible.\n\nThe start position is standing in Box A, facing uprange, fingers touching head above ears. PCC start position is standing in Box A, facing downrange, stock on belt, muzzle downrange, loaded carbine held in both hands with safety on.\n\nString 1: On signal, from Box A only, turn and engage T2 with only 6 rounds.\n\nString 2: On signal, from Box A only, turn and engage T1 with only 6 rounds, then make a mandatory reload, then engage T3 with only six rounds. No turn for PCC."},
+  {
+    "stage_classifiercode" : "13-05", "stage_name" : "Tick-Tock",
+    "stage_scoretype" : "Virginia", "stage_classictargets" : true,
+    "stage_targets" : [ {
+      "target_number" : 1, "target_reqshots" : 4 }, {
+      "target_number" : 2, "target_reqshots" : 4 }, {
+      "target_number" : 3, "target_reqshots" : 4 }, {
+      "target_number" : 4, "target_reqshots" : 4 } ],
+    "stage_classifier" : true, "stage_poppers" : 0, "stage_noshoots" : true,
+    "stage_strings" : 1,
+    "stage_briefing" : "Tick-Tock is a 16 round, 80 point Virginia Count Classifier course. There are four Metric targets. The best four hits per target will score. The Start signal is audible.\n\nThe start position is standing outside the fault lines, toes touching marks, facing downrange, wrists above respective shoulders. Your gun will be unloaded, flat and unpropped on table, muzzle downrange, trigger guard centered on mark. All magazines to be used on the stage must be placed on the table. PCC: No change.\n\nUpon start signal, from within the fault lines, engage T1-T4 with only two rounds each, make a mandatory reload using a magazine from the table only, then engage T1-T4 with only two rounds each. All reloads must be made using a magazine from the table only. Using magazines from mag pouches is not allowed."},
+  {
+    "stage_classifiercode" : "13-06", "stage_name" : "Too Close For Comfort",
+    "stage_scoretype" : "Virginia", "stage_classictargets" : true,
+    "stage_targets" : [ {
+      "target_number" : 1, "target_reqshots" : 2 }, {
+      "target_number" : 2, "target_reqshots" : 2 }, {
+      "target_number" : 3, "target_reqshots" : 2 }, {
+      "target_number" : 4, "target_reqshots" : 2 }, {
+      "target_number" : 5, "target_reqshots" : 2 } ],
+    "stage_classifier" : true, "stage_poppers" : 0, "stage_noshoots" : false,
+    "stage_strings" : 1,
+    "stage_briefing" : "Too Close for Comfort is a 10 round, 50 point Virginia Count classifier course. There are 5 Metric targets. The best 2 hits per target will score. The start signal is audible.\n\nThe start position is standing within the fault lines, facing down range with your hands relaxed at your sides. Your gun will be loaded and holstered. PCC start position is standing within the fault lines, facing downrange, stock on belt, muzzle downrange, loaded carbine held in both hands with safety on.\n\nOn the start signal, engage T1-T5 with only one round, make a mandatory reload and engage T1-T5 with only one round from within the fault lines."},
+  {
+    "stage_classifiercode" : "13-07", "stage_name" : "Double Deal 2",
+    "stage_scoretype" : "Comstock", "stage_classictargets" : true,
+    "stage_targets" : [ {
+      "target_number" : 1, "target_reqshots" : 2 }, {
+      "target_number" : 2, "target_reqshots" : 2 }, {
+      "target_number" : 3, "target_reqshots" : 2 } ],
+    "stage_classifier" : true, "stage_poppers" : 2, "stage_noshoots" : true,
+    "stage_strings" : 1,
+    "stage_briefing" : "Double Deal 2 is an 8 round, 40-point Comstock Classifier course. There are 3 metric targets and 2 mini-poppers. The best 2 hits per target will score, steel must fall to score. The start signal is audible.\n\nThe start position is sitting at the table. You will be holding a set of playing cards using both hands, with your elbows resting on the table. Your gun will be loaded and on the table, muzzle downrange. The gun may not be propped up in any way. PCC: No change.\n\nOn the start signal, engage targets while remaining within the fault lines."},
+  {
+    "stage_classifiercode" : "13-08", "stage_name" : "More Disaster Factor",
+    "stage_scoretype" : "Virginia", "stage_classictargets" : true,
+    "stage_targets" : [ {
+      "target_number" : 1, "target_reqshots" : 2 }, {
+      "target_number" : 2, "target_reqshots" : 2 }, {
+      "target_number" : 3, "target_reqshots" : 2 }, {
+      "target_number" : 4, "target_reqshots" : 2 }, {
+      "target_number" : 5, "target_reqshots" : 2 }, {
+      "target_number" : 6, "target_reqshots" : 2 } ],
+    "stage_classifier" : true, "stage_poppers" : 0, "stage_noshoots" : true,
+    "stage_strings" : 1,
+    "stage_briefing" : "More Disaster Factor is a 12 round, 60 point Virginia Count classifier course.\n\nThere are 6 Metric targets. The best 2 hits per target will score. The start signal is audible.\n\nThe start position is standing within the fault lines, facing down range with your heels touching the marks. Your gun will be loaded and holstered. PCC start position is standing within the fault lines, facing downrange, stock on belt, muzzle downrange, loaded carbine held in both hands with safety on.\n\nOn the start signal, engage either the upper or lower three target array with only 2 rounds per target, make a mandatory reload and engage the other 3 target array with only 2 rounds per target while remaining within the fault lines. Arrays may be engaged in any order." },
+  {
+    "stage_classifiercode" : "13-09", "stage_name" : "Window Pain",
+    "stage_scoretype" : "Comstock", "stage_classictargets" : true,
+    "stage_targets" : [ {
+      "target_number" : 1, "target_reqshots" : 2 }, {
+      "target_number" : 2, "target_reqshots" : 2 }, {
+      "target_number" : 3, "target_reqshots" : 2 }, {
+      "target_number" : 4, "target_reqshots" : 2 }, {
+      "target_number" : 5, "target_reqshots" : 2 }, {
+      "target_number" : 6, "target_reqshots" : 2 } ],
+    "stage_classifier" : true, "stage_poppers" : 2, "stage_noshoots" : true,
+    "stage_strings" : 1,
+    "stage_briefing" : "Window Pain is a 14 round, 70-point Comstock classifier course. There are 6 Metric targets and 2 Pepper poppers. The best 2 hits per target will score, steel must fall to score. The start signal is audible.\n\nThe start position is standing inside the fault lines with your heels against the marks, fingers interlaced on the back of your head. Your gun will be loaded and holstered. PCC start position is standing inside the fault lines, heels against the marks, facing downrange, stock on belt, muzzle downrange, loaded carbine held in both hands with safety on.\n\nOn the start signal, engage targets while remaining in the fault lines." },
+  {
+    "stage_classifiercode" : "09-01", "stage_name" : "Six In Six Challenge",
+    "stage_scoretype" : "Fixed", "stage_classictargets" : true,
+    "stage_targets" : [ {
+      "target_number" : 1, "target_reqshots" : 8 }, {
+      "target_number" : 2, "target_reqshots" : 8 }, {
+      "target_number" : 3, "target_reqshots" : 8 } ],
+    "stage_classifier" : true, "stage_poppers" : 0, "stage_noshoots" : false,
+    "stage_strings" : 3, "stage_maxstringtime": 6,
+    "stage_briefing" : "Six in Six Challenge is a 24 round, 120 point Fixed Time Standards shot in three strings. There are 3 Metric targets. The best 8 hits per target will score. The start signal is audible and the stop signal is audible. All strings are 6 seconds.\n\nThe start position is standing behind the appropriate fault line facing downrange with your hands relaxed at your sides. Your gun will be loaded and holstered. PCC start position is standing behind the appropriate fault line, facing downrange, stock on belt, muzzle downrange, loaded carbine held in both hands with safety on.\n\nString 1 from 25-yards: On the start signal, engage each target with only two rounds each freestyle, make a mandatory reload and reengage each target with only two rounds each, freestyle.\n\nString 2 from 15 yards: On the start signal, engage each target with only two rounds each strong hand only. PCC: strong shoulder only.\n\nString 3 from 10 yards: On the start signal, engage each target with only two rounds each weak hand only. PCC: weak shoulder only." },
+  {
+    "stage_classifiercode" : "09-02", "stage_name" : "Diamond Cutter",
+    "stage_scoretype" : "Virginia", "stage_classictargets" : true,
+    "stage_targets" : [ {
+      "target_number" : 1, "target_reqshots" : 2 }, {
+      "target_number" : 2, "target_reqshots" : 2 }, {
+      "target_number" : 3, "target_reqshots" : 2 }, {
+      "target_number" : 4, "target_reqshots" : 2 } ],
+    "stage_classifier" : true, "stage_poppers" : 0, "stage_noshoots" : true,
+    "stage_strings" : 1,
+    "stage_briefing" : "Diamond Cutter is an 8 round, 40 point Virginia Count Short classifier course. There are 4 Metric targets. The best two hits per target will score. The start signal is audible.\n\nThe start position is standing in box A facing uprange with your toes against the marks on the back of the box. Your hands will be relaxed at your sides. Your gun will be loaded and holstered. PCC start position is standing in Box A, facing downrange, stock on belt, muzzle downrange, loaded carbine held in both hands with safety on.\n\nOn the start signal, turn then draw and engage each target with only 2 rounds each from within the fault lines. No turn for PCC." },
+  {
+    "stage_classifiercode" : "09-03", "stage_name" : "Oh No",
+    "stage_scoretype" : "Virginia", "stage_classictargets" : true,
+    "stage_targets" : [ {
+      "target_number" : 1, "target_reqshots" : 4 }, {
+      "target_number" : 2, "target_reqshots" : 4 }, {
+      "target_number" : 3, "target_reqshots" : 4 } ],
+    "stage_classifier" : true, "stage_poppers" : 0, "stage_noshoots" : true,
+    "stage_strings" : 2,
+    "stage_briefing" : "Oh No is a 12 round, 60 point Virginia Count Standards shot in two strings. There are 3 Metric targets. The best 4 hits per target will score. The start signal is audible.\n\nThe start position is standing inside the fault lines, behind the table, facing downrange with your hands relaxed at your sides. Your gun will be loaded and placed flat on the table muzzle down range with all extra ammo. Your gun may not be propped up in any manner. (Same for PCC)\n\nString 1: On the start signal, engage each target with only 2 rounds freestyle, from within the fault lines.\n\nString 2: On the start signal, draw and engage each target with only 2 rounds freestyle, from within the fault lines." },
+  {
+    "stage_classifiercode" : "09-04", "stage_name" : "Pucker Factor",
+    "stage_scoretype" : "Virginia", "stage_classictargets" : true,
+    "stage_targets" : [ {
+      "target_number" : 1, "target_reqshots" : 2 }, {
+      "target_number" : 2, "target_reqshots" : 2 }, {
+      "target_number" : 3, "target_reqshots" : 2 }, {
+      "target_number" : 4, "target_reqshots" : 2 } ],
+    "stage_classifier" : true, "stage_poppers" : 0, "stage_noshoots" : false,
+    "stage_strings" : 1,
+    "stage_briefing" : "Pucker Factor is an 8 round, 40 point Virginia Count Short classifier course. There are 4 Metric targets. The best 2 hits per target will score. The start signal is audible.\n\nYour start position is standing within the fault lines, facing downrange, your hands relaxed at your sides. Your gun will be loaded and holstered. PCC start position is standing within the fault lines, facing downrange, stock on belt, muzzle downrange, loaded carbine held in both hands with safety on.\n\nOn the start signal, draw and engage each target with only 2 rounds each, freestyle, while remaining within the fault lines." },
+  {
+    "stage_classifiercode" : "09-05", "stage_name" : "Quad Standards",
+    "stage_scoretype" : "Fixed", "stage_classictargets" : true,
+    "stage_targets" : [ {
+      "target_number" : 1, "target_reqshots" : 6 }, {
+      "target_number" : 2, "target_reqshots" : 6 }, {
+      "target_number" : 3, "target_reqshots" : 6 }, {
+      "target_number" : 4, "target_reqshots" : 6 } ],
+    "stage_classifier" : true, "stage_poppers" : 0, "stage_noshoots" : false,
+    "stage_strings" : 3, "stage_maxstringtime": 7,
+    "stage_briefing" : "Quad Standards is a 24 round, 120 point Fixed Time Standards shot in three strings. There are 4 Metric targets. The best 6 hits per target will score. The start signal is audible, the stop signal is audible. (Or, can be visual) All strings will be 7 seconds.\n\nThe start position is standing behind the appropriate fault line facing downrange with your wrists above your respective shoulders. Your gun will be loaded and holstered. PCC start position is standing behind the appropriate fault line, facing downrange, stock on belt, muzzle downrange, loaded carbine held in both hands with safety on.\n\nString 1, 40-yards: On the start signal, engage each target with only one round each freestyle, make a mandatory reload and reengage each target with only one round each, freestyle.\n\nString 2, 25 yards: On the start signal, engage each target with only one round each freestyle, make a mandatory reload and reengage each target with only one rounds each strong hand only. PCC: strong shoulder only.\n\nString 3,15 yards: On the start signal, engage each target with only one round each freestyle, make a mandatory reload and reengage each target with only one rounds each weak hand only. PCC: weak shoulder only." },
+  {
+    "stage_classifiercode" : "09-06", "stage_name" : "Quad Standards 2",
+    "stage_scoretype" : "Fixed", "stage_classictargets" : true,
+    "stage_targets" : [ {
+      "target_number" : 1, "target_reqshots" : 6 }, {
+      "target_number" : 2, "target_reqshots" : 6 }, {
+      "target_number" : 3, "target_reqshots" : 6 }, {
+      "target_number" : 4, "target_reqshots" : 6 } ],
+    "stage_classifier" : true, "stage_noshoots" : false,
+    "stage_strings" : 3, "stage_maxstringtime": 7,
+    "stage_briefing" : "Quad Standards 2 is a 24 round, 120 point Fixed Time Standards shot in three strings. There are 4 Classic targets. The best 6 hits per target will score. The start signal is audible, the stop signal is audible. (Or, can be visual) All strings will be 7 seconds.\n\nThe start position is standing behind the appropriate fault line facing downrange with your wrists above your respective shoulders. Your gun will be loaded and holstered. PCC start position is standing behind the appropriate fault line, facing downrange, stock on belt, muzzle downrange, loaded carbine held in both hands with safety on.\n\nString 1, 40-yards: On the start signal, engage each target with only one round each freestyle, make a mandatory reload and reengage each target with only one round each, freestyle.\n\nString 2, 25 yards: On the start signal, engage each target with only one round each freestyle, make a mandatory reload and reengage each target with only one rounds each strong hand only. PCC: strong shoulder only.\n\nString 3, 15 yards: On the start signal, engage each target with only one round each freestyle, make a mandatory reload and reengage each target with only one rounds each weak hand only. PCC: weak shoulder only." },
+  {
+    "stage_classifiercode" : "09-07",
+    "stage_name" : "It's Not Brain Surgery", "stage_scoretype" : "Comstock",
+    "stage_classictargets" : true, "stage_targets" : [ {
+      "target_number" : 1, "target_reqshots" : 2 }, {
+      "target_number" : 2, "target_reqshots" : 2 }, {
+      "target_number" : 3, "target_reqshots" : 2 } ],
+    "stage_classifier" : true, "stage_poppers" : 0, "stage_noshoots" : true,
+    "stage_strings" : 1,
+    "stage_briefing" : "It's Not Brain Surgery is a 6 round, 30-point Comstock Short Course. There are 3 Metric targets. The best 2 hits per target will score. The start signal is audible.\n\nThe start position will be seated on the chair, back against chair back, with your fingers laced behind your head. Your gun will be loaded and placed completely on the table, muzzle downrange. The gun must be lying flat and not propped up in any manner. PCC: Same start position, loaded carbine—may extend past front of table, (i.e., downrange) but may not extend beyond the rear edge of the table.\n\nOn the start signal, engage targets from within the fault lines" },
+  {
+    "stage_classifiercode" : "09-08", "stage_name" : "Crackerjack",
+    "stage_scoretype" : "Comstock", "stage_classictargets" : true,
+    "stage_targets" : [ {
+      "target_number" : 1, "target_reqshots" : 2 }, {
+      "target_number" : 2, "target_reqshots" : 2 }, {
+      "target_number" : 3, "target_reqshots" : 2 }, {
+      "target_number" : 4, "target_reqshots" : 2 }, {
+      "target_number" : 5, "target_reqshots" : 2 }, {
+      "target_number" : 6, "target_reqshots" : 2 } ],
+    "stage_classifier" : true, "stage_poppers" : 0, "stage_noshoots" : false,
+    "stage_strings" : 1,
+    "stage_briefing" : "Crackerjack is a 12 round, 60-point Comstock Classifier course. There are 6 Metric targets. The best two hits per target will score. The start signal is audible.\n\nThe start position will be centered within the fault lines. Your hands will be on the marks on the wall. Your gun will be loaded and holstered. PCC start position is standing centered behind the wall, facing downrange, stock on belt, muzzle touching one of the marks, loaded carbine held in both hands with safety on.\n\nOn the start signal, engage targets while remaining in shooting area." },
+  {
+    "stage_classifiercode" : "09-09", "stage_name" : "Lightning And Thunder",
+    "stage_scoretype" : "Fixed", "stage_classictargets" : true,
+    "stage_targets" : [ {
+      "target_number" : 1, "target_reqshots" : 6 }, {
+      "target_number" : 2, "target_reqshots" : 6 }, {
+      "target_number" : 3, "target_reqshots" : 6 } ],
+    "stage_classifier" : true, "stage_poppers" : 0, "stage_noshoots" : false,
+    "stage_strings" : 3, "stage_maxstringtime": 5,
+    "stage_briefing" : "Lightning and Thunder is an 18 round, 90 point Fixed Time Standards shot in three strings. There are 3 Metric targets. The best 6 rounds per target will score. The start signal is audible, the stop signal is audible. (Or, can be visual.) All strings will be 5 seconds.\n\nThe start position is standing behind the appropriate fault line facing downrange with your hands relaxed at your sides. Your gun will be loaded and holstered. PCC start position is standing behind the appropriate fault line, facing downrange, stock on belt, muzzle downrange, loaded carbine held in both hands with safety on.\n\nString 1, 25 yards: On the start signal, engage each target with only two rounds each freestyle.\n\nString 2, 15 yards: On the start signal, engage each target with only one round each make a mandatory reload and reengage each target with only one round each, freestyle.\n\nString 3, 10 yards: On the start signal, engage each target with only two rounds each strong hand only. PCC: Strong shoulder only." },
+  {
+    "stage_classifiercode" : "09-10",
+    "stage_name" : "Life's Little Problems", "stage_scoretype" : "Comstock",
+    "stage_classictargets" : true, "stage_targets" : [ {
+      "target_number" : 1, "target_reqshots" : 2 }, {
+      "target_number" : 2, "target_reqshots" : 2 }, {
+      "target_number" : 3, "target_reqshots" : 2 }, {
+      "target_number" : 4, "target_reqshots" : 2 }, {
+      "target_number" : 5, "target_reqshots" : 2 }, {
+      "target_number" : 6, "target_reqshots" : 2 } ],
+    "stage_classifier" : true, "stage_poppers" : 0, "stage_noshoots" : true,
+    "stage_strings" : 1,
+    "stage_briefing" : "Life's Little Problems is a 12 round, 60-point Comstock Medium classifier course. There are 6 Metric targets. The best two hits per target will score. The start signal is audible.\n\nThe start position will be standing with your heels on the marks with your hands relaxed at your sides. Your gun will be loaded and holstered. PCC start position is standing with heels on the marks, facing downrange, stock on belt, muzzle downrange, loaded carbine held in both hands with safety on.\n\nOn the start signal, engage targets while remaining in shooting area." },
+  {
+    "stage_classifiercode" : "09-11", "stage_name" : "Razor's Edge",
+    "stage_scoretype" : "Virginia", "stage_classictargets" : true,
+    "stage_targets" : [ {
+      "target_number" : 1, "target_reqshots" : 1 }, {
+      "target_number" : 2, "target_reqshots" : 1 }, {
+      "target_number" : 3, "target_reqshots" : 1 }, {
+      "target_number" : 4, "target_reqshots" : 1 }, {
+      "target_number" : 5, "target_reqshots" : 1 }, {
+      "target_number" : 6, "target_reqshots" : 1 } ],
+    "stage_classifier" : true, "stage_poppers" : 0, "stage_noshoots" : true,
+    "stage_strings" : 1,
+    "stage_briefing" : "Razors Edge is a 6 round, 30 point Virginia Count Classifier course. There are 6 Metric targets. The best hit per target will score. The start signal is audible.\n\nThe start position is standing within the fault lines facing downrange, your hands on top of the wall, on the marks. Your gun will be loaded and holstered. PCC start position is standing within the fault lines, facing downrange, muzzle touching one of the marks, loaded carbine held in both hands, unshouldered, with safety on.\n\nOn the start signal, from within the fault lines, engage each target with only 1 round each. All rounds must pass through the port." },
+  {
+    "stage_classifiercode" : "09-13", "stage_name" : "Table Stakes",
+    "stage_scoretype" : "Comstock", "stage_classictargets" : true,
+    "stage_targets" : [ {
+      "target_number" : 1, "target_reqshots" : 2 }, {
+      "target_number" : 2, "target_reqshots" : 2 } ],
+    "stage_classifier" : true, "stage_poppers" : 3, "stage_noshoots" : true,
+    "stage_strings" : 1,
+    "stage_briefing" : "Table Stakes is a 7 round, 35-point Comstock Short Course. There are 2 Metric targets and 3 Pepper poppers. The best two hits per paper will score, steel must fall to score. The start signal is audible.\n\nThe start position will be seated on chair with your back against the chair back, and fingers laced behind your head. Your gun will be unloaded and placed fully on the table, muzzle downrange. The gun must be flat and not propped up in any manner. All ammo to be used for the stage must start on the table. PCC start position is the same. The carbine may not extend past the rear edge of the table, but may extend downrange off the table.\n\nOn the start signal, load and engage targets while remaining in the fault lines." },
+  {
+    "stage_classifiercode" : "09-14", "stage_name" : "Eye Of The Tiger",
+    "stage_scoretype" : "Virginia", "stage_classictargets" : true,
+    "stage_targets" : [ {
+      "target_number" : 1, "target_reqshots" : 2 }, {
+      "target_number" : 2, "target_reqshots" : 2 }, {
+      "target_number" : 3, "target_reqshots" : 2 } ],
+    "stage_classifier" : true, "stage_poppers" : 0, "stage_noshoots" : true,
+    "stage_strings" : 1,
+    "stage_briefing" : "Eye of the Tiger is a 6 round, 30 point Virginia Count Classifier Course. There are 3 Metric targets. The best 2 hits per target will score. The start signal is audible.\n\nThe start position is standing within the fault lines facing directly uprange, toes against the back of the box. Your hands will be hanging relaxed at your sides. Your gun will be loaded and holstered. PCC start position is standing within the fault lines, facing downrange, stock on belt, muzzle downrange, loaded carbine held in both hands with safety on.\n\nOn the start signal, turn then draw and engage each target with only 2 rounds each while remaining in shooting area. No turn for PCC." },
+  {
+    "stage_classifiercode" : "08-01", "stage_name" : "4 Bill Drill",
+    "stage_scoretype" : "Virginia", "stage_classictargets" : true,
+    "stage_targets" : [ {
+      "target_number" : 1, "target_reqshots" : 6 }, {
+      "target_number" : 2, "target_reqshots" : 6 }, {
+      "target_number" : 3, "target_reqshots" : 6 }, {
+      "target_number" : 4, "target_reqshots" : 6 } ],
+    "stage_classifier" : true, "stage_poppers" : 0, "stage_noshoots" : false,
+    "stage_strings" : 2,
+    "stage_briefing" : "4 Bill Drill is a 24 round, 120 point Virginia Count Standards shot in two strings. There are 4 Metric targets. The best 6 hits per target will score. The start signal is audible.\n\nThe start position is standing in Box A facing downrange with your wrists above your respective shoulders. Your gun will be loaded and holstered. PCC start position is standing in Box A, facing downrange, stock on belt, muzzle downrange, loaded carbine held in both hands with safety on.\n\nString 1: On the start signal, from box A, engage one target with only 6 rounds freestyle, make a mandatory reload and engage another target with only 6 rounds strong hand only. PCC: strong shoulder only.\n\nString 2:On the start signal, from box A, engage one target with only 6 rounds freestyle, make a mandatory reload and engage another target with only 6 rounds weak hand unsupported. PCC: weak shoulder only.\n\nTarget engagement order is the shooter's choice as long as you follow the stage procedure." },
+  {
+    "stage_classifiercode" : "08-02", "stage_name" : "Steeler Standards",
+    "stage_scoretype" : "Virginia", "stage_classictargets" : true,
+    "stage_targets" : [ {
+      "target_number" : 1, "target_reqshots" : 5 }, {
+      "target_number" : 2, "target_reqshots" : 5 }, {
+      "target_number" : 3, "target_reqshots" : 5 }, {
+      "target_number" : 4, "target_reqshots" : 5 } ],
+    "stage_classifier" : true, "stage_poppers" : 0, "stage_noshoots" : false,
+    "stage_strings" : 3,
+    "stage_briefing" : "Steeler Standards is a 20 round, 100 point Virginia count standards course. There are 4 classic targets. The best 5 hits per paper will score. The start signal is audible.\n\nThe start position is standing in Box A, wrists above shoulders. Your gun is loaded and holstered. PCC start position is standing in Box A, facing downrange, stock on belt, muzzle downrange, loaded carbine held in both hands with safety on.\n\nString 1: On the start signal, from Box A only, engage T1-T4 with only one round each, freestyle, make a mandatory reload and re-engage T1-T4 with only one round each, freestyle.\n\nString 2: On the start signal, from Box A only, engage T1-T4 with only one round each, freestyle, make a mandatory reload and re-engage T1-T4 with only one round each, strong hand only. PCC: strong shoulder only.\n\nString 3: On the start signal, from Box A only, engage T1-T4 with only one round each, weak hand only. PCC: weak shoulder only." },
+  {
+    "stage_classifiercode" : "08-03", "stage_name" : "Six",
+    "stage_scoretype" : "Comstock", "stage_classictargets" : true,
+    "stage_targets" : [ {
+      "target_number" : 1, "target_reqshots" : 2 }, {
+      "target_number" : 2, "target_reqshots" : 2 } ],
+    "stage_classifier" : true, "stage_poppers" : 2, "stage_noshoots" : false,
+    "stage_strings" : 1,
+    "stage_briefing" : "Six is a 6 round, 30-point Comstock Short Course classifier. There are 2 Metric targets, 1 pepper popper and 1 mini popper. The best two hits per paper target will score, steel must fall to score. The start signal is audible.\n\nThe start position is standing in Box A, facing uprange with wrists above respective shoulders, toes against the marks. Your gun will be loaded and holstered. PCC start position is standing in Box A, facing downrange, stock on belt, muzzle downrange, loaded carbine held in both hands with safety on.\n\nOn the start signal, turn, then draw and engage T1-T2, PP1-PP2 as they become visible from within the fault lines. No turn for PCC." },
+  {
+    "stage_classifiercode" : "08-05",
+    "stage_name" : "Long Range Standards 2", "stage_scoretype" : "Fixed",
+    "stage_classictargets" : true, "stage_targets" : [ {
+      "target_number" : 1, "target_reqshots" : 6 }, {
+      "target_number" : 2, "target_reqshots" : 6 }, {
+      "target_number" : 3, "target_reqshots" : 6 } ],
+    "stage_classifier" : true, "stage_poppers" : 0, "stage_noshoots" : false,
+    "stage_strings" : 3, "stage_maxstringtime": 5,
+    "stage_briefing" : "Long Range Standards II is an 18 round, 90 point, Fixed Time Classifier course. There are 3 metric targets. The best 6 hits per target will score. The start signal is audible, and the stop signal is audible. The time allowed for each string is 5 seconds.\n\nThe start position for each string is standing behind the fault line, facing downrange, hands naturally at your sides. Your gun is loaded and holstered. PCC start position for each string is standing behind the fault line, facing downrange, stock on belt, muzzle downrange, loaded carbine held in both hands with safety on.\n\nString 1: On the start signal, from within the fault lines, engage T1 with 6 rounds only, freestyle.\n\nString 2: On the start signal, from within the fault lines, engage T2 with 6 rounds only, kneeling.\n\nString 3: On the start signal, from within the fault lines, engage T3 with 6 rounds only, prone.\n\nNOTE: Target height may be adjusted for safety reasons. All targets must be placed at the same height." },
+  {
+    "stage_classifiercode" : "08-06", "stage_name" : "Area 4 Standards",
+    "stage_scoretype" : "Fixed", "stage_classictargets" : true,
+    "stage_targets" : [ {
+      "target_number" : 1, "target_reqshots" : 6 }, {
+      "target_number" : 2, "target_reqshots" : 6 }, {
+      "target_number" : 3, "target_reqshots" : 6 } ],
+    "stage_classifier" : true, "stage_poppers" : 0, "stage_noshoots" : false,
+    "stage_strings" : 3, "stage_maxstringtime": 6,
+    "stage_briefing" : "Area 4 Standards is an 18 round, 90 point, Fixed Time Classifier course. There are 3 metric targets. The best 6 hits per target will score. The start signal is audible, and the stop signal is audible. The time allowed for each string is 6 seconds.\n\nThe start position for each string is standing behind the fault line, facing downrange, wrists above your respective shoulders. Your gun is loaded and holstered. PCC start position for each string is standing behind the fault line, facing downrange, stock on belt, muzzle downrange, loaded carbine held in both hands with safety on.\n\nString 1: On the start signal, from behind the fault line, engage T3 with only 6 rounds, freestyle.\n\nString 2: On the start signal, from behind the fault line, engage T2 with only 6 rounds, strong hand only. PCC - Strong shoulder only\n\nString 3: On the start signal, from behind the fault line, engage T1 with only 6 rounds, weak hand only. PCC - Weak Shoulder only" },
+  {
+    "stage_classifiercode" : "06-01", "stage_name" : "Big Barricade",
+    "stage_scoretype" : "Comstock", "stage_classictargets" : true,
+    "stage_targets" : [ {
+      "target_number" : 1, "target_reqshots" : 2 }, {
+      "target_number" : 2, "target_reqshots" : 2 }, {
+      "target_number" : 3, "target_reqshots" : 2 }, {
+      "target_number" : 4, "target_reqshots" : 2 }, {
+      "target_number" : 5, "target_reqshots" : 2 }, {
+      "target_number" : 6, "target_reqshots" : 2 }, {
+      "target_number" : 7, "target_reqshots" : 2 } ],
+    "stage_classifier" : true, "stage_poppers" : 0, "stage_noshoots" : true,
+    "stage_strings" : 1,
+    "stage_briefing" : "Big Barricade is a 14 round, 70 point, Comstock classifier course. There are 7 metric targets. The best 2 hits per paper will score. The start signal is audible.\n\nThe start position is standing behind the barricade, facing downrange, hands on X's. Your handgun is loaded and holstered. PCC start position is standing behind the barricade, facing downrange, loaded carbine held in both hands with stock on belt, muzzle touching mark in center of barricade, safety on.\n\nOn the audible start signal, engage targets from within the fault lines.\n\nNote: The mark for PCC is 3 feet above ground, centered on barricade." },
+  {
+    "stage_classifiercode" : "06-02", "stage_name" : "Big Barricade II",
+    "stage_scoretype" : "Comstock", "stage_classictargets" : true,
+    "stage_targets" : [ {
+      "target_number" : 1, "target_reqshots" : 2 }, {
+      "target_number" : 2, "target_reqshots" : 2 }, {
+      "target_number" : 3, "target_reqshots" : 2 }, {
+      "target_number" : 4, "target_reqshots" : 2 }, {
+      "target_number" : 5, "target_reqshots" : 2 }, {
+      "target_number" : 6, "target_reqshots" : 2 } ],
+    "stage_classifier" : true, "stage_poppers" : 4, "stage_noshoots" : true,
+    "stage_strings" : 1,
+    "stage_briefing" : "Big Barricade II is a 16 round, 80 point Comstock classifier course. There are 6 metric targets and 4 Mini poppers. The best 2 hits per paper will score, steel must fall to score. The start signal is audible.\n\nThe start position is standing behind the barricade, facing downrange, hands on X's. Your handgun is loaded and holstered. PCC: Start position is standing in Box A, facing downrange, loaded carbine held in both hands with stock on belt, muzzle touching mark, safety on.\n\nOn the audible start signal, engage targets from within the fault lines.\n\nNote: The mark for PCC is 3 feet above ground, centered on the barricade." },
+  {
+    "stage_classifiercode" : "06-03", "stage_name" : "Can You Count",
+    "stage_scoretype" : "Virginia", "stage_classictargets" : true,
+    "stage_targets" : [ {
+      "target_number" : 1, "target_reqshots" : 5 }, {
+      "target_number" : 2, "target_reqshots" : 5 }, {
+      "target_number" : 3, "target_reqshots" : 5 }, {
+      "target_number" : 4, "target_reqshots" : 5 } ],
+    "stage_classifier" : true, "stage_poppers" : 0, "stage_noshoots" : true,
+    "stage_strings" : 2,
+    "stage_briefing" : "Can You Count is a 20 round, 100 point Virginia count classifier course. There are 4 metric targets. The best 5 hits per paper will score. The start signal is audible.\n\nThe start position is standing in Box A, facing downrange, hands naturally at your side. Your handgun is loaded and holstered. PCC start position is standing in Box A, facing downrange, stock on belt, muzzle downrange, loaded carbine held in both hands with safety on.\n\nOn the audible start signal from within the fault lines:\n\nString 1: Engage T1 with 5 rounds only, perform a mandatory reload and engage T2 with 5 rounds only.\n\nString 2: Engage T3 with 5 rounds only, perform a mandatory reload and engage T4 with 5 rounds only." },
+  {
+    "stage_classifiercode" : "06-04", "stage_name" : "Fluffy's Revenge 1",
+    "stage_scoretype" : "Comstock", "stage_classictargets" : true,
+    "stage_targets" : [ {
+      "target_number" : 1, "target_reqshots" : 2 }, {
+      "target_number" : 2, "target_reqshots" : 2 }, {
+      "target_number" : 3, "target_reqshots" : 2 } ],
+    "stage_classifier" : true, "stage_poppers" : 2, "stage_noshoots" : true,
+    "stage_strings" : 1,
+    "stage_briefing" : "Fluffy's Revenge 1 is an 8 round, 40 point Comstock classifier course. There are 3 Metric targets and 2 Pepper poppers. The best 2 hits per paper will score, steel must fall to score. The start signal is audible.\n\nThe start position is standing in Box A, facing downrange, hands relaxed at sides. \n\nYour handgun is loaded and holstered. PCC start position is standing in Box A, facing downrange, stock on belt, muzzle downrange, loaded carbine held in both hands with safety on.\n\nOn the audible start signal, engage targets from within the fault lines." },
+  {
+    "stage_classifiercode" : "06-05", "stage_name" : "Fluffy's Revenge 2",
+    "stage_scoretype" : "Comstock", "stage_classictargets" : true,
+    "stage_targets" : [ {
+      "target_number" : 1, "target_reqshots" : 2 }, {
+      "target_number" : 2, "target_reqshots" : 2 }, {
+      "target_number" : 3, "target_reqshots" : 2 } ],
+    "stage_classifier" : true, "stage_poppers" : 2, "stage_noshoots" : true,
+    "stage_strings" : 1,
+    "stage_briefing" : "Fluffy's Revenge II is an 8 round, 40 point Comstock classifier course. There are 3 Classic targets and 2 Mini poppers. The best 2 hits per paper will score, steel must fall to score. The start signal is audible.\n\nThe start position is standing in Box A, facing uprange, hands above respective shoulders. Your handgun is loaded and holstered. PCC start position is standing in Box A, facing downrange, stock on belt, muzzle downrange, loaded carbine held in both hands with safety on.\n\nOn the audible start signal, turn then draw and engage targets from within the fault lines. No turn for PCC." },
+  {
+    "stage_classifiercode" : "06-06",
+    "stage_name" : "Golden Bullet Standards", "stage_scoretype" : "Virginia",
+    "stage_classictargets" : true, "stage_targets" : [ {
+      "target_number" : 1, "target_reqshots" : 4 }, {
+      "target_number" : 2, "target_reqshots" : 4 }, {
+      "target_number" : 3, "target_reqshots" : 4 }, {
+      "target_number" : 4, "target_reqshots" : 4 }, {
+      "target_number" : 5, "target_reqshots" : 4 }, {
+      "target_number" : 6, "target_reqshots" : 4 } ],
+    "stage_classifier" : true, "stage_poppers" : 0, "stage_noshoots" : false,
+    "stage_strings" : 2,
+    "stage_briefing" : "Golden Bullet Standards is a 24 round, 120 point Virginia count classifier course. There are 6 metric targets. The best 4 hits per paper will score. The start signal is audible.\n\nThe start position is standing in Box A, facing downrange, hands naturally at your side. Your handgun is loaded and holstered. PCC start position is standing in Box A, facing downrange, stock on belt, muzzle downrange, loaded carbine held in both hands with safety on.\n\nOn the audible start signal, from within the fault lines:\n\nString 1: Engage T1-6 with 1 round only Freestyle, perform a mandatory reload and re-engage T1-6 with 1 round only strong hand only. PCC: strong shoulder only.\n\nString 2: Engage T1-6 with 1 round only Freestyle, perform a mandatory reload and re-engage T1-6 with 1 round only Weak hand only. PCC: weak shoulder only" },
+  {
+    "stage_classifiercode" : "06-07", "stage_name" : "Steely Speed IV",
+    "stage_scoretype" : "Comstock", "stage_classifier" : true,
+    "stage_poppers" : 6, "stage_noshoots" : false, "stage_strings" : 1,
+    "stage_briefing" : "Steely Speed IV is a 6 round, 30 point, Comstock classifier course. There are 6 Pepper poppers. Steel must fall to score. The start signal is audible.\n\nThe start position is standing in Box A, facing downrange, hands on X's. Your handgun is loaded and holstered. PCC start position is standing in Box A, facing downrange, stock on belt, muzzle touching the mark, loaded carbine held in both hands with safety on.\n\nOn the audible start signal, engage targets from within the fault lines.\n\nNote: Mark is 3 feet above ground in center of the barricade." },
+  {
+    "stage_classifiercode" : "06-08", "stage_name" : "Steely Speed V",
+    "stage_scoretype" : "Comstock", "stage_classifier" : true,
+    "stage_poppers" : 6, "stage_noshoots" : false, "stage_strings" : 1,
+    "stage_briefing" : "Steely Speed V is a 6 round, 30 point, Comstock classifier course. There are 6 Pepper poppers. Steel must fall to score. The start signal is audible.\n\nThe start position is standing in Box A, facing downrange, wrists above respective shoulders. Your handgun is loaded and holstered. PCC start position is standing in Box A, facing downrange, stock on belt, muzzle downrange, loaded carbine held in both hands with safety on.\n\nOn the audible start signal, engage targets from within the fault lines." },
+  {
+    "stage_classifiercode" : "06-09", "stage_name" : "Steely Speed VI",
+    "stage_scoretype" : "Comstock", "stage_classifier" : true,
+    "stage_poppers" : 6, "stage_noshoots" : false, "stage_strings" : 1,
+    "stage_briefing" : "Steely Speed VI is a 6 round, 30 point, Comstock classifier course. There are 6 mini poppers. Steel must fall to score. The start signal is audible.\n\nThe start position is standing behind the barricade, facing downrange, heels on the marks, hands naturally at your sides. Your handgun is loaded and holstered. PCC start position is standing behind the barricade, facing downrange, heels on the marks, stock on belt, muzzle downrange, loaded carbine held in both hands with safety on.\n\nOn the start signal, engage targets from within the fault lines." },
+  {
+    "stage_classifiercode" : "06-10", "stage_name" : "Steely Speed VII",
+    "stage_scoretype" : "Comstock", "stage_classifier" : true,
+    "stage_poppers" : 6, "stage_noshoots" : false, "stage_strings" : 1,
+    "stage_briefing" : "Steely Speed VII is a 6 round, 30 point, Comstock classifier course. There are 3 Pepper poppers and 3 mini poppers. Steel must fall to score. The start signal is audible.\n\nThe start position is standing in Box A, facing downrange, hands on X's. Your handgun is loaded and holstered. PCC start position is standing in Box A, facing downrange, stock on belt, muzzle touching the mark, loaded carbine held in both hands with safety on.\n\nOn the audible start signal, engage targets from within the fault lines.\n\nNote: The mark for PCC is 3 feet above ground in center of the barricade." },
+  {
+    "stage_classifiercode" : "03-02", "stage_name" : "Six Chickens",
+    "stage_scoretype" : "Virginia", "stage_classictargets" : true,
+    "stage_targets" : [ {
+      "target_number" : 1, "target_reqshots" : 2 }, {
+      "target_number" : 2, "target_reqshots" : 2 }, {
+      "target_number" : 3, "target_reqshots" : 2 }, {
+      "target_number" : 4, "target_reqshots" : 2 }, {
+      "target_number" : 5, "target_reqshots" : 2 }, {
+      "target_number" : 6, "target_reqshots" : 2 } ],
+    "stage_classifier" : true, "stage_poppers" : 0, "stage_noshoots" : true,
+    "stage_strings" : 1,
+    "stage_briefing" : "Six Chickens is a 12 round, 60 point Virginia Count classifier course. There are 6 metric targets. The best two hits per target will score. The start signal is audible.\n\nThe start position is standing box A, facing down range with hands relaxed at sides. Handgun is loaded and holstered. PCC start position is standing in Box A, facing downrange, stock on belt, muzzle downrange, loaded carbine held in both hands with safety on.\n\nOn the audible start signal, from within Box A, engage T1-T6 with only one round each, freestyle, make a mandatory reload, and engage T1-T6 with only one round each, strong hand only. PCC: Strong shoulder only." },
+  {
+    "stage_classifiercode" : "03-03", "stage_name" : "Take 'em Down",
+    "stage_scoretype" : "Comstock", "stage_classictargets" : true,
+    "stage_targets" : [ {
+      "target_number" : 1, "target_reqshots" : 2 }, {
+      "target_number" : 2, "target_reqshots" : 2 }, {
+      "target_number" : 3, "target_reqshots" : 2 }, {
+      "target_number" : 4, "target_reqshots" : 2 } ],
+    "stage_classifier" : true, "stage_poppers" : 3, "stage_noshoots" : true,
+    "stage_strings" : 1,
+    "stage_briefing" : "Take 'em Down is an 11 round, 55 point, Comstock classifier course. There are 4 metric targets and 3 pepper poppers. The best two hits per target will score, steel must fall to score. The start signal is audible.\n\nThe start position is standing in Box A, hands naturally at your sides. Your gun is loaded and holstered. PCC: Carbine is loaded, muzzle touching the mark, stock on belt, held in both hands with safety on.\n\nOn the audible start signal, from within the fault lines in box A, engage T1 and T2 only from the left side of the barricade, and T3 and T4 only from the right side of the barricade. Move to box B, and from within the fault lines, engage PP1-PP3 from either side of the barricade.\n\nNOTE: Mark for PCC muzzle is 3 feet above ground, centered on the barricade." },
+  {
+    "stage_classifiercode" : "03-04", "stage_name" : "3-V",
+    "stage_scoretype" : "Virginia", "stage_classictargets" : true,
+    "stage_targets" : [ {
+      "target_number" : 1, "target_reqshots" : 2 }, {
+      "target_number" : 2, "target_reqshots" : 2 }, {
+      "target_number" : 3, "target_reqshots" : 2 }, {
+      "target_number" : 4, "target_reqshots" : 2 }, {
+      "target_number" : 5, "target_reqshots" : 2 }, {
+      "target_number" : 6, "target_reqshots" : 2 }, {
+      "target_number" : 7, "target_reqshots" : 2 } ],
+    "stage_classifier" : true, "stage_poppers" : 0, "stage_noshoots" : true,
+    "stage_strings" : 1,
+    "stage_briefing" : "3-V is a 14 round, 70 point, Virginia Count, classifier course. There are 7 metric targets. The best two hits per target will score. The start signal is audible.\n\nThe start position is standing in Box A, facing down range with hands relaxed at sides. Handgun is loaded and holstered. PCC start position is standing in Box A, facing downrange, stock on belt, muzzle touching mark, loaded carbine held in both hands with safety on.\n\nOn the start signal, from within the fault lines, engage T1-T3 with only two rounds each from the left side of the barricade, make a mandatory reload and engage T5- T7 with only two rounds each from the right side of the barricade. T4 may be engaged, with only two rounds, from either side of the barricade. You may begin on either side of the barricade, your choice, but must make a required reload when changing sides of the barricade.\n\nNOTE: Start mark for PCC is 3 feet above the ground, centered on the barricade." },
+  {
+    "stage_classifiercode" : "03-05", "stage_name" : "Paper Poppers",
+    "stage_scoretype" : "Comstock", "stage_classictargets" : true,
+    "stage_targets" : [ {
+      "target_number" : 1, "target_reqshots" : 2 }, {
+      "target_number" : 2, "target_reqshots" : 2 } ],
+    "stage_classifier" : true, "stage_poppers" : 6, "stage_noshoots" : false,
+    "stage_strings" : 1,
+    "stage_briefing" : "Paper Poppers is a 10 round, 50 point, Comstock classifier course. There are 2 metric targets and 6 pepper poppers. The best 2 hits per paper will score, steel must fall to score. The start signal is audible.\n\nThe start position is standing in Box A, facing downrange, wrists above respective shoulders. Your handgun is loaded and holstered. PCC start position is standing in Box A, facing downrange, stock on belt, muzzle downrange, loaded carbine held in both hands with safety on.\n\nOn the start signal, from within the fault lines, engage T1 and T2 or PP 1-6, make a mandatory reload, and engage the remaining targets. Paper or steel may be engaged in any order. A mandatory reload is required whenever changing arrays." },
+  {
+    "stage_classifiercode" : "03-07", "stage_name" : "Riverdale Standards",
+    "stage_scoretype" : "Virginia", "stage_classictargets" : true,
+    "stage_targets" : [ {
+      "target_number" : 1, "target_reqshots" : 5 }, {
+      "target_number" : 2, "target_reqshots" : 5 }, {
+      "target_number" : 3, "target_reqshots" : 5 }, {
+      "target_number" : 4, "target_reqshots" : 5 } ],
+    "stage_classifier" : true, "stage_poppers" : 0, "stage_noshoots" : false,
+    "stage_strings" : 3,
+    "stage_briefing" : "Riverdale Standards is a 20 round, 100 point, Virginia Count classifier course. There are 4 metric targets. The best 5 hits per target will score. The start signal is audible.\n\nThe start position is standing in box A, facing downrange, wrists above respective shoulders. Your handgun is loaded and holstered. PCC start position is standing in Box A, facing downrange, stock on belt, muzzle downrange, loaded carbine held in both hands with safety on.\n\nString 1: On the start signal, from box A only, engage T1-T4 with only one round each, freestyle, make a mandatory reload, and then engage T1-T4 with only one round each, freestyle.\n\nString 2: On the start signal, from box A only, engage T1-T4 with only one round each, freestyle, make a mandatory reload, then engage T1-T4 with only one round each, strong hand only. PCC: Strong shoulder only.\n\nString 3: On the start signal, from Box A only, engage T1-T4 with only one round each, weak hand only. PCC: weak shoulder only." },
+  {
+    "stage_classifiercode" : "03-08", "stage_name" : "Madness",
+    "stage_scoretype" : "Virginia", "stage_classictargets" : true,
+    "stage_targets" : [ {
+      "target_number" : 1, "target_reqshots" : 2 }, {
+      "target_number" : 2, "target_reqshots" : 2 }, {
+      "target_number" : 3, "target_reqshots" : 2 }, {
+      "target_number" : 4, "target_reqshots" : 2 }, {
+      "target_number" : 5, "target_reqshots" : 2 }, {
+      "target_number" : 6, "target_reqshots" : 2 }, {
+      "target_number" : 7, "target_reqshots" : 2 } ],
+    "stage_classifier" : true, "stage_poppers" : 0, "stage_noshoots" : true,
+    "stage_strings" : 1,
+    "stage_briefing" : "Madness is a 14 round, 70 point, Virginia Count Classifier course. There are 7 metric targets. The best two hits per target will score. The start signal is audible.\n\nThe start position is standing in box A, facing down range with wrists above respective shoulders. Handgun is loaded and holstered. PCC start position is standing in Box A, facing downrange, stock on belt, muzzle downrange, loaded carbine held in both hands with safety on.\n\nOn the start signal, from within the fault lines, engage each target with only one round, make a mandatory reload, and engage each target with only one round." },
+  {
+    "stage_classifiercode" : "03-09", "stage_name" : "On The Move",
+    "stage_scoretype" : "Virginia", "stage_classictargets" : true,
+    "stage_targets" : [ {
+      "target_number" : 1, "target_reqshots" : 4 }, {
+      "target_number" : 2, "target_reqshots" : 4 }, {
+      "target_number" : 3, "target_reqshots" : 4 }, {
+      "target_number" : 4, "target_reqshots" : 4 } ],
+    "stage_classifier" : true, "stage_poppers" : 0, "stage_noshoots" : true,
+    "stage_strings" : 2,
+    "stage_briefing" : "On the Move is a 16 round, 80 point Virginia Count classifier course. There are 4 metric targets. The best 4 hits per target will score. The start signal is audible.\n\nThe start position for string 1 is standing at either end of the shooting area with heels on Xs, facing down range with hands relaxed at sides. The start position for string 2 is standing at the opposite end of the shooting area from string 1 with heels on Xs, facing down range with hands relaxed at sides. Handgun is loaded and holstered. PCC start position for string one is standing at either end of the box with heels on Xs, facing downrange, stock on belt, muzzle downrange, loaded carbine held in both hands with safety on. Start position for string two is standing at the opposite end of the box with heels on Xs, facing downrange, stock on belt, muzzle downrange, loaded carbine held in both hands with safety on.\n\nFor strings 1 and 2, on the audible start signal, engage each target with two rounds each from within the fault lines." },
+  {
+    "stage_classifiercode" : "03-10", "stage_name" : "Area Five Standards",
+    "stage_scoretype" : "Virginia", "stage_classictargets" : true,
+    "stage_targets" : [ {
+      "target_number" : 1, "target_reqshots" : 6 }, {
+      "target_number" : 2, "target_reqshots" : 6 }, {
+      "target_number" : 3, "target_reqshots" : 6 } ],
+    "stage_classifier" : true, "stage_poppers" : 0, "stage_noshoots" : false,
+    "stage_strings" : 3,
+    "stage_briefing" : "Area Five Standards is an 18 round, 90 point, Virginia Count classifier course. There are 3 metric targets. The best 6 hits per target will score. The start signal is audible.\n\nThe start position is standing behind the appropriate fault line, facing downrange, with your hands naturally at your sides. Your handgun is loaded and holstered. PCC start position is standing behind the appropriate fault line, facing downrange, stock on belt, muzzle downrange, loaded carbine held in both hands with safety on.\n\nString 1: On the audible start signal, engage only T1 with 6 rounds from the 150 foot line, freestyle.\n\nString 2: On the audible start signal, engage only T2 with 6 rounds, strong hand only, from the 75 foot line. PCC: strong shoulder only.\n\nString 3: On the audible start signal, engage only T3 with 6 rounds, weak hand only, from the 45 foot line. PCC: weak shoulder only." },
+  {
+    "stage_classifiercode" : "03-11", "stage_name" : "El Strong & Weak Prez",
+    "stage_scoretype" : "Virginia", "stage_classictargets" : true,
+    "stage_targets" : [ {
+      "target_number" : 1, "target_reqshots" : 8 }, {
+      "target_number" : 2, "target_reqshots" : 8 }, {
+      "target_number" : 3, "target_reqshots" : 8 } ],
+    "stage_classifier" : true, "stage_poppers" : 0, "stage_noshoots" : true,
+    "stage_strings" : 2,
+    "stage_briefing" : "El Strong & Weak Pres is a 24 round, 120 point, Virginia Count classifier. There are 3 metric targets. The best 8 hits per target will score. The start signal is audible.\n\nThe start position is standing inside the shooting box, facing uprange with toes of both feet against the rear of the shooting box, shoulders square with box, and hands on ears or hearing protection. Handgun is loaded and holstered. PCC start position is standing inside the shooting box, facing downrange, stock on belt, muzzle downrange, loaded carbine held in both hands with safety on.\n\nFor string 1, on the audible start signal, turn, then draw and engage each target, freestyle, with two rounds each, make a mandatory reload, and engage each target with only two rounds each strong hand only. PCC: strong shoulder only.\n\nFor string 2, on the audible start signal, turn, then draw and engage each target, freestyle, with two rounds each, make a mandatory reload, and engage each target with only two rounds each weak hand only. PCC: weak shoulder only.\n\nNote: No turn for PCC division." },
+  {
+    "stage_classifiercode" : "03-12", "stage_name" : "Ironsides",
+    "stage_scoretype" : "Comstock", "stage_classictargets" : true,
+    "stage_targets" : [ {
+      "target_number" : 1, "target_reqshots" : 2 }, {
+      "target_number" : 2, "target_reqshots" : 2 }, {
+      "target_number" : 3, "target_reqshots" : 2 }, {
+      "target_number" : 4, "target_reqshots" : 2 } ],
+    "stage_classifier" : true, "stage_poppers" : 4, "stage_noshoots" : true,
+    "stage_strings" : 1,
+    "stage_briefing" : "Ironsides is a 12 round, 60 point Comstock classifier course. There are 4 metric targets and 4 Pepper Poppers. Best 2 hits per paper will score, steel must fall to score. The start signal is audible.\n\nThe start position is standing behind the wall, in the center, with both hands resting on the top of the wall at the mark. Your gun is loaded and holstered. The PCC start position is standing behind the wall, in the center, holding your loaded carbine in both hands, unshouldered, with the muzzle resting on top of the wall, on the mark.\n\nOn the start signal, from Port A, engage only T1, T2, PP1 and PP2, then from Port B, engage only T2, T3, PP3 and PP4. You may begin at the port of your choosing." },
+  {
+    "stage_classifiercode" : "03-14", "stage_name" : "Baseball Standards",
+    "stage_scoretype" : "Fixed", "stage_classictargets" : true,
+    "stage_targets" : [ {
+      "target_number" : 1, "target_reqshots" : 6 }, {
+      "target_number" : 2, "target_reqshots" : 6 }, {
+      "target_number" : 3, "target_reqshots" : 6 }, {
+      "target_number" : 4, "target_reqshots" : 6 } ],
+    "stage_classifier" : true, "stage_poppers" : 0, "stage_noshoots" : false,
+    "stage_strings" : 4,  "stage_maxstringtime": 4.5,
+    "stage_briefing" : "Baseball Standards is a 24 round, 120 point, Fixed Time Classifier course. There are 4 metric targets. The best 6 hits per target will score. The start signal is audible, and the stop signal is audible. The time allowed for each string is 4.5 seconds.\n\nThe start position is standing in Box A, facing downrange, wrists above your respective shoulders. Your gun is loaded and holstered. PCC start position is standing in Box A, facing downrange, stock on belt, muzzle downrange, loaded carbine held in both hands with safety on. \n\nString 1: On the start signal, from within the fault lines, engage T1 with 6 rounds, left hand only.\n\nPCC: Left shoulder only.\n\nString 2: On the start signal, from within the fault lines, engage T2 with 6 rounds, freestyle.\n\nString 3: On the start signal, from within the fault lines, engage T3 with 3 rounds, make a mandatory reload, and engage T3 with 3 rounds, freestyle.\n\nString 4: On the start signal, from within the fault lines, engage T4 with 6 rounds, right hand only.\n\nPCC: Right shoulder only." },
+  {
+    "stage_classifiercode" : "03-18", "stage_name" : "High Standards",
+    "stage_scoretype" : "Virginia", "stage_classictargets" : true,
+    "stage_targets" : [ {
+      "target_number" : 1, "target_reqshots" : 8 }, {
+      "target_number" : 2, "target_reqshots" : 8 }, {
+      "target_number" : 3, "target_reqshots" : 8 } ],
+    "stage_classifier" : true, "stage_poppers" : 0, "stage_noshoots" : false,
+    "stage_strings" : 2,
+    "stage_briefing" : "High Standards is a 24 round, 120 point Virginia Count classifier course. There are 3 metric targets. The best 8 hits per target will score. The start signal is audible.\n\nThe start position is standing behind the appropriate fault line, facing downrange with hands relaxed at sides. Handgun is loaded and holstered. PCC start position is standing behind the appropriate fault line, stock on belt, muzzle downrange, loaded carbine held in both hands with safety on.\n\nString 1: On the start signal, from behind the 15-yard line, engage each target with only two rounds each, freestyle, make a mandatory reload, and re-engage each target with only two rounds each, strong hand only. PCC: strong shoulder only.\n\nString 2: On the start signal, from behind the 10-yard line, engage each target with only two rounds each, freestyle, make a mandatory reload, and re-engage each target with only two rounds each, weak hand only. PCC: weak shoulder only." },
+  {
+    "stage_classifiercode" : "99-02", "stage_name" : "Night Moves",
+    "stage_scoretype" : "Virginia", "stage_classictargets" : true,
+    "stage_targets" : [ {
+      "target_number" : 1, "target_reqshots" : 6 }, {
+      "target_number" : 2, "target_reqshots" : 3 }, {
+      "target_number" : 3, "target_reqshots" : 3 }, {
+      "target_number" : 4, "target_reqshots" : 3 }, {
+      "target_number" : 5, "target_reqshots" : 3 } ],
+    "stage_classifier" : true, "stage_poppers" : 0, "stage_noshoots" : true,
+    "stage_strings" : 3,
+    "stage_briefing" : "Night Moves is an 18 round, 90 point Virginia Count Classifier course. There are 5 metric targets. The best 6 hits on T1 will score, the best 3 hits on T2-T5 will score. The start signal is audible.\n\nThe start position is sitting behind the table with knees under the table edge, fingers interlaced in lap, back touching the chair and feet flat on ground. Handgun is loaded and holstered. PCC: Carbine will be placed on table, loaded, muzzle downrange, safety on. All other start position requirements are the same. \n\nString 1: on the start signal engage T1 with 2 rounds and T2-T5 with one round each from behind the table within the shooting area.\n\nString 2, on the start signal engage T1 with 2 rounds and T2-T5 with one round each from behind the table within the shooting area, strong hand only. PCC: Strong Shoulder Only.\n\nString 3, on the start signal engage T1 with 2 rounds and T2-T5 with one round each from behind the table within the shooting area, weak hand only. PCC: Weak Shoulder Only" },
+  {
+    "stage_classifiercode" : "99-07", "stage_name" : "Both Sides Now #1",
+    "stage_scoretype" : "Virginia", "stage_classictargets" : true,
+    "stage_targets" : [ {
+      "target_number" : 1, "target_reqshots" : 3 }, {
+      "target_number" : 2, "target_reqshots" : 3 }, {
+      "target_number" : 3, "target_reqshots" : 3 }, {
+      "target_number" : 4, "target_reqshots" : 3 }, {
+      "target_number" : 5, "target_reqshots" : 3 }, {
+      "target_number" : 6, "target_reqshots" : 3 } ],
+    "stage_classifier" : true, "stage_poppers" : 0, "stage_noshoots" : true,
+    "stage_strings" : 3,
+    "stage_briefing" : "Both Sides Now #1 is an 18 round, 90 point, Virginia Count, classifier course. There are 6 metric targets. The best 3 hits per target will score. The start signal is audible.\n\nThe start position is standing inside the shooting area, facing downrange with hands relaxed at sides. Handgun is loaded and holstered. PCC start position is standing in Box A, facing downrange, stock on belt, muzzle touching the mark, loaded carbine held in both hands with safety on.\n\nString 1: On the audible start signal, engage each target from the right side of the barricade with only one round each from within the fault lines.\n\nString 2: On the audible start signal, engage each target from the left side of the barricade with only one round each from within the fault lines.\n\nString 3: On the audible start signal, engage each target from the either side of the barricade with only one round each from within the fault lines. \n\nNOTE: Mark for PCC muzzle is 3 feet above ground, centered on the barricade." },
+  {
+    "stage_classifiercode" : "99-08", "stage_name" : "Melody Line",
+    "stage_scoretype" : "Virginia", "stage_classictargets" : true,
+    "stage_targets" : [ {
+      "target_number" : 1, "target_reqshots" : 2 }, {
+      "target_number" : 2, "target_reqshots" : 2 }, {
+      "target_number" : 3, "target_reqshots" : 2 }, {
+      "target_number" : 4, "target_reqshots" : 2 }, {
+      "target_number" : 5, "target_reqshots" : 2 }, {
+      "target_number" : 6, "target_reqshots" : 2 } ],
+    "stage_classifier" : true, "stage_poppers" : 0, "stage_noshoots" : false,
+    "stage_strings" : 1,
+    "stage_briefing" : "Melody Line is a 12-round, 60-point Virginia Count Classifier Course of Fire. There are six Metric targets. The Start signal is audible. The best two hits per target will score.\n\nThe start position is standing in Box A, back to targets, toes of both feet against rear fault line of Box A, both wrists above respective shoulders. Your gun will be loaded and holstered. PCC start position is standing in Box A, facing downrange, heels of both feet against the rear fault line of Box A, stock on belt, muzzle downrange, both hands on the loaded carbine, safety on.\n\nOn the start signal, from within the fault lines only, turn, then draw and engage T1-T6 with only one round per target, then make a mandatory reload, and engage T1-T6 with only one round per target. PCC: No turn" },
+  {
+    "stage_classifiercode" : "99-09", "stage_name" : "Long Range Standards",
+    "stage_scoretype" : "Virginia", "stage_classictargets" : true,
+    "stage_targets" : [ {
+      "target_number" : 1, "target_reqshots" : 6 }, {
+      "target_number" : 2, "target_reqshots" : 6 }, {
+      "target_number" : 3, "target_reqshots" : 12 } ],
+    "stage_classifier" : true, "stage_poppers" : 0, "stage_noshoots" : false,
+    "stage_strings" : 3,
+    "stage_briefing" : "Long Range Standards is a 24-round, 120-point Virginia Count Classifier Course. There are three Metric targets. Scoring will be the best six hits on T1 and T2 and best twelve hits on T3. The start signal is audible.\n\nThe start position is standing behind the fault line, both arms hanging relaxed at sides. Your gun will be loaded and holstered. PCC start position is standing behind the fault line, stock on belt, muzzle downrange, both hands on the loaded carbine, safety on.\n\nString 1: Upon start signal, from behind the fault line, engage T1 with only six rounds.\n\nString 2: Upon start signal, from behind the fault line and while kneeling (at least one knee in contact with the ground), engage T2 with only six rounds.\n\nString 3: Upon start signal, from behind the fault line and while either prone or supine, engage T3 with only six rounds, then make a mandatory reload and engage T3 with only six rounds.\n\nMagazines for the reload may be placed on the ground only after the start signal." },
+  {
+    "stage_classifiercode" : "99-10", "stage_name" : "Times Two",
+    "stage_scoretype" : "Comstock", "stage_classictargets" : true,
+    "stage_targets" : [ {
+      "target_number" : 1, "target_reqshots" : 2 }, {
+      "target_number" : 2, "target_reqshots" : 2 }, {
+      "target_number" : 3, "target_reqshots" : 2 }, {
+      "target_number" : 4, "target_reqshots" : 2 }, {
+      "target_number" : 5, "target_reqshots" : 2 }, {
+      "target_number" : 6, "target_reqshots" : 2 } ],
+    "stage_classifier" : true, "stage_poppers" : 0, "stage_noshoots" : false,
+    "stage_strings" : 1,
+    "stage_briefing" : "Times Two is a 12 round, 60 point, Comstock classifier course. There are 6 metric targets. The best two hits per target will score. The start signal is audible.\n\nThe start position is standing in either box A or box B, facing downrange, hands relaxed at sides. Handgun is loaded and holstered. PCC start position is standing in Box A, facing downrange, stock on belt, muzzle downrange, loaded carbine held in both hands with safety on.\n\nUpon the start signal, from within the fault lines of the starting box engage the appropriate targets with at least 2 rounds each. Move to the remaining box and from within the fault lines engage the appropriate targets with at least 2 rounds each. Engage T1-T3 only from box A and T4-T6 only from box B." },
+  {
+    "stage_classifiercode" : "99-11", "stage_name" : "El Presidente",
+    "stage_scoretype" : "Virginia", "stage_classictargets" : true,
+    "stage_targets" : [ {
+      "target_number" : 1, "target_reqshots" : 4 }, {
+      "target_number" : 2, "target_reqshots" : 4 }, {
+      "target_number" : 3, "target_reqshots" : 4 } ],
+    "stage_classifier" : true, "stage_poppers" : 0, "stage_noshoots" : false,
+    "stage_strings" : 1,
+    "stage_briefing" : "El Presidente is a 12-round, 60-point Virginia Count Classifier Course. There are three metric targets. The best four hits per target will score. The start signal is audible.\n\nStart Position: Standing in Box A, back to targets, toes of both feet against rear of fault line of Box A, both wrists above respective shoulders. Your gun will be loaded and holstered. PCC start position is standing in Box A, facing downrange, stock on belt, muzzle downrange, loaded carbine held in both hands with safety on.\n\nOn the start signal, from Box A only, turn then draw and engage T1-T3 with only two rounds per target, make a mandatory reload, then engage T1-T3 with only two rounds per target. PCC: No turn" },
+  {
+    "stage_classifiercode" : "99-12", "stage_name" : "Take Your Choice",
+    "stage_scoretype" : "Comstock", "stage_classictargets" : true,
+    "stage_targets" : [ {
+      "target_number" : 1, "target_reqshots" : 2 }, {
+      "target_number" : 2, "target_reqshots" : 2 }, {
+      "target_number" : 3, "target_reqshots" : 2 }, {
+      "target_number" : 4, "target_reqshots" : 2 }, {
+      "target_number" : 5, "target_reqshots" : 2 }, {
+      "target_number" : 6, "target_reqshots" : 2 } ],
+    "stage_classifier" : true, "stage_poppers" : 0, "stage_noshoots" : true,
+    "stage_strings" : 1,
+    "stage_briefing" : "Take Your Choice is a 12-round, 60-point Comstock Classifier course. There are six Metric targets. The best two hits per target will score. The start signal is audible.\n\nThe start position is standing in Box A, index finger and thumb of each hand touching, with hands placed flat on barricade at eye level. Your gun will be loaded and holstered. PCC start position is standing in Box A, facing downrange, stock on belt, muzzle touching mark, loaded carbine held in both hands with safety on.\n\nStage Procedure: Upon start signal, from Box A only, engage the appropriate targets from one side of the barricade then make a mandatory reload and engage the appropriate targets from the remaining side of the barricade. Engage only T1-T3 from the left side of the barricade and only T4-T6 from the right side of the barricade." },
+  {
+    "stage_classifiercode" : "99-13", "stage_name" : "Quicky II",
+    "stage_scoretype" : "Virginia", "stage_classictargets" : true,
+    "stage_targets" : [ {
+      "target_number" : 1, "target_reqshots" : 8 }, {
+      "target_number" : 2, "target_reqshots" : 8 }, {
+      "target_number" : 3, "target_reqshots" : 8 } ],
+    "stage_classifier" : true, "stage_poppers" : 0, "stage_noshoots" : true,
+    "stage_strings" : 2,
+    "stage_briefing" : "Quicky II is a 24-round, 120-point Virginia Count Classifier Course. There are three Metric targets. The best eight hits per target will score. The start signal is audible.\n\nThe start position is standing in Box A, reaching overhead for a box, arms fully extended overhead, elbows locked. Your gun will be loaded and holstered. PCC start position is standing in Box A, facing downrange, stock on belt, muzzle downrange, loaded carbine held in both hands with safety on.\n\nString 1: Upon start signal, from Box A only, engage T1-T3 with only two rounds per target, then make a mandatory reload, then engage T1-T3 with only two rounds per target using strong hand only. PCC: strong shoulder only.\n\nString 2: Upon start signal, from Box A only, engage T1-T3 with only two rounds per target, then make a mandatory reload, then engage T1-T3 with only two rounds per target using weak hand only. PCC: weak shoulder only." },
+  {
+    "stage_classifiercode" : "99-14", "stage_name" : "Hoser Heaven",
+    "stage_scoretype" : "Fixed", "stage_classictargets" : true,
+    "stage_targets" : [ {
+      "target_number" : 1, "target_reqshots" : 3 }, {
+      "target_number" : 2, "target_reqshots" : 3 }, {
+      "target_number" : 3, "target_reqshots" : 3 }, {
+      "target_number" : 4, "target_reqshots" : 3 }, {
+      "target_number" : 5, "target_reqshots" : 3 }, {
+      "target_number" : 6, "target_reqshots" : 3 } ],
+    "stage_classifier" : true, "stage_poppers" : 0, "stage_noshoots" : true,
+    "stage_strings" : 3, "stage_maxstringtime": 5,
+    "stage_briefing" : "Hoser Heaven, is an 18 round, 90 point Fixed Time Classifier course. There are 6 metric targets. The best 3 hits per target will score. The start signal is audible, and the stop signal is audible. The time allowed for each string is 5 seconds.\n\nThe start position is standing in Box A, facing downrange, hands naturally at your sides. Your gun is loaded and holstered. PCC start position is standing in Box A, facing downrange, stock on belt, muzzle downrange, loaded carbine held in both hands, safety on.\n\nString 1: On the start signal, from within the fault lines, engage T1-T6 with only one round per target, freestyle.\n\nString 2: On the start signal, from within the fault lines, engage T1-T6 with only one round, strong hand only. PCC: Strong shoulder only.\n\nString 3: On the start signal, from within the fault lines, engage T1-T6 with only one round, weak hand only. PCC: Weak shoulder only." },
+  {
+    "stage_classifiercode" : "99-16", "stage_name" : "Both Sides Now #2",
+    "stage_scoretype" : "Comstock", "stage_classictargets" : true,
+    "stage_targets" : [ {
+      "target_number" : 1, "target_reqshots" : 2 }, {
+      "target_number" : 2, "target_reqshots" : 2 }, {
+      "target_number" : 3, "target_reqshots" : 2 }, {
+      "target_number" : 4, "target_reqshots" : 2 }, {
+      "target_number" : 5, "target_reqshots" : 2 } ],
+    "stage_classifier" : true, "stage_poppers" : 2, "stage_noshoots" : true,
+    "stage_strings" : 1,
+    "stage_briefing" : "Both Sides Now #2 is a 12 round, 60 point, Comstock Classifier course. There are 5 metric targets and 2 pepper poppers. The best 2 hits per target will score, steel must fall to score. The start signal is audible.\n\nThe start position is standing inside the shooting area, facing down range with palms flat on respective X's. Handgun is loaded and holstered. PCC start position is standing in Box A, facing downrange, stock on belt, muzzle downrange, loaded carbine held in both hands with safety on. T1, T2, PP1 and PP2 must be engaged from the left side of the barricade. T3-T5 must be engaged from the right side of the barricade.\n\nOn the audible start signal, engage the appropriate array from one side of the barricade, perform a mandatory reload, and engage the appropriate array from the remaining side of the barricade from within the shooting area. A mandatory reload must be performed whenever changing sides of the barricade." },
+  {
+    "stage_classifiercode" : "99-19", "stage_name" : "Payne's Pain",
+    "stage_scoretype" : "Virginia", "stage_classictargets" : true,
+    "stage_targets" : [ {
+      "target_number" : 1, "target_reqshots" : 3 }, {
+      "target_number" : 2, "target_reqshots" : 3 }, {
+      "target_number" : 3, "target_reqshots" : 3 }, {
+      "target_number" : 4, "target_reqshots" : 3 } ],
+    "stage_classifier" : true, "stage_poppers" : 0, "stage_noshoots" : false,
+    "stage_strings" : 1,
+    "stage_briefing" : "Payne's Pain is a 12 round, 60 point, Virginia Count Classifier course. There are 4 metric targets. The best 3 hits per target will score. The start signal is audible.\n\nThe start position is standing in box A, facing down range with both hands flat against the respective sides of the barricade. Handgun is loaded and holstered. PCC start position is standing in Box A, facing downrange, stock on belt, muzzle downrange, loaded carbine held in both hands with safety on.\n\nOn the start signal, from within the fault lines, engage T1-T4 with only one round each from one side of the barricade. Make a mandatory reload and engage T1-T4 with only one round each through the port. Make a mandatory reload and engage T1-T4 with only one round each from the opposite/remaining side of the barricade. You may shoot around the sides or through the port in any order." },
+  {
+    "stage_classifiercode" : "99-21", "stage_name" : "Mini-Mart",
+    "stage_scoretype" : "Virginia", "stage_classictargets" : true,
+    "stage_targets" : [ {
+      "target_number" : 1, "target_reqshots" : 4 }, {
+      "target_number" : 2, "target_reqshots" : 4 }, {
+      "target_number" : 3, "target_reqshots" : 4 } ],
+    "stage_classifier" : true, "stage_poppers" : 0, "stage_noshoots" : true,
+    "stage_strings" : 1,
+    "stage_briefing" : "Mini Mart is a 12-round, 60-point Virginia Count Classifier course. There are three Metric targets. The best four hits per target will score. The start signal is audible.\n\nThe start position is standing behind the counter, both wrists above respective shoulders, loaded gun and all magazines to be used on the shelf under the counter. Gun must be on its side - not propped up by any artificial means. Neither the gun nor the magazines may extend beyond the open edge of the shelf. PCC: Loaded carbine and all magazines to be used are placed on top of the counter. Gun must be on its side, pointed downrange - not propped up by any artificial means. Neither the gun nor the magazines may extend beyond the rear edge of the counter.\n\nStage Procedure: Upon start signal, from behind the counter engage T1-T3 with only two rounds per target, then make a mandatory reload, then from behind the counter engage T1-T3 with only two rounds per target." },
+  {
+    "stage_classifiercode" : "99-22", "stage_name" : "Nuevo El Presidente",
+    "stage_scoretype" : "Virginia", "stage_classictargets" : true,
+    "stage_targets" : [ {
+      "target_number" : 1, "target_reqshots" : 4 }, {
+      "target_number" : 2, "target_reqshots" : 4 }, {
+      "target_number" : 3, "target_reqshots" : 4 } ],
+    "stage_classifier" : true, "stage_poppers" : 0, "stage_noshoots" : true,
+    "stage_strings" : 1,
+    "stage_briefing" : "Nuevo El Presidente is a 12-round, 60-point Virginia Count classifier course. There are three Metric targets. The best four hits per target will score. The Start signal is audible.\n\nThe start position is standing in Box A, back to targets, toes of both feet against rear fault line of Box A, both wrists above respective shoulders. Your gun will be loaded and holstered. The PCC start position is standing in Box A, facing downrange, heels of both feet against rear fault line of Box A, stock on belt, muzzle downrange, loaded carbine held in both hands, safety on.\n\nUpon start signal, from Box A only, turn then draw and engage T1-T3 with only two rounds per target, then make a mandatory reload, then engage T1-T3 with only two rounds per target. PCC: No turn." },
+  {
+    "stage_classifiercode" : "99-23", "stage_name" : "Front Sight",
+    "stage_scoretype" : "Virginia", "stage_classictargets" : true,
+    "stage_targets" : [ {
+      "target_number" : 1, "target_reqshots" : 4 }, {
+      "target_number" : 2, "target_reqshots" : 4 }, {
+      "target_number" : 3, "target_reqshots" : 4 } ],
+    "stage_classifier" : true, "stage_poppers" : 0, "stage_noshoots" : false,
+    "stage_strings" : 2,
+    "stage_briefing" : "Front Sight is a 12 round, 60 point, Virginia Count Classifier. There are 3 metric targets. The best 4 hits per target will score. The start signal is audible.\n\nThe start position for string one is standing in box A, facing uprange, hands at sides or wrists above shoulders, your choice. Your gun will be loaded and holstered.\n\nThe start position for string two is standing in box A, facing the targets, with your hands in the opposite position from string one. PCC, both strings: standing in Box A, facing downrange, stock on belt, muzzle downrange, loaded carbine held in both hands with safety on.\n\nFor both strings, on the start signal engage T1-T3 with only two rounds per target." },
+  {
+    "stage_classifiercode" : "99-24", "stage_name" : "Front Sight 2",
+    "stage_scoretype" : "Virginia", "stage_classictargets" : true,
+    "stage_targets" : [ {
+      "target_number" : 1, "target_reqshots" : 4 }, {
+      "target_number" : 2, "target_reqshots" : 4 }, {
+      "target_number" : 3, "target_reqshots" : 4 } ],
+    "stage_classifier" : true, "stage_poppers" : 0, "stage_noshoots" : true,
+    "stage_strings" : 2,
+    "stage_briefing" : "Front Sight 2 is a 12 round, 60 point, Virginia Count Classifier. There are 3 metric targets. The best 4 hits per target will score. The start signal is audible.\n\nThe start position for string one is standing in box A, facing uprange, hands at sides or wrists above shoulders, your choice. Your gun will be loaded and holstered.\n\nThe start position for string two is standing in box A, facing the targets, with your hands in the opposite position from string one. PCC, both strings: standing in Box A, facing downrange, stock on belt, muzzle downrange, loaded carbine held in both hands with safety on.\n\nFor both strings, on the start signal engage T1-T3 with only two rounds per target." },
+  {
+    "stage_classifiercode" : "99-28", "stage_name" : "Hillbillton Drill",
+    "stage_scoretype" : "Comstock", "stage_classictargets" : true,
+    "stage_targets" : [ {
+      "target_number" : 1, "target_reqshots" : 2 }, {
+      "target_number" : 2, "target_reqshots" : 2 }, {
+      "target_number" : 3, "target_reqshots" : 2 } ],
+    "stage_classifier" : true, "stage_poppers" : 6, "stage_noshoots" : true,
+    "stage_strings" : 1,
+    "stage_briefing" : "Hillbillton Drill is a 12 round, 60 point, Comstock Classifier course. There are 3 metric targets and 6 pepper poppers. The best two hits per paper target will score, steel must fall to score. The start signal is audible.\n\nThe start position is standing in Box A, facing the targets with your wrists above your respective shoulders. Your gun is loaded and holstered. PCC start position is standing in Box A, facing downrange, stock on belt, muzzle downrange, loaded carbine held in both hands with safety on.\n\nOn the start signal, from within the fault lines, engage T1-T3, make a mandatory reload and engage PP1-PP6. Targets and poppers may be engaged in any order. Only one mandatory reload is required." },
+  {
+    "stage_classifiercode" : "99-33", "stage_name" : "Raw Deal",
+    "stage_scoretype" : "Virginia", "stage_classictargets" : true,
+    "stage_targets" : [ {
+      "target_number" : 1, "target_reqshots" : 2 }, {
+      "target_number" : 2, "target_reqshots" : 2 }, {
+      "target_number" : 3, "target_reqshots" : 2 }, {
+      "target_number" : 4, "target_reqshots" : 2 }, {
+      "target_number" : 5, "target_reqshots" : 2 }, {
+      "target_number" : 6, "target_reqshots" : 2 } ],
+    "stage_classifier" : true, "stage_poppers" : 0, "stage_noshoots" : true,
+    "stage_strings" : 1,
+    "stage_briefing" : "Raw Deal is a 12 round, 60 point, Virginia count classifier course. There are 6 metric targets. The best two hits per target will score. The start signal is audible.\n\nThe start position is seated in the chair holding cards, one in each hand being held by the thumb and index finger, elbows on the marks. Your gun will be loaded and holstered. PCC start position is the same, with your loaded carbine on the table, muzzle downrange, safety on and un-propped.\n\nOn the start signal, from within the fault lines, engage only T1-T3 or only T4-T6 with only two rounds each, make a mandatory reload, and engage the remaining targets with only two rounds each. You do not have to remain seated.\n\nNote: table size may vary from specified size." },
+  {
+    "stage_classifiercode" : "99-34", "stage_name" : "Ported View",
+    "stage_scoretype" : "Comstock", "stage_classictargets" : true,
+    "stage_targets" : [ {
+      "target_number" : 1, "target_reqshots" : 2 }, {
+      "target_number" : 2, "target_reqshots" : 2 }, {
+      "target_number" : 3, "target_reqshots" : 2 }, {
+      "target_number" : 4, "target_reqshots" : 2 } ],
+    "stage_classifier" : true, "stage_poppers" : 4, "stage_noshoots" : true,
+    "stage_strings" : 1,
+    "stage_briefing" : "Ported View is a 12 round, 60 point Comstock classifier course. There are 4 metric targets and 4 pepper poppers. The best 2 hits per paper will score and steel must fall to score. The start signal is audible.\n\nThe start position is standing in Box A with the palms of your hands flat on the marks above window. Handgun is loaded and holstered. PCC start position is loaded with muzzle touching either mark, stock on belt, both hands on carbine, safety on.\n\nOn the audible start signal, through the left port, engage only T1, T2, PP1, and PP2, make a mandatory reload and through the right port, engage only T3, T4, PP3, and PP4. Ports may be used in any order." },
+  {
+    "stage_classifiercode" : "99-40", "stage_name" : "Partial People Eaters",
+    "stage_scoretype" : "Fixed", "stage_classictargets" : true,
+    "stage_targets" : [ {
+      "target_number" : 1, "target_reqshots" : 4 }, {
+      "target_number" : 2, "target_reqshots" : 4 }, {
+      "target_number" : 3, "target_reqshots" : 4 }, {
+      "target_number" : 4, "target_reqshots" : 4 }, {
+      "target_number" : 5, "target_reqshots" : 4 }, {
+      "target_number" : 6, "target_reqshots" : 4 } ],
+    "stage_classifier" : true, "stage_poppers" : 0, "stage_noshoots" : false,
+    "stage_strings" : 4, "stage_maxstringtime": 4,
+    "stage_briefing" : "Partial People Eaters is a 24 round, 120 point, Fixed Time Classifier course. There are 6 metric targets. The best 4 hits per target will score. The start signal is audible, and the stop signal is audible. The time allowed for each string is 4 seconds.\n\nThe start position for all strings is standing behind the fault lines, facing downrange, hands naturally at your sides. Your gun is loaded and holstered. PCC start position for all strings is standing behind the fault lines, facing downrange, stock on belt, muzzle downrange, loaded carbine held in both hands with safety on.\n\nString 1: On the start signal, from behind the fault line, engage T1-T6 with only one round per target, freestyle.\n\nString 2: On the start signal, from behind the fault line, engage T1-T6 with only one round, strong hand only. PCC: Strong shoulder only.\n\nString 3: On the start signal, from behind the fault line, engage T1-T6 with only one round, weak hand only. PCC: Weak shoulder only.\n\nString 4: On the start signal, from behind the fault line, engage T1-T6 with only one round, freestyle." },
+  {
+    "stage_classifiercode" : "99-41", "stage_name" : "Works For Me",
+    "stage_scoretype" : "Comstock", "stage_classictargets" : true,
+    "stage_targets" : [ {
+      "target_number" : 1, "target_reqshots" : 2 }, {
+      "target_number" : 2, "target_reqshots" : 2 }, {
+      "target_number" : 3, "target_reqshots" : 2 }, {
+      "target_number" : 4, "target_reqshots" : 2 }, {
+      "target_number" : 5, "target_reqshots" : 2 } ],
+    "stage_classifier" : true, "stage_poppers" : 2, "stage_noshoots" : false,
+    "stage_strings" : 1,
+    "stage_briefing" : "Works for me is a 12 round, 60 point Comstock classifier course. There are 5 metric targets and 2 pepper poppers. The best 2 hits per paper will score and steel must fall to score. The start signal is audible.\n\nThe start position is standing in Box A with your palms flat on the barricade covering the marks. Handgun is loaded and holstered. PCC start position is standing in Box A, loaded, muzzle touching either mark, not shouldered, both hands on loaded carbine, safety on.\n\nOn the audible start signal, from within the fault lines, engage the appropriate targets from either side of the barricade, then make a mandatory reload and engage the appropriate targets from the other side of the barricade. T1 and T2 must be engaged from only the left side of the barricade. T3 and T4 must be engaged from only the right side of the barricade, T5, PP1 and PP2 may be engaged from either side. No further reload is required to engage targets after completing the original stage procedure." },
+  {
+    "stage_classifiercode" : "99-42", "stage_name" : "Fast'n Furious",
+    "stage_scoretype" : "Comstock", "stage_classictargets" : true,
+    "stage_targets" : [ {
+      "target_number" : 1, "target_reqshots" : 2 }, {
+      "target_number" : 2, "target_reqshots" : 2 }, {
+      "target_number" : 3, "target_reqshots" : 2 }, {
+      "target_number" : 4, "target_reqshots" : 2 } ],
+    "stage_classifier" : true, "stage_poppers" : 4, "stage_noshoots" : false,
+    "stage_strings" : 1,
+    "stage_briefing" : "Fast 'n Furious is a 12 round, 60 point Comstock classifier course. There are 4 metric targets and 4 pepper poppers. The best two hits per paper will score, steel must fall to score. The start signal is audible.\n\nThe start position is standing inside the shooting area, facing downrange with hands relaxed at sides. Handgun is loaded and holstered. PCC start position is standing in Box A, facing downrange, stock on belt, muzzle touching the mark, loaded carbine held in both hands with safety on.\n\nOn the audible start signal, from within the fault lines, engage PP1, PP2 and T1-T2 from left side of barricade, make a mandatory reload, and engage PP3, PP4, and T3-T4 from the right side of the barricade,. Competitor may begin on either side of barricade. Only one mandatory reload is required, but must be made when changing sides of the barricade for the first time.\n\nNote: Mark for PCC is 3 feet above ground, centered on the barricade." },
+  {
+    "stage_classifiercode" : "99-46",
+    "stage_name" : "Close Quarter Standards", "stage_scoretype" : "Virginia",
+    "stage_classictargets" : true, "stage_targets" : [ {
+      "target_number" : 1, "target_reqshots" : 8 }, {
+      "target_number" : 2, "target_reqshots" : 8 }, {
+      "target_number" : 3, "target_reqshots" : 8 } ],
+    "stage_classifier" : true, "stage_poppers" : 0, "stage_noshoots" : false,
+    "stage_strings" : 3,
+    "stage_briefing" : "Close Quarter Standards is a 24 round, 120 point Virginia classifier course. There are 3 metric targets. The best 8 hits per target will score. The start signal is audible.\n\nThe start position is standing in appropriate shooting box facing targets with both wrists above respective shoulders. Handgun is loaded and holstered. PCC start position is standing in appropriate shooting box, facing downrange, stock on belt, muzzle downrange, loaded carbine held in both hands with safety on.\n\nString 1: on the start signal, from Box A, engage T1-T3 with only two rounds per target, then make a mandatory reload and from Box A re-engage T1- T3 with only two rounds per target.\n\nString 2: on the start signal, from Box B, engage T1-T3 with only two rounds per target using strong hand only. PCC: Strong shoulder only.\n\nString 3: on the start signal, transfer gun to weak hand and from Box C engage T1-T3 with only two rounds per target using weak hand only. PCC: Weak shoulder only." },
+  {
+    "stage_classifiercode" : "99-47", "stage_name" : "Triple Choice",
+    "stage_scoretype" : "Virginia", "stage_classictargets" : true,
+    "stage_targets" : [ {
+      "target_number" : 1, "target_reqshots" : 3 }, {
+      "target_number" : 2, "target_reqshots" : 3 }, {
+      "target_number" : 3, "target_reqshots" : 3 }, {
+      "target_number" : 4, "target_reqshots" : 3 }, {
+      "target_number" : 5, "target_reqshots" : 3 } ],
+    "stage_classifier" : true, "stage_poppers" : 0, "stage_noshoots" : false,
+    "stage_strings" : 3,
+    "stage_briefing" : "Triple Choice is a 15 round, 75 point Virginia Count classifier course. There are 5 metric targets. The best 3 hits per target will score.\n\nThe start position is standing inside the shooting area, facing downrange with hands relaxed at sides. Handgun is loaded and holstered. PCC start position is standing in Box A, facing downrange, stock on belt, muzzle downrange, loaded carbine held in both hands with safety on.\n\nString 1: On the audible start signal, engage each target with only one round each from within the fault lines.\n\nString 2: On the audible start signal, engage each target with only one round each, strong hand only, from within the fault lines. PCC: Strong shoulder only.\n\nString 3: On the audible start signal, engage each target with only one round each, weak hand only, from within the fault lines. PCC: Weak shoulder only." },
+  {
+    "stage_classifiercode" : "99-48", "stage_name" : "Tight Squeeze",
+    "stage_scoretype" : "Virginia", "stage_classictargets" : true,
+    "stage_targets" : [ {
+      "target_number" : 1, "target_reqshots" : 4 }, {
+      "target_number" : 2, "target_reqshots" : 4 }, {
+      "target_number" : 3, "target_reqshots" : 4 } ],
+    "stage_classifier" : true, "stage_poppers" : 0, "stage_noshoots" : true,
+    "stage_strings" : 1,
+    "stage_briefing" : "Tight Squeeze is a 12 round, 60 point Virginia Count classifier course. There are 3 metric targets. The best 4 hits per paper will score. The start signal is audible.\n\nThe start position is standing in Box A, facing targets, wrists above respective shoulders. Handgun is loaded and holstered PCC start position is standing in Box A, facing downrange, stock on belt, muzzle downrange, loaded carbine held in both hands with safety on.\n\nOn the audible start signal, from within the fault lines, engage T1-T3 with only two rounds per target, then make a mandatory reload and re-engage T1-T3 with only two rounds per target." },
+  {
+    "stage_classifiercode" : "99-51", "stage_name" : "Single Tap Standards",
+    "stage_scoretype" : "Virginia", "stage_classictargets" : true,
+    "stage_targets" : [ {
+      "target_number" : 1, "target_reqshots" : 4 }, {
+      "target_number" : 2, "target_reqshots" : 4 }, {
+      "target_number" : 3, "target_reqshots" : 4 }, {
+      "target_number" : 4, "target_reqshots" : 4 }, {
+      "target_number" : 5, "target_reqshots" : 4 }, {
+      "target_number" : 6, "target_reqshots" : 4 } ],
+    "stage_classifier" : true, "stage_poppers" : 0, "stage_noshoots" : false,
+    "stage_strings" : 4,
+    "stage_briefing" : "Single Tap Standards is a 24 round, 120 point Virginia Count classifier course. There are 6 metric targets. The best 4 hits per paper will score. Start signal is audible.\n\nThe start position is standing behind the appropriate fault line facing targets with both arms hanging relaxed at sides. Handgun is loaded and holstered. PCC: Start position is standing behind the appropriate fault line, stock on belt, muzzle downrange, both hands on loaded carbine, safety on.\n\nString 1 - 60 ft. On the audible start signal, from behind fault line, engage T1-T6 with only one round per target while prone.\n\nString 2 - 45 ft. On the audible start signal, from behind fault line, engage T1-T6 with only one round per target while kneeling.\n\nString 3 - 30 ft. On the audible start signal, from behind fault line, engage T1-T6 with only one round per target strong hand only. PCC: strong shoulder only.\n\nString 4 - 15 ft: On the audible start signal, from behind fault line, engage T1-T6 with only one round per target weak hand only. PCC: weak shoulder only." },
+  {
+    "stage_classifiercode" : "99-53", "stage_name" : "Triple Play",
+    "stage_scoretype" : "Comstock", "stage_classictargets" : true,
+    "stage_targets" : [ {
+      "target_number" : 1, "target_reqshots" : 2 }, {
+      "target_number" : 2, "target_reqshots" : 2 }, {
+      "target_number" : 3, "target_reqshots" : 2 } ],
+    "stage_classifier" : true, "stage_poppers" : 6, "stage_noshoots" : false,
+    "stage_strings" : 1,
+    "stage_briefing" : "Triple Play is a 12 round, 60 point Comstock classifier course. There are 3 metric targets, 3 pepper poppers, and 3 8” plates. Best 2 hits per paper will score and steel must fall to score. The start signal is audible.\n\nThe start position is standing in Box A facing barricade with arms relaxed at sides. Handgun is loaded and holstered. PCC: Start position is stock on belt, muzzle touching the mark, both hands on loaded carbine, safety on.\n\nOn the start signal, from within the fault lines, engage only T1, PP1 and P1 from the left side of the barricade, make a mandatory reload and engage only T2, PP2, and P2 through Port, make a mandatory reload and engage only T3, PP3 and P3 from the right side of the barricade. Arrays may be engaged in any order. Note: mark for PCC muzzle is 3 feet above ground, centered on barricade." },
+  {
+    "stage_classifiercode" : "99-56", "stage_name" : "On The Upper Pad II",
+    "stage_scoretype" : "Comstock", "stage_classictargets" : true,
+    "stage_targets" : [ {
+      "target_number" : 1, "target_reqshots" : 2 }, {
+      "target_number" : 2, "target_reqshots" : 2 }, {
+      "target_number" : 3, "target_reqshots" : 2 }, {
+      "target_number" : 4, "target_reqshots" : 2 }, {
+      "target_number" : 5, "target_reqshots" : 2 } ],
+    "stage_classifier" : true, "stage_poppers" : 2, "stage_noshoots" : false,
+    "stage_strings" : 1,
+    "stage_briefing" : "On The Upper Pad II is a 12 round, 60 point Comstock Classifier course. There are 5 metric targets and 2 pepper poppers. The best two hits per paper will score, steel must fall to score. The start signal is audible.\n\nThe start position is standing in Box A, facing the targets with both palms pressed to your ears or hearing protectors. Your handgun is loaded and holstered. PCC start position is standing in Box A, facing downrange, stock on belt, muzzle downrange, loaded carbine held in both hands with safety on.\n\nOn the audible start signal, from box A only, engage T1, T2, PP1 and PP2, then through Port B only, engage T3-T5." },
+  {
+    "stage_classifiercode" : "99-57", "stage_name" : "Bookout's Boogie",
+    "stage_scoretype" : "Comstock", "stage_classictargets" : true,
+    "stage_targets" : [ {
+      "target_number" : 1, "target_reqshots" : 2 }, {
+      "target_number" : 2, "target_reqshots" : 2 }, {
+      "target_number" : 3, "target_reqshots" : 2 }, {
+      "target_number" : 4, "target_reqshots" : 2 } ],
+    "stage_classifier" : true, "stage_poppers" : 4, "stage_noshoots" : false,
+    "stage_strings" : 1,
+    "stage_briefing" : "Bookout's Boogie is a 12 round, 60 point Comstock classifier course. There are 4 metric targets and 4 pepper poppers. The best two hits per paper target will score, steel must fall to score. The start signal is audible.\n\nThe start position is standing in Box A, facing the targets, with your hands relaxed at your sides. Your handgun is loaded and holstered. PCC start position is standing in Box A, facing downrange, stock on belt, muzzle downrange, loaded carbine held in both hands with safety on.\n\nOn the audible start signal, from Box A, engage only T1-T4 or PP1-PP4, then from Box B, engage only the remaining targets. Targets engaged from box A may not be re-engaged from Box B, and vice versa." },
+  {
+    "stage_classifiercode" : "99-59", "stage_name" : "Lazy man Standards",
+    "stage_scoretype" : "Virginia", "stage_classictargets" : true,
+    "stage_targets" : [ {
+      "target_number" : 1, "target_reqshots" : 8 }, {
+      "target_number" : 2, "target_reqshots" : 8 }, {
+      "target_number" : 3, "target_reqshots" : 8 } ],
+    "stage_classifier" : true, "stage_poppers" : 0, "stage_noshoots" : false,
+    "stage_strings" : 4,
+    "stage_briefing" : "Lazy Man Standards is a 24 round, 120 point Virginia Count Standards shot in four strings. There are 3 Metric targets. The best 8 rounds per target will score. The start signal is audible.\n\nThe start position is standing in box A, facing downrange with your wrists above your respective shoulders. Your gun will be loaded and holstered. PCC start position is standing in Box A, facing downrange, stock on belt, muzzle downrange, loaded carbine held in both hands with safety on.\n\nString 1: On the start signal, from within the fault lines, engage each target with only 2 rounds freestyle.\n\nString 2: On the start signal, from within the fault lines, engage each target with only one round freestyle, make a mandatory reload and reengage with only one round freestyle.\n\nString 3: On the start signal, from within the fault lines, engage each target with only 2 rounds strong hand only. PCC: strong shoulder only.\n\nString 4: On the start signal, from within the fault lines, engage each target with only 2 rounds weak hand only. PCC: weak shoulder only." },
+  {
+    "stage_classifiercode" : "99-61",
+    "stage_name" : "Sit Or Get Off The Shot", "stage_scoretype" : "Virginia",
+    "stage_classictargets" : true, "stage_targets" : [ {
+      "target_number" : 1, "target_reqshots" : 3 }, {
+      "target_number" : 2, "target_reqshots" : 3 }, {
+      "target_number" : 3, "target_reqshots" : 3 }, {
+      "target_number" : 4, "target_reqshots" : 3 } ],
+    "stage_classifier" : true, "stage_poppers" : 0, "stage_noshoots" : false,
+    "stage_strings" : 3,
+    "stage_briefing" : "Sit or Get off the Shot is a 12 round, 60 point, Virginia Count, classifier course. There are 4 metric targets. The best 3 hits per target will score. The start signal is audible.\n\nThe start position is sitting in the chair, back fully against the back of the chair with both palms flat on table and knees under the table. Handgun is loaded and holstered. PCC start position is the same, with the loaded carbine on the table, muzzle downrange, safety on. The carbine may not extend past the rear edge of the table, but may extend downrange.\n\nString 1: On the start signal, from behind the fault line, engage each target with only one round each, freestyle.\n\nString 2: On the start signal, from behind the fault line, engage each target with only one round each, strong hand only. PCC: strong shoulder only.\n\nString 3: On the start signal, from behind the fault line, engage each target with only one round each, weak hand only. PCC: weak shoulder only." },
+  {
+    "stage_classifiercode" : "99-62", "stage_name" : "Bang and Clang",
+    "stage_scoretype" : "Comstock", "stage_classictargets" : true,
+    "stage_targets" : [ {
+      "target_number" : 1, "target_reqshots" : 2 } ],
+    "stage_classifier" : true, "stage_poppers" : 4, "stage_noshoots" : false,
+    "stage_strings" : 1,
+    "stage_briefing" : "Bang and Clang is a 6 round, 30 point Comstock classifier course. There is one metric target and 4 pepper poppers. The best two hits per paper target will score, steel must fall to score. The start signal is audible.\n\nThe start position is standing in Box A, facing the targets with both wrists above your respective shoulders. Your gun is loaded and holstered. PCC start position is standing in Box A, facing downrange, stock on belt, muzzle downrange, loaded carbine held in both hands with safety on.\n\nOn the start signal, engage T1 and PP1-4 from within the fault lines." },
+  {
+    "stage_classifiercode" : "99-63", "stage_name" : "Merle's Standards",
+    "stage_scoretype" : "Virginia", "stage_classictargets" : true,
+    "stage_targets" : [ {
+      "target_number" : 1, "target_reqshots" : 6 }, {
+      "target_number" : 2, "target_reqshots" : 6 }, {
+      "target_number" : 3, "target_reqshots" : 12 } ],
+    "stage_classifier" : true, "stage_poppers" : 0, "stage_noshoots" : false,
+    "stage_strings" : 2,
+    "stage_briefing" : "Merle’s Standards is a 24 round, 120 point Virginia Count classifier course. There are 3 metric targets. The best 6 hits on T1 and T2 will score. The best 12 hits on T3 will score. The start signal is audible.\n\nStart position is standing in Box A, facing the targets with both wrists above your respective shoulders. Your gun is loaded and holstered. PCC start position is standing in Box A, facing downrange, stock on belt, muzzle downrange, loaded carbine held in both hands with safety on.\n\nString 1: On the start signal, from Box A, engage only T3 with 6 rounds, freestlye, make a mandatory reload and engage only T2 with 6 rounds, strong hand only. PCC: strong shoulder only.\n\nString 2: On the audible start signal, from Box A, engage only T3 with 6 rounds, freestlye, make a mandatory reload, and engage only T1 with six rounds, weak hand only. PCC: weak shoulder only." }
+]

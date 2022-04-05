@@ -1,0 +1,55 @@
+{
+  "match_name" : "USSL-URL-EMG",
+  "match_type" : "timeplus_p",
+  "match_subtype" : "urlemg",
+  "match_ctgs" : "[\"Lady\",\"Junior\",\"Senior\",\"Super Senior\",\"Law Enforcement\",\"Military\"]",
+  "match_cats" : [ "Tactical Optics", "Limited", "Heavy Metal Optics", "Open", "PCC", "22lr" ],
+  "match_cls" : [ "PRO", "SP", "EX", "SS", "MM", "R" ],
+  "match_chkins" : [ "QTP", "Checked in", "Paid", "Staff" ],
+  "match_penalties" : [ {
+    "pen_bin" : false,
+    "pen_warn" : false,
+    "pen_val" : 2,
+    "pen_name" : "Failure To Neutralize, 8.14.1" }, {
+    "pen_bin" : false,
+    "pen_warn" : false,
+    "pen_val" : 4,
+    "pen_name" : "Complete Miss Clay, Steel, Paper < 45 Yards , 8.14.2" }, {
+    "pen_bin" : false,
+    "pen_warn" : false,
+    "pen_val" : 3,
+    "pen_name" : "Penality Target, 8.14.3" }, {
+    "pen_bin" : false,
+    "pen_warn" : false,
+    "pen_val" : 5,
+    "pen_name" : "Procedural, 9.1" }, {
+    "pen_bin" : false,
+    "pen_warn" : false,
+    "pen_val" : 9,
+    "pen_name" : "Failure To Engage 8.14.4.1" }, {
+    "pen_bin" : false,
+    "pen_warn" : false,
+    "pen_val" : 10,
+    "pen_name" : "Miss On Steel From 45 Yards-100 Yards 8.14.4.2" }, {
+    "pen_bin" : false,
+    "pen_warn" : false,
+    "pen_val" : 20,
+    "pen_name" : "Miss On Steel > 100 Yards, < 300 Yards 8.14.5" }, {
+    "pen_bin" : false,
+    "pen_warn" : false,
+    "pen_val" : 30,
+    "pen_name" : "Miss On Steel > 300 Yards 8.14.6.1" }, {
+    "pen_bin" : false,
+    "pen_warn" : false,
+    "pen_val" : 30,
+    "pen_name" : "Failure To Spin MGM spinner. 8.14.6.2" }, {
+    "pen_bin" : false,
+    "pen_warn" : false,
+    "pen_val" : 30,
+    "pen_name" : "Safety Procedural 9.2" }, {
+    "pen_bin" : false,
+    "pen_warn" : false,
+    "pen_val" : 500,
+    "pen_name" : "Stage Not Fired 8.14.7" }
+  ]
+}

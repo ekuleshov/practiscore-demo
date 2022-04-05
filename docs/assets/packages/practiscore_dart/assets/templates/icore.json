@@ -1,0 +1,88 @@
+{
+  "match_name" : "ICORE",
+  "match_type" : "icore",
+
+  "match_cats" : [ "Open", "Limited", "Limited 6", "Classic" ],
+  "match_cls" : [ "U", "D", "C", "B", "A", "M", "GM"],
+  "match_ctgs" : "[\"Junior\",\"Senior\",\"Super Senior\",\"Grand Senior\",\"Lady\",\"Military\",\"Law Enforcement\",\"International\",\"Snubby\"]",
+  "match_chkins": [ "Checked in", "Paid", "Staff", "RO" ],
+
+  "match_docs" : [
+    {
+      "url": "https://www.icore.org/pdf/ICORE_Rule_Book_01_Jan_2020.pdf",
+      "name": "ICORE Rules",
+      "type": "rules",
+      "chksum": "78bf4a2664c1d1f97591ec98f683b760a43b7b1c"
+    }
+  ],
+
+  "match_meta" : [
+    { "k" : "classifiers", "v" : "https://www.icore.org/classifiers/", "t" : "2020-11-01 00:00:00.000"}
+  ],
+
+  "match_penalties" : [ {
+    "pen_val" : 5.0,
+    "pen_bin" : false,
+    "pen_name" : "Miss"
+  }, {
+    "pen_val" : 5.0,
+    "pen_bin" : false,
+    "pen_name" : "No Shoot"
+  }, {
+    "pen_val" : 5.0,
+    "pen_bin" : false,
+    "pen_name" : "Premature Start"
+  }, {
+    "pen_val" : 5.0,
+    "pen_bin" : false,
+    "pen_name" : "Foot Fault"
+  }, {
+    "pen_val" : 5.0,
+    "pen_bin" : false,
+    "pen_name" : "FTE"
+  }, {
+    "pen_val" : 5.0,
+    "pen_bin" : false,
+    "pen_name" : "Procedural"
+  }, {
+    "pen_val" : 5.0,
+    "pen_bin" : false,
+    "pen_name" : "Extra Hit"
+  }, {
+    "pen_val" : 5.0,
+    "pen_bin" : false,
+    "pen_name" : "Extra Shot"
+  }, {
+    "pen_val" : 10.0,
+    "pen_bin" : false,
+    "pen_name" : "Overtime Shot"
+  }, {
+    "pen_val" : 30.0,
+    "pen_bin" : false,
+    "pen_name" : "Missed Stop Plate"
+  }, {
+    "pen_val" : 360.0,
+    "pen_bin" : true,
+    "pen_name" : "Failing to make Chrono"
+  } ],
+  "match_bonuses" : [],
+  
+  "match_dqs" : [
+    { "uuid" : "VBBcLP", "name" : "1.2 Unsupervised firearm handling" },
+    { "uuid" : "ENegyW", "name" : "1.3 Breaking 180" },
+    { "uuid" : "ZqUETc", "name" : "1.4 Accidental discharge" },
+    { "uuid" : "WTHH3n", "name" : "1.5 Disruptive or abusive behavior" },
+    { "uuid" : "gsxveb", "name" : "1.6 Under the influence drugs or alcohol" },
+    { "uuid" : "jwBj5L", "name" : "1.7 Dropped firearm" },
+    { "uuid" : "XxjVCz", "name" : "1.8 Failed to obey Range Officer" },
+    { "uuid" : "Q5NmQV", "name" : "1.9 Unsafe gun handling" },
+    { "uuid" : "6Ryanu", "name" : "6.8 Touching target until it is scored" }
+  ],
+  
+  "match_divisionpfs": {
+    "Open": { "minor": 120 },
+    "Limited": { "minor": 120 },
+    "Limited 6": { "minor": 120 },
+    "Classic": { "minor": 120 }
+  }
+}

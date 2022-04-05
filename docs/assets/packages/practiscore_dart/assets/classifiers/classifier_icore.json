@@ -1,0 +1,610 @@
+[
+  {
+    "stage_classifier" : true,
+    "stage_classifiercode" : "CS-001",
+    "stage_name" : "Not Jeffs Prez II",
+    "stage_scoretype" : "IcoreShotsLimited",
+    "stage_strings" : 1,
+    "stage_targets" : [ 
+      { "target_number" : 1, "target_reqshots" : 4 },
+      { "target_number" : 2, "target_reqshots" : 4 },
+      { "target_number" : 3, "target_reqshots" : 4 },
+      { "target_number" : 4, "target_reqshots" : 4 },
+      { "target_number" : 5, "target_reqshots" : 4 },
+      { "target_number" : 6, "target_reqshots" : 4 } ],
+    "stage_briefing" : "Start Position: Standing in Box A, facing uprange, hands above respective shoulders, toes touching back of box.\n\nProcedure: At start signal, turn and engage T1 thru T6 with only one (1) round each in any order. Make a mandatory reload and then re-engage T1 thru T6 with only one (1) round each in any order. Make a mandatory reload and then re-engage T1 thru T6 with only one (1) round each in any order. Make a mandatory reload and then re-engage T1 thru T6 with only one (1) round each in any order. Scoring: Shots Limited\n\nTargets: 6 NRA D-1 paper\n\nRounds: 24 maximum\n\nStart: Audible\n\nStop: Last shot\n\nPenalties: Per the ICORE rulebook. Foot faults, extra shots, extra hits, procedurals and misses +5 seconds per occurrence." },
+  {
+    "stage_classifier" : true, "stage_classifiercode" : "CS-002",
+    "stage_name" : "Speed Racer", "stage_scoretype" : "IcoreShotsLimited",
+    "stage_strings" : 1, "stage_targets" : [ {
+      "target_number" : 1, "target_reqshots" : 3 }, {
+      "target_number" : 2, "target_reqshots" : 3 }, {
+      "target_number" : 3, "target_reqshots" : 3 }, {
+      "target_number" : 4, "target_reqshots" : 3 }, {
+      "target_number" : 5, "target_reqshots" : 3 }, {
+      "target_number" : 6, "target_reqshots" : 3 } ],
+      "stage_briefing" : "Start Position: Standing in Box A, facing downrange, hands above respective shoulders.\n\nProcedure: At start signal, engage T1 thru T6 with only one (1) round each in any order, then move to Box B and engage T1 thru T6 with only one (1) round each in any order, then move to Box C and engage T1 thru T6 with only one (1) round each in any order.\n\nScoring: Shots Limited\n\nTargets: 6 NRA D-1 paper\n\nRounds: 18 maximum\n\nStart: Audible\n\nStop: Last shot\n\nPenalties: Per the ICORE rulebook. Foot faults, extra shots, extra hits, procedurals and misses +5 seconds per occurrence." },
+  {
+    "stage_classifier" : true, "stage_classifiercode" : "CS-003",
+    "stage_name" : "Bill Drill to Third Power",
+    "stage_scoretype" : "IcoreShotsLimited", "stage_strings" : 1,
+    "stage_targets" : [ {
+      "target_number" : 1, "target_reqshots" : 6 }, {
+      "target_number" : 2, "target_reqshots" : 6 }, {
+      "target_number" : 3, "target_reqshots" : 6 } ],
+    "stage_briefing" : "Start Position: Standing in Box A, facing downrange, hands above respective shoulders.\n\nProcedure: At start signal, engage T1 with only six (6) rounds, then perform a mandatory reload and engage T2 with only six (6) rounds, then perform a mandatory reload and engage T3 with only six (6) rounds. At shooter's preference, targets may be reversed in order, but must be shot in sequence from left to right or right to left. One procedural to be assessed for shooting targets out of sequence.\n\nScoring: Shots Limited\n\nTargets: 3 NRA D-1 paper\n\nRounds: 18 maximum\n\nStart: Audible\n\nStop: Last shot\n\nPenalties: Per the ICORE rulebook. Foot faults, extra shots, extra hits, procedurals and misses +5 seconds per occurrence." },
+  {
+    "stage_classifier" : true, "stage_classifiercode" : "CS-004",
+    "stage_name" : "Times Two", "stage_scoretype" : "IcoreShotsLimited",
+    "stage_strings" : 1, "stage_targets" : [ {
+      "target_number" : 1, "target_reqshots" : 2 }, {
+      "target_number" : 2, "target_reqshots" : 2 }, {
+      "target_number" : 3, "target_reqshots" : 2 }, {
+      "target_number" : 4, "target_reqshots" : 2 }, {
+      "target_number" : 5, "target_reqshots" : 2 }, {
+      "target_number" : 6, "target_reqshots" : 2 } ],
+    "stage_briefing" : "Start Position: Standing in Box A or Box B, facing downrange, hands relaxed at sides.\n\nProcedure: At start signal engage appropriate targets, then move to other box and engage appropriate targets. From Box A engage only T1 thru T3 with only two (2) rounds each in any order. From Box B engage only T4 thru T6 with only two (2) rounds each in any order.\n\nScoring: Shots Limited\n\nTargets: 6 NRA D-1 paper\n\nRounds: 12 maximum\n\nStart: Audible\n\nStop: Last shot\n\nPenalties: Per the ICORE rulebook. Foot faults, extra shots, extra hits, procedurals and misses +5 seconds per occurrence." },
+  {
+    "stage_classifier" : true, "stage_classifiercode" : "CS-005",
+    "stage_name" : "One Lump or Two?",
+    "stage_scoretype" : "IcoreShotsUnlimited", "stage_strings" : 1,
+    "stage_targets" : [ {
+      "target_number" : 1, "target_reqshots" : 1 }, {
+      "target_number" : 2, "target_reqshots" : 1 }, {
+      "target_number" : 3, "target_reqshots" : 1 }, {
+      "target_number" : 4, "target_reqshots" : 1 }, {
+      "target_number" : 5, "target_reqshots" : 1 }, {
+      "target_number" : 6, "target_reqshots" : 2 }, {
+      "target_number" : 7, "target_reqshots" : 2 }, {
+      "target_number" : 8, "target_reqshots" : 2 }, {
+      "target_number" : 9, "target_reqshots" : 2 }, {
+      "target_number" : 10, "target_reqshots" : 2 }, {
+      "target_number" : 11, "target_reqshots" : 2 } ],
+    "stage_briefing" : "Start Position: Standing in Box A, facing downrange, hands relaxed at sides.\n\nProcedure: At start signal engage engage only T1 thru T5 with one (1) round each in any order. From Box B engage only T6 thru T11 with two (2) rounds each in any order.\n\nScoring: Shots Unlimited\n\nTargets: 11 NRA D-1 paper\n\nRounds: 17 minimum\n\nStart: Audible\n\nStop: Last shot\n\nPenalties: Per the ICORE rulebook. Foot faults, procedurals and misses +5 seconds per occurrence." },
+  {
+    "stage_classifier" : true, "stage_classifiercode" : "CS-006",
+    "stage_name" : "El Prez", "stage_scoretype" : "IcoreShotsLimited",
+    "stage_strings" : 2, "stage_targets" : [ {
+      "target_number" : 1, "target_reqshots" : 8 }, {
+      "target_number" : 2, "target_reqshots" : 8 }, {
+      "target_number" : 3, "target_reqshots" : 8 } ],
+    "stage_briefing" : "Start Position: Standing in Box A, facing downrange, hands above respective shoulders.\n\nProcedure:\nString 1: At start signal, engage T1 thru T3 with only two (2) rounds each in any order, then perform a mandatory reload and re-engage T1 thru T3 with only two (2) rounds each in any order.\nString 2: Repeat String 1.\n\nScoring: Shots Limited\n\nTargets: 3 NRA D-1 paper\n\nRounds: 24 maximum\n\nStart: Audible\n\nStop: Last shot\n\nPenalties: Per the ICORE rulebook. Foot faults, extra shots, extra hits, procedurals and misses +5 seconds per occurrence." },
+  {
+    "stage_classifier" : true, "stage_classifiercode" : "CS-007",
+    "stage_name" : "Speed Only", "stage_scoretype" : "IcoreShotsLimited",
+    "stage_strings" : 1, "stage_targets" : [ {
+      "target_number" : 1, "target_reqshots" : 3 }, {
+      "target_number" : 2, "target_reqshots" : 3 }, {
+      "target_number" : 3, "target_reqshots" : 3 }, {
+      "target_number" : 4, "target_reqshots" : 3 }, {
+      "target_number" : 5, "target_reqshots" : 3 } ],
+    "stage_briefing" : "Start Position: Standing in Box A, facing downrange, hands relaxed at sides.\n\nProcedure: At start signal, engage T1 thru T5 with only one (1) round each in any order, FREESTYLE, then perform a mandatory reload and re-engage T1 thru T5 with only one (1) round each in any order, STRONG HAND ONLY, then perform a mandatory reload and re-engage T1 thru T5 with only one (1) round each in any order, WEAK HAND ONLY.\n\nScoring: Shots Limited\n\nTargets: 5 NRA D-1 paper\n\nRounds: 15 maximum\n\nStart: Audible\n\nStop: Last shot\n\nPenalties: Per the ICORE rulebook. Foot faults, extra shots, extra hits, procedurals and misses +5 seconds per occurrence." },
+  {
+    "stage_classifier" : true, "stage_classifiercode" : "CS-008",
+    "stage_name" : "Accuracy is Everything",
+    "stage_scoretype" : "IcoreShotsLimited", "stage_strings" : 1,
+    "stage_targets" : [ {
+      "target_number" : 1, "target_reqshots" : 2 }, {
+      "target_number" : 2, "target_reqshots" : 2 }, {
+      "target_number" : 3, "target_reqshots" : 4 }, {
+      "target_number" : 4, "target_reqshots" : 2 }, {
+      "target_number" : 5, "target_reqshots" : 2 } ],
+    "stage_briefing" : "Start Position: Standing in Box A or Box B, facing downrange, hands relaxed at sides.\n\nProcedure: At start signal engage appropriate targets, then move to other box and engage appropriate targets. From Box A engage only T1 thru T3 with only two (2) rounds each in any order, LEFT HAND UNSUPPORTED. From Box B engage only T3 thru T5 with only two (2) rounds each in any order, RIGHT HAND UNSUPPORTED.\n\nScoring: Shots Limited\n\nTargets: 5 NRA D-1 paper\n\nRounds: 12 maximum\n\nStart: Audible\n\nStop: Last shot\n\nPenalties: Per the ICORE rulebook. Foot faults, extra shots, extra hits, procedurals and misses +5 seconds per occurrence." },
+  {
+    "stage_classifier" : true, "stage_classifiercode" : "CS-009",
+    "stage_name" : "How Fast Are You?",
+    "stage_scoretype" : "IcoreShotsLimited", "stage_strings" : 2,
+    "stage_targets" : [ {
+      "target_number" : 1, "target_reqshots" : 2 }, {
+      "target_number" : 2, "target_reqshots" : 2 }, {
+      "target_number" : 3, "target_reqshots" : 2 }, {
+      "target_number" : 4, "target_reqshots" : 2 }, {
+      "target_number" : 5, "target_reqshots" : 2 }, {
+      "target_number" : 6, "target_reqshots" : 2 }, {
+      "target_number" : 7, "target_reqshots" : 4 } ],
+    "stage_briefing" : "Start Position: Standing in Box A, facing downrange, hands relaxed at sides.\n\nProcedure:\nString 1: At start signal, engage only T1 thru T3 with only two (2) rounds each in any order, perform a mandatory reload and engage T7 with only two (2) rounds.\nString 2: At start signal, engage only T4 thru T6 with only two (2) rounds each in any order, perform a mandatory reload and engage T7 with only two (2) rounds.\n\nScoring: Shots Limited\n\nTargets: 7 NRA D-1 paper\n\nRounds: 16 maximum\n\nStart: Audible\n\nStop: Last shot\n\nPenalties: Per the ICORE rulebook. Foot faults, extra shots, extra hits, procedurals and misses +5 seconds per occurrence." },
+  {
+    "stage_classifier" : true, "stage_classifiercode" : "CS-010",
+    "stage_name" : "Exercise One Two Three",
+    "stage_scoretype" : "IcoreShotsLimited", "stage_strings" : 3,
+    "stage_targets" : [ {
+      "target_number" : 1, "target_reqshots" : 5 }, {
+      "target_number" : 2, "target_reqshots" : 8 }, {
+      "target_number" : 3, "target_reqshots" : 5 } ],
+    "stage_briefing" : "Start Position: All strings - standing in shooting box, facing downrange, hands relaxed at sides.\n\nProcedure:\nString 1: From Box A, at start signal engage T1 thru T3 with only two (2) rounds each in any order.\nString 2: From Box B, at start signal engage only T1 and T3 with only three (3) rounds each in any order. String 3: From Box C, at start signal engage only T2 with with only three (3) rounds, then perform a mandatory reload and re-engage only T2 with only three (3) rounds.\n\nScoring: Shots Limited Targets: 3 NRA D-1 paper Rounds: 18 maximum Start: Audible\n\nStop: Last shot\n\nPenalties: Per the ICORE rulebook. Foot faults, extra shots, extra hits, procedurals and misses +5 seconds per occurrence." },
+  {
+    "stage_classifier" : true, "stage_classifiercode" : "CS-011",
+    "stage_name" : "So Many, So Little Time",
+    "stage_scoretype" : "IcoreShotsLimited", "stage_strings" : 1,
+    "stage_targets" : [ {
+      "target_number" : 1, "target_reqshots" : 3 }, {
+      "target_number" : 2, "target_reqshots" : 3 }, {
+      "target_number" : 3, "target_reqshots" : 2 }, {
+      "target_number" : 4, "target_reqshots" : 2 }, {
+      "target_number" : 5, "target_reqshots" : 2 }, {
+      "target_number" : 6, "target_reqshots" : 3 }, {
+      "target_number" : 7, "target_reqshots" : 3 } ],
+    "stage_briefing" : "Start Position: Standing in Box A or Box B, facing downrange, hands relaxed at sides.\n\nProcedure: At start signal engage appropriate targets, then move to other box and engage appropriate targets. From Box A engage only T1 and T2 with only three (3) rounds each in any order. From Box B engage only T6 and T7 with only three (3) rounds each in any order. Between Box A and Box B (no foot in either box), engage only T3 thru T5 with only two (2) rounds in any order. A mandatory reload must be performed before engaging T3 thru T5 and a second reload must be performed after engaging T3 thru T5.\n\nScoring: Shots Limited\n\nTargets: 7 NRA D-1 paper\n\nRounds: 18 maximum\n\nStart: Audible\n\nStop: Last shot\n\nPenalties: Per the ICORE rulebook. Foot faults, extra shots, extra hits, procedurals and misses +5 seconds per occurrence." },
+  {
+    "stage_classifier" : true, "stage_classifiercode" : "CS-012",
+    "stage_name" : "Close Quarter Drill",
+    "stage_scoretype" : "IcoreShotsLimited", "stage_strings" : 1,
+    "stage_targets" : [ {
+      "target_number" : 1, "target_reqshots" : 3 }, {
+      "target_number" : 2, "target_reqshots" : 3 }, {
+      "target_number" : 3, "target_reqshots" : 3 }, {
+      "target_number" : 4, "target_reqshots" : 3 }, {
+      "target_number" : 5, "target_reqshots" : 3 }, {
+      "target_number" : 6, "target_reqshots" : 3 } ],
+    "stage_briefing" : "Start Position: Standing in Box A, facing downrange, hands relaxed at sides.\n\nProcedure: At start signal T1 thru T6 with only three (3) rounds each in any order. Scoring: Shots Limited\n\nTargets: 6 NRA D-1 paper Rounds: 18 maximum Start: Audible\n\nStop: Last shot\n\nPenalties: Per the ICORE rulebook. Foot faults, extra shots, extra hits, procedurals and misses +5 seconds per occurrence." },
+  {
+    "stage_classifier" : true, "stage_classifiercode" : "CS-013",
+    "stage_name" : "Twos and Threes",
+    "stage_scoretype" : "IcoreShotsLimited", "stage_strings" : 1,
+    "stage_targets" : [ {
+      "target_number" : 1, "target_reqshots" : 2 }, {
+      "target_number" : 2, "target_reqshots" : 3 }, {
+      "target_number" : 3, "target_reqshots" : 3 }, {
+      "target_number" : 4, "target_reqshots" : 2 }, {
+      "target_number" : 5, "target_reqshots" : 3 }, {
+      "target_number" : 6, "target_reqshots" : 3 } ],
+    "stage_briefing" : "Start Position: Standing in Box A, facing downrange, hands relaxed at sides.\n\nProcedure: At start signal, from Box A, engage only T1 with only two (2) rounds and engage only T2 with only three (3) rounds in any order. From Box B, engage only T3 with only three (3) rounds and engage only T4 with only two (2) rounds in any order. From Box C, engage only T5 and T6 with only three (3) rounds each in any order. A mandatory reload must be performed before engaging targets from Box B and again before engaging targets from Box C. Targets MUST be engaged ONLY with number of rounds as specified. Failure to engage targets with correct round count will be scored as EXTRA HITS or MISSES as appropriate.\n\nScoring: Shots Limited\n\nTargets: 6 NRA D-1 paper\n\nRounds: 16 maximum\n\nStart: Audible\n\nStop: Last shot\n\nPenalties: Per the ICORE rulebook. Foot faults, extra shots, extra hits, procedurals and misses +5 seconds per occurrence." },
+  {
+    "stage_classifier" : true, "stage_classifiercode" : "CS-014",
+    "stage_name" : "Time to Fly", "stage_scoretype" : "IcoreShotsLimited",
+    "stage_strings" : 1, "stage_noshoots" : true, "stage_targets" : [ {
+      "target_number" : 1, "target_reqshots" : 3 }, {
+      "target_number" : 2, "target_reqshots" : 3 }, {
+      "target_number" : 3, "target_reqshots" : 3 }, {
+      "target_number" : 4, "target_reqshots" : 3 }, {
+      "target_number" : 5, "target_reqshots" : 3 }, {
+      "target_number" : 6, "target_reqshots" : 3 }, {
+      "target_number" : 7, "target_reqshots" : 3 }, {
+      "target_number" : 8, "target_reqshots" : 3 } ],
+    "stage_briefing" : "Start Position: Standing in Box A or Box B, facing downrange, hands relaxed at sides.\n\nProcedure: At start signal, from Box A engage only T1 and T2 with only three (3) rounds each in any order. From Box B, engage only T3 and T4 with only three (3) rounds each in any order. From Box C, engage only T5 and T6 with only three (3) rounds each in any order. From Box D, engage only T7 and T8 with only three (3) rounds each in any order. Shooting from Boxes A and B must be completed before moving to Boxes C and D.\n\nScoring: Shots Limited Targets: 8 NRA D-1 paper Rounds: 24 maximum Start: Audible\n\nStop: Last shot\n\nPenalties: Per the ICORE rulebook. Foot faults, extra shots, extra hits, procedurals and misses +5 seconds per occurrence." },
+  {
+    "stage_classifier" : true, "stage_classifiercode" : "CS-015",
+    "stage_name" : "Long Shot", "stage_scoretype" : "IcoreShotsLimited",
+    "stage_strings" : 1, "stage_targets" : [ {
+      "target_number" : 1, "target_reqshots" : 2 }, {
+      "target_number" : 2, "target_reqshots" : 2 }, {
+      "target_number" : 3, "target_reqshots" : 2 }, {
+      "target_number" : 4, "target_reqshots" : 2 }, {
+      "target_number" : 5, "target_reqshots" : 2 }, {
+      "target_number" : 6, "target_reqshots" : 2 } ],
+    "stage_briefing" : "Start Position: Standing in Box A or Box B, facing downrange, hands above respective shoulders.\n\nProcedure: At start signal engage appropriate targets, then move to other box and engage appropriate targets. From Box A, engage only T1 thru T3 with only two (2) rounds each in any order. From Box B engage only T4 thru T6 with only two (2) rounds each in any order.\n\nScoring: Shots Limited\n\nTargets: 6 NRA D-1 paper\n\nRounds: 12 maximum\n\nStart: Audible\n\nStop: Last shot\n\nPenalties: Per the ICORE rulebook. Foot faults, extra shots, extra hits, procedurals and misses +5 seconds per occurrence." },
+  {
+    "stage_classifier" : true, "stage_classifiercode" : "CS-016",
+    "stage_name" : "Side to Side", "stage_scoretype" : "IcoreShotsUnlimited",
+    "stage_strings" : 1, "stage_targets" : [ {
+      "target_number" : 1, "target_reqshots" : 3 }, {
+      "target_number" : 2, "target_reqshots" : 3 }, {
+      "target_number" : 3, "target_reqshots" : 3 }, {
+      "target_number" : 4, "target_reqshots" : 3 }, {
+      "target_number" : 5, "target_reqshots" : 3 }, {
+      "target_number" : 6, "target_reqshots" : 3 } ],
+    "stage_briefing" : "Start Position: Standing in Box A, facing downrange, hands relaxed at sides.\n\nProcedure: At start signal engage 3 strong side targets (T4 thru T6 if right handed or T1 thru T3 if left handed) with two (2) rounds each in any order, STRONG HAND ONLY. Perform a mandatory reload and then engage 3 weak side targets with two (2) rounds each in any order, WEAK HAND ONLY. Perform a mandatory reload and engage T1 thru T6 with one (1) round each in any order, FREE STYLE.\n\nScoring: Shots Unlimited\n\nTargets: 6 NRA D-1 paper\n\nRounds: 18 minimum\n\nStart: Audible\n\nStop: Last shot\n\nPenalties: Per the ICORE rulebook. Foot faults, procedurals and misses +5 seconds per occurrence." },
+  {
+    "stage_classifier" : true, "stage_classifiercode" : "CS-017",
+    "stage_name" : "Thread the Needle",
+    "stage_scoretype" : "IcoreShotsLimited", "stage_strings" : 1,
+    "stage_targets" : [ {
+      "target_number" : 1, "target_reqshots" : 3 }, {
+      "target_number" : 2, "target_reqshots" : 3 }, {
+      "target_number" : 3, "target_reqshots" : 3 }, {
+      "target_number" : 4, "target_reqshots" : 3 } ],
+    "stage_briefing" : "Start Position: Standing in Box A, facing downrange, hands above respective shoulders.\n\nProcedure: At start signal engage T1 thru T4 with only three (3) rounds each in any order.\n\nScoring: Shots Limited\n\nTargets: 4 NRA D-1 paper Rounds: 12 maximum Start: Audible\n\nStop: Last shot\n\nPenalties: Per the ICORE rulebook. Foot faults, extra shots, extra hits, procedurals and misses +5 seconds per occurrence." },
+  {
+    "stage_classifier" : true, "stage_classifiercode" : "CS-018",
+    "stage_name" : "Peek-A-Boo", "stage_scoretype" : "IcoreShotsUnlimited",
+    "stage_strings" : 1, "stage_targets" : [ {
+      "target_number" : 1, "target_reqshots" : 4 }, {
+      "target_number" : 2, "target_reqshots" : 4 }, {
+      "target_number" : 3, "target_reqshots" : 4 }, {
+      "target_number" : 4, "target_reqshots" : 4 }, {
+      "target_number" : 5, "target_reqshots" : 4 } ],
+    "stage_briefing" : "Start Position: Standing in Box A, facing downrange, hands relaxed at sides.\n\nProcedure: At start signal engage T1 thru T5 with two (2) rounds each in any order. Perform a mandatory reload and re-engage T1 thru T5 with two (2) rounds each in any order.\n\nScoring: Shots Unlimited\n\nTargets: 5 NRA D-1 paper\n\nRounds: 20 minimum\n\nStart: Audible\n\nStop: Last shot\n\nPenalties: Per the ICORE rulebook. Foot faults, procedurals and misses +5 seconds per occurrence." },
+  {
+    "stage_classifier" : true, "stage_classifiercode" : "CS-019",
+    "stage_name" : "Damm dem Feruns",
+    "stage_scoretype" : "IcoreShotsLimited", "stage_strings" : 3,
+    "stage_targets" : [ {
+      "target_number" : 1, "target_reqshots" : 6 }, {
+      "target_number" : 2, "target_reqshots" : 6 }, {
+      "target_number" : 3, "target_reqshots" : 6 } ],
+    "stage_briefing" : "Start Position: Standing in Box A or Box B, facing downrange, hands relaxed at sides.\n\nProcedure:\nString 1: From Box A, at start signal, engage T1 thru T3 with two (2) rounds each in any order from LEFT side of barricade.\nString 2: From Box A, at start signal, engage T1 thru T3 with two (2) rounds each in any order from RIGHT side of barricade.\nString 3: From Box B, at start signal, engage T1 thru T3 with two (2) rounds each in any order, standing. Scoring: Shots Limited\n\nTargets: 3 NRA D-1 paper\n\nRounds: 18 maximum\n\nStart: Audible\n\nStop: Last shot\n\nPenalties: Per the ICORE rulebook. Foot faults, extra shots, extra hits, procedurals and misses +5 seconds per occurrence." },
+  {
+    "stage_classifier" : true, "stage_classifiercode" : "CS-020",
+    "stage_name" : "Vics Brain Dead",
+    "stage_scoretype" : "IcoreShotsUnlimited", "stage_strings" : 1,
+    "stage_targets" : [ {
+      "target_number" : 1, "target_reqshots" : 3 }, {
+      "target_number" : 2, "target_reqshots" : 3 }, {
+      "target_number" : 3, "target_reqshots" : 3 }, {
+      "target_number" : 4, "target_reqshots" : 3 }, {
+      "target_number" : 5, "target_reqshots" : 3 }, {
+      "target_number" : 6, "target_reqshots" : 2 }, {
+      "target_number" : 7, "target_reqshots" : 2 }, {
+      "target_number" : 8, "target_reqshots" : 2 } ],
+    "stage_briefing" : "Start Position: Standing in Box A, facing downrange, hands gripping barricade at shoulder level.\n\nProcedure: At start signal from Box A engage T1 thru T5 with two (2) rounds each in any order. From Box B engage T6 thru T8 with two (2) rounds each in any order. From Box C engage T1 thru T5 with one (1) round each in any order. Scoring: Shots Unlimited\n\nTargets: 8 NRA D-1 paper\n\nRounds: 21 minimum\n\nStart: Audible\n\nStop: Last shot\n\nPenalties: Per the ICORE rulebook. Foot faults, procedurals and misses +5 seconds per occurrence." },
+  {
+    "stage_classifier" : true, "stage_classifiercode" : "CS-021",
+    "stage_name" : "Six Inches of Separation",
+    "stage_scoretype" : "IcoreShotsLimited", "stage_strings" : 2,
+    "stage_targets" : [ {
+      "target_number" : 1, "target_reqshots" : 4 }, {
+      "target_number" : 2, "target_reqshots" : 4 }, {
+      "target_number" : 3, "target_reqshots" : 4 }, {
+      "target_number" : 4, "target_reqshots" : 4 }, {
+      "target_number" : 5, "target_reqshots" : 4 }, {
+      "target_number" : 6, "target_reqshots" : 4 } ],
+    "stage_briefing" : "Start Position: Standing in Box A or Box B, facing downrange, hands above respective shoulders.\n\nProcedure:\nString 1: At start signal from Box A engage only T1 thru T3 with only two (2) rounds each in any order. From Box B, engage only T4 thru T6 with only two (2) rounds each in any order.\nString 2: Repeat String 1, using STRONG HAND ONLY for all shots. Both hands may be used for reloading. Scoring: Shots Limited\n\nTargets: 6 NRA D-1 paper\n\nRounds: 24 maximum\n\nStart: Audible\n\nStop: Last shot\n\nPenalties: Per the ICORE rulebook. Foot faults, extra shots, extra hits, procedurals and misses +5 seconds per occurrence." },
+  {
+    "stage_classifier" : true, "stage_classifiercode" : "CS-022",
+    "stage_name" : "Phoenix Triangle",
+    "stage_scoretype" : "IcoreShotsLimited", "stage_strings" : 1,
+    "stage_targets" : [ {
+      "target_number" : 1, "target_reqshots" : 2 }, {
+      "target_number" : 2, "target_reqshots" : 2 }, {
+      "target_number" : 3, "target_reqshots" : 4 }, {
+      "target_number" : 4, "target_reqshots" : 4 }, {
+      "target_number" : 5, "target_reqshots" : 4 }, {
+      "target_number" : 6, "target_reqshots" : 4 }, {
+      "target_number" : 7, "target_reqshots" : 4 } ],
+    "stage_briefing" : "Start Position: Standing in Box A, facing downrange, hands relaxed at sides.\n\nProcedure: At start signal engage, from Box A engage only T1, T4 and T6 with only two (2) rounds each in any order, perform a manadatory reload and then engage only T2, T5 and T7 with only two (2) rounds each in any order. From Box B engage only T3, T4 and T5 with only two (2) rounds each in any order. From Box C engage only T3, T6 and T7 with only two (2) rounds each in any order.\n\nScoring: Shots Limited\n\nTargets: 7 NRA D-1 paper\n\nRounds: 24 maximum\n\nStart: Audible\n\nStop: Last shot\n\nPenalties: Per the ICORE rulebook. Foot faults, extra shots, extra hits, procedurals and misses +5 seconds per occurrence." },
+  {
+    "stage_classifier" : true, "stage_classifiercode" : "CS-023",
+    "stage_name" : "Stop the Insanity",
+    "stage_scoretype" : "IcoreShotsLimited", "stage_strings" : 2,
+    "stage_targets" : [ {
+      "target_number" : 1, "target_reqshots" : 6 }, {
+      "target_number" : 2, "target_reqshots" : 6 }, {
+      "target_number" : 3, "target_reqshots" : 6 } ],
+    "stage_briefing" : "Start Position:\nString 1: Standing in Box A, facing downrange, hands relaxed at sides.\nString 2: Standing in Box A, facing uprange, hands above respective shoulders.\n\nProcedure:\nString 1: At start signal engage T1 thru T3 with only two (2) rounds each in any order, perform a mandatory reload and re-engage T1 thru T3 with only two (2) rounds each in any order.\nString 2: At start signal, assume mandatory prone position and engage T1 thru T3 with only two (2) rounds each in any order.\n\nScoring: Shots Limited\n\nTargets: 3 NRA D-1 paper\n\nRounds: 18 maximum\n\nStart: Audible\n\nStop: Last shot\n\nPenalties: Per the ICORE rulebook. Foot faults, extra shots, extra hits, procedurals and misses +5 seconds per occurrence. Failure to go prone incurs a single procedural." },
+  {
+    "stage_classifier" : true, "stage_classifiercode" : "CS-024",
+    "stage_name" : "Boxes & Barricades",
+    "stage_scoretype" : "IcoreShotsLimited", "stage_strings" : 1,
+    "stage_targets" : [ {
+      "target_number" : 1, "target_reqshots" : 4 }, {
+      "target_number" : 2, "target_reqshots" : 4 }, {
+      "target_number" : 3, "target_reqshots" : 4 }, {
+      "target_number" : 4, "target_reqshots" : 4 }, {
+      "target_number" : 5, "target_reqshots" : 4 } ],
+    "stage_briefing" : "Start Position: Standing in Box A, facing downrange, hands relaxed at sides.\n\nProcedure: At start signal, from Box A engage only T1, T3 and T5 with only two (2) rounds each in any order. From Box B engage only T1 and T2 with only two (2) rounds each in any order. From Box C engage only T2, T3 and T4 with only two (2) rounds each in any order. From Box D engage only T4 and T5 with only two (2) rounds each in any order. Order of Boxes B, C and D is shooter's choice. One continuous string.\n\nScoring: Shots Limited\n\nTargets: 5 NRA D-1 paper\n\nRounds: 20\n\nStart: Audible\n\nStop: Last shot\n\nPenalties: Per the ICORE rulebook. Foot faults, extra shots, extra hits, procedurals and misses +5 seconds per occurrence." },
+  {
+    "stage_classifier" : true, "stage_classifiercode" : "CS-025",
+    "stage_name" : "Run Billy, Run Bill, Run William",
+    "stage_scoretype" : "IcoreShotsLimited", "stage_strings" : 1,
+    "stage_targets" : [ {
+      "target_number" : 1, "target_reqshots" : 6 }, {
+      "target_number" : 2, "target_reqshots" : 6 }, {
+      "target_number" : 3, "target_reqshots" : 6 } ],
+    "stage_briefing" : "Start Position: Standing in Box A, facing downrange, hands relaxed at sides.\n\nProcedure: At start signal, from Box A engage only T1 with only six (6) rounds. From Box B engage only T2 with only six (6) rounds. From Box C engage only T3 with only six (6) rounds. One continuous string.\n\nScoring: Shots Limited\n\nTargets: 3 NRA D-1 paper\n\nRounds: 18\n\nStart: Audible\n\nStop: Last shot\n\nPenalties: Per the ICORE rulebook. Foot faults, extra shots, extra hits, procedurals and misses +5 seconds per occurrence." },
+  {
+    "stage_classifier" : true, "stage_classifiercode" : "CS-026",
+    "stage_name" : "Field Standards",
+    "stage_scoretype" : "IcoreShotsLimited", "stage_strings" : 1,
+    "stage_targets" : [ {
+      "target_number" : 1, "target_reqshots" : 2 }, {
+      "target_number" : 2, "target_reqshots" : 2 }, {
+      "target_number" : 3, "target_reqshots" : 2 }, {
+      "target_number" : 4, "target_reqshots" : 2 }, {
+      "target_number" : 5, "target_reqshots" : 2 }, {
+      "target_number" : 6, "target_reqshots" : 2 }, {
+      "target_number" : 7, "target_reqshots" : 2 }, {
+      "target_number" : 8, "target_reqshots" : 2 }, {
+      "target_number" : 9, "target_reqshots" : 2 } ],
+    "stage_briefing" : "Start Position: Standing with toes touching start line, facing downrange, hands relaxed at sides.\n\nProcedure: At start signal, move to Box A and engage only T1 thru T3 with only two (2) rounds each in any order freestyle. Move to Box B and engage only T4 thru T6 with only two (2) rounds each in any order stronghand. Move to Box C and engage only T7 thru T9 with only two (2) rounds each in any order weakhand. One continuous string.\n\nScoring: Shots Limited\n\nTargets: 9 NRA D-1 paper\n\nRounds: 18\n\nStart: Audible\n\nStop: Last shot\n\nPenalties: Per the ICORE rulebook. Foot faults, extra shots, extra hits, procedurals and misses +5 seconds per occurrence." },
+  {
+    "stage_classifier" : true, "stage_classifiercode" : "CS-027",
+    "stage_name" : "Danger at Every Stop",
+    "stage_scoretype" : "IcoreShotsLimited", "stage_strings" : 1,
+    "stage_targets" : [ {
+      "target_number" : 1, "target_reqshots" : 4 }, {
+      "target_number" : 2, "target_reqshots" : 4 }, {
+      "target_number" : 3, "target_reqshots" : 4 }, {
+      "target_number" : 4, "target_reqshots" : 4 }, {
+      "target_number" : 5, "target_reqshots" : 4 }, {
+      "target_number" : 6, "target_reqshots" : 4 } ],
+    "stage_briefing" : "Start Position: Standing in Box A, facing downrange, hands relaxed at sides.\n\nProcedure: At start signal, from Box A engage only T1 - T6 with only one (1) round each in any order. From Box B engage only T1 - T6 with only one (1) round each in any order. From Box C engage only T1 - T6 with only one (1) round each in any order. From Box D engage only T1 - T6 with only one (1) round each in any order. One continuous string. Scoring: Shots Limited\n\nTargets: 6 NRA D-1 paper\n\nRounds: 24\n\nStart: Audible\n\nStop: Last shot\n\nPenalties: Per the ICORE rulebook. Foot faults, extra shots, extra hits, procedurals and misses +5 seconds per occurrence." },
+  {
+    "stage_classifier" : true, "stage_classifiercode" : "CS-028",
+    "stage_name" : "In a Bad Spot", "stage_scoretype" : "IcoreShotsLimited",
+    "stage_strings" : 2, "stage_targets" : [ {
+      "target_number" : 1, "target_reqshots" : 4 }, {
+      "target_number" : 2, "target_reqshots" : 4 }, {
+      "target_number" : 3, "target_reqshots" : 4 }, {
+      "target_number" : 4, "target_reqshots" : 4 }, {
+      "target_number" : 5, "target_reqshots" : 4 }, {
+      "target_number" : 6, "target_reqshots" : 4 } ],
+    "stage_briefing" : "Start Position: Standing in Box A, facing downrange, hands relaxed at sides.\n\nProcedure:\nString 1: At start signal, from Box A engage only T1 thru T6 with only two (2) rounds each in any order.\nString 2: At start signal, from Box A engage only T1 thru T6 with only two (2) rounds each in any order. Scoring: Shots Limited\n\nTargets: 6 NRA D-1 paper\n\nRounds: 24\n\nStart: Audible\n\nStop: Last shot\n\nPenalties: Per the ICORE rulebook. Foot faults, extra shots, extra hits, procedurals and misses +5 seconds per occurrence." },
+  {
+    "stage_classifier" : true, "stage_classifiercode" : "CS-029",
+    "stage_name" : "Quicky II", "stage_scoretype" : "IcoreShotsLimited",
+    "stage_strings" : 1, "stage_noshoots" : true, "stage_targets" : [ {
+      "target_number" : 1, "target_reqshots" : 6 }, {
+      "target_number" : 2, "target_reqshots" : 6 }, {
+      "target_number" : 3, "target_reqshots" : 6 } ],
+    "stage_briefing" : "Start Position: Standing in Box A, facing downrange, hands relaxed at sides.\n\nProcedure: At start signal, engage T1 thru T3 with only 2 rounds each in any order FREESTYLE. Perform a mandatory reload and reengageT1 thru T3 with only 2 rounds each in any order STRONG HAND ONLY. Perform a mandatory reload and reengageT1-T3 with only 2 rounds each in any order WEAK HAND ONLY.\n\nScoring: Shots Limited\n\nTargets: 3 NRA D-1 paper\n\nRounds: 18\n\nStart: Audible\n\nStop: Last shot\n\nPenalties: Per the ICORE rulebook. Foot faults, extra shots, extra hits, procedurals, no shoots and misses +5 seconds per occurrence." },
+  {
+    "stage_classifier" : true, "stage_classifiercode" : "CS-030",
+    "stage_name" : "Nother Time", "stage_scoretype" : "IcoreShotsLimited",
+    "stage_strings" : 2, "stage_targets" : [ {
+      "target_number" : 1, "target_reqshots" : 3 }, {
+      "target_number" : 2, "target_reqshots" : 3 }, {
+      "target_number" : 3, "target_reqshots" : 3 }, {
+      "target_number" : 4, "target_reqshots" : 3 }, {
+      "target_number" : 5, "target_reqshots" : 3 } ],
+    "stage_briefing" : "Start Position: Standing in Box A, facing downrange, hands relaxed at sides.\n\nProcedure:\nString 1: At start signal, from Box A engage T1 thru T5 with only two (2) rounds each in any order.\nString 2: At start signal, from Box A engage T1 thru T5 with only one (1) round each in any order.\n\nScoring: Shots Limited\n\nTargets: 5 NRA D-1 paper\n\nRounds: 15\n\nStart: Audible\n\nStop: Last shot\n\nPenalties: Per the ICORE rulebook. Foot faults, extra shots, extra hits, procedurals and misses +5 seconds per occurrence." },
+  {
+    "stage_classifier" : true, "stage_classifiercode" : "CS-031",
+    "stage_name" : "Line Up and Take Sides",
+    "stage_scoretype" : "IcoreShotsLimited", "stage_strings" : 1,
+    "stage_targets" : [ {
+      "target_number" : 1, "target_reqshots" : 4 }, {
+      "target_number" : 2, "target_reqshots" : 4 }, {
+      "target_number" : 3, "target_reqshots" : 4 }, {
+      "target_number" : 4, "target_reqshots" : 4 }, {
+      "target_number" : 5, "target_reqshots" : 4 } ],
+    "stage_briefing" : "Start Position: Standing in either Box A or Box B, facing downrange, hands relaxed at sides.\n\nProcedure: At the signal, from the start Box engage T1 thru T5 with only two (2) rounds each in any order. While moving to the opposite box, make a mandatory reload. From the opposite Box engage T1 thru T5 with only two (2) rounds each in any order. One Continuous string.\n\nScoring: Shots Limited\n\nTargets: 5 NRA D-1 paper\n\nRounds: 20\n\nStart: Audible\n\nStop: Last shot\n\nPenalties: Per the ICORE rulebook. Foot faults, extra shots, extra hits, procedurals and misses +5 seconds per occurrence." },
+  {
+    "stage_classifier" : true, "stage_classifiercode" : "CS-032",
+    "stage_name" : "Tight Squeeze", "stage_scoretype" : "IcoreShotsLimited",
+    "stage_strings" : 1, "stage_noshoots" : true, "stage_targets" : [ {
+      "target_number" : 1, "target_reqshots" : 4 }, {
+      "target_number" : 2, "target_reqshots" : 4 }, {
+      "target_number" : 3, "target_reqshots" : 4 } ],
+    "stage_briefing" : "Start Position: Standing in Box A, facing downrange, hands relaxed at sides.\n\nProcedure: At start signal, engage T1 thru T3 in any order with 2 rounds each. Perform a mandatory reload and reengage T1 thru T3 in any order with 2 rounds each.\n\nScoring: Shots Limited\n\nTargets: 3 NRA D-1 paper\n\nRounds: 12\n\nStart: Audible\n\nStop: Last shot\n\nPenalties: Per the ICORE rulebook. Foot faults, extra shots, extra hits, procedurals no-shoots, and misses +5 seconds per occurrence." },
+  {
+    "stage_classifier" : true, "stage_classifiercode" : "CS-033",
+    "stage_name" : "Melody Line", "stage_scoretype" : "IcoreShotsLimited",
+    "stage_strings" : 1, "stage_targets" : [ {
+      "target_number" : 1, "target_reqshots" : 2 }, {
+      "target_number" : 2, "target_reqshots" : 2 }, {
+      "target_number" : 3, "target_reqshots" : 2 }, {
+      "target_number" : 4, "target_reqshots" : 2 }, {
+      "target_number" : 5, "target_reqshots" : 2 }, {
+      "target_number" : 6, "target_reqshots" : 2 } ],
+    "stage_briefing" : "Start Position: Standing in Box A, facing uprange, wrists above shoulders, toes touching back of box.\n\nProcedure: At start signal, turn and engage T1 thru T6 in any order with 1 round each. Perform a mandatory reload and reengage T1 thru T6 in any order with one round each. One continuous string.\n\nScoring: Shots Limited\n\nTargets: 6 NRA D-1 paper\n\nRounds: 12\n\nStart: Audible\n\nStop: Last shot\n\nPenalties: Per the ICORE rulebook. Foot faults, extra shots, extra hits, procedurals and misses +5 seconds per occurrence." },
+  {
+    "stage_classifier" : true, "stage_classifiercode" : "CS-034",
+    "stage_name" : "We Shot This Before, Or Did We?",
+    "stage_scoretype" : "IcoreShotsLimited", "stage_strings" : 2,
+    "stage_targets" : [ {
+      "target_number" : 1, "target_reqshots" : 2 }, {
+      "target_number" : 2, "target_reqshots" : 2 }, {
+      "target_number" : 3, "target_reqshots" : 2 }, {
+      "target_number" : 4, "target_reqshots" : 2 }, {
+      "target_number" : 5, "target_reqshots" : 2 }, {
+      "target_number" : 6, "target_reqshots" : 2 }, {
+      "target_number" : 7, "target_reqshots" : 4 }, {
+      "target_number" : 8, "target_reqshots" : 4 }, {
+      "target_number" : 9, "target_reqshots" : 4 } ],
+    "stage_briefing" : "Start Position: Standing in Box A, facing uprange, wrists above shoulders, toes touching back of box.\n\nProcedure:\nString 1: At start signal, from Box A engage only T1 thru T3 with only two (2) rounds each in any order, perform a mandatory reload and engage only T7 thru T9 with only two (2) rounds each in any order.\nString 2: At start signal, from Box A engage only T4 thru T6 with only two (2) rounds each in any order, perform a mandatory reload and engage T7 thru T9 with only two (2) rounds each in any order. Scoring: Shots Limited\n\nTargets: 9 NRA D-1 paper Rounds: 24\n\nStart: Audible\n\nStop: Last shot\n\nPenalties: Per the ICORE rulebook. Foot faults, extra shots, extra hits, procedurals and misses +5 seconds per occurrence." },
+  {
+    "stage_classifier" : true, "stage_classifiercode" : "CS-035",
+    "stage_name" : "Whos The Man?", "stage_scoretype" : "IcoreShotsLimited",
+    "stage_strings" : 3, "stage_targets" : [ {
+      "target_number" : 1, "target_reqshots" : 2 }, {
+      "target_number" : 2, "target_reqshots" : 2 }, {
+      "target_number" : 3, "target_reqshots" : 2 }, {
+      "target_number" : 4, "target_reqshots" : 2 }, {
+      "target_number" : 5, "target_reqshots" : 2 }, {
+      "target_number" : 6, "target_reqshots" : 2 }, {
+      "target_number" : 7, "target_reqshots" : 2 }, {
+      "target_number" : 8, "target_reqshots" : 2 }, {
+      "target_number" : 9, "target_reqshots" : 2 } ],
+    "stage_briefing" : "Start Position: Standing in appropriate Box, facing downrange, writst above shoulders.\n\nProcedure:\nString 1: At start signal, from Box A engage only T1 thru T3 with only two (2) rounds each in any order.\nString 2: At start signal, from Box B engage only T4 thru T6 with only two (2) rounds each in any order.\nString 3: At start signal, from Box C engage only T7 thru T9 with only two (2) rounds each in any order. Scoring: Shots Limited\n\nTargets: 9 NRA D-1 paper\n\nRounds: 18\n\nStart: Audible\n\nStop: Last shot\n\nPenalties: Per the ICORE rulebook. Foot faults, extra shots, extra hits, procedurals and misses +5 seconds per occurrence." },
+  {
+    "stage_classifier" : true, "stage_classifiercode" : "CS-036",
+    "stage_name" : "Hoser Heaven", "stage_scoretype" : "IcoreShotsLimited",
+    "stage_strings" : 1, "stage_noshoots" : true, "stage_targets" : [ {
+      "target_number" : 1, "target_reqshots" : 3 }, {
+      "target_number" : 2, "target_reqshots" : 3 }, {
+      "target_number" : 3, "target_reqshots" : 3 }, {
+      "target_number" : 4, "target_reqshots" : 3 }, {
+      "target_number" : 5, "target_reqshots" : 3 }, {
+      "target_number" : 6, "target_reqshots" : 3 } ],
+    "stage_briefing" : "Start Position: Standing in Box A, facing downrange, hands relaxed at sides.\n\nProcedure: At start signal, engage T1 thru T6 in any order with only 1 round each FREESTYLE. Perform a mandatory reload and reengage T1 thru T6 in any order with only 1 round each STRONGHAND. Perform a mandatory reload and reengage T1 thru T6 in any order with only 1 round each WEAKHAND. One continuous string.\n\nScoring: Shots Limited\n\nTargets: 6 NRA D-1 paper\n\nRounds: 18\n\nStart: Audible\n\nStop: Last shot\n\nPenalties: Per the ICORE rulebook. Foot faults, extra shots, extra hits, procedurals and misses +5 seconds per occurrence." },
+  {
+    "stage_classifier" : true, "stage_classifiercode" : "CS-037",
+    "stage_name" : "Easier As You Go",
+    "stage_scoretype" : "IcoreShotsLimited", "stage_strings" : 1,
+    "stage_targets" : [ {
+      "target_number" : 1, "target_reqshots" : 3 }, {
+      "target_number" : 2, "target_reqshots" : 3 }, {
+      "target_number" : 3, "target_reqshots" : 3 }, {
+      "target_number" : 4, "target_reqshots" : 3 }, {
+      "target_number" : 5, "target_reqshots" : 3 }, {
+      "target_number" : 6, "target_reqshots" : 3 } ],
+    "stage_briefing" : "Start Position: Standing facing down range in Box AO revolver loaded and holstered, hands relaxed at sides\n\nProcedure: At start signal, from Box AO engage T1 thru T6 with only 1 round each in any order. Move to Box B and re-engage T1 thru T6 with only 1 round each in any order. Move to Box C and re-engage T1 thru T6 with only 1 round each in any order. \n\nScoring: Shots Limited\n\nTargets: 6 NRA D-1 paper\n\nRounds: 18 maximum\n\nStart: Audible\n\nStop: Last shot\n\nPenalties: Per the ICORE rulebook. Foot faults, extra shots, extra hits, procedurals and misses +3 seconds per occurrence" },
+  {
+    "stage_classifier" : true, "stage_classifiercode" : "CS-038",
+    "stage_name" : "Triple Fade", "stage_scoretype" : "IcoreShotsLimited",
+    "stage_strings" : 1, "stage_targets" : [ {
+      "target_number" : 1, "target_reqshots" : 3 }, {
+      "target_number" : 2, "target_reqshots" : 3 }, {
+      "target_number" : 3, "target_reqshots" : 3 }, {
+      "target_number" : 4, "target_reqshots" : 3 }, {
+      "target_number" : 5, "target_reqshots" : 3 }, {
+      "target_number" : 6, "target_reqshots" : 3 } ],
+    "stage_briefing" : "Start Position: Standing facing down range in Box Ab revolver loaded and holsteredb hands relaxed at sides\n\nProcedure: At start signal, from Box A, engage only T1 with only 3 rounds. Move to Box B and engage only T2 and T3 with only 3 rounds each in any order. Move to Box C and engage only T4, T5 and T6 with only 3 rounds each in any order\n\nScoring: Shots Limited\n\nTargets: 6 NRA D-1 paper\n\nRounds: 18 maximum\n\nStart: Audible\n\nStop: Last shot\n\nPenalties: Per the ICORE rulebook. Foot faults, extra shots, extra hits, procedurals and misses +5 seconds per occurrence" },
+  {
+    "stage_classifier" : true, "stage_classifiercode" : "CS-039",
+    "stage_name" : "You Want Me to Do What?",
+    "stage_scoretype" : "IcoreShotsLimited", "stage_strings" : 1,
+    "stage_targets" : [ {
+      "target_number" : 1, "target_reqshots" : 2 }, {
+      "target_number" : 2, "target_reqshots" : 2 }, {
+      "target_number" : 3, "target_reqshots" : 2 }, {
+      "target_number" : 4, "target_reqshots" : 2 }, {
+      "target_number" : 5, "target_reqshots" : 2 }, {
+      "target_number" : 6, "target_reqshots" : 2 } ],
+    "stage_briefing" : "Start Position: Standing facing down range in Box AO revolver loaded and holstered, hands relaxed at sides\n\nProcedure: At start signal, from Box A, engage T1 through T6 with only one (1) round each in any order. Perform a mandatory reload and re-engage T1 through T6 with only one (1) round each in any order, STRONG HAND ONLY.\n\nScoring: Shots Limited\n\nTargets: 6 NRA D-1 paper\n\nRounds: 12 maximum\n\nStart: Audible\n\nStop: Last shot\n\nPenalties: Per the ICORE rulebook. Foot faults, extra shots, extra hits, procedurals and misses +5 seconds per occurrence" },
+  {
+    "stage_classifier" : true, "stage_classifiercode" : "CS-040",
+    "stage_name" : "This Looks Familiar",
+    "stage_scoretype" : "IcoreShotsLimited", "stage_strings" : 1,
+    "stage_targets" : [ {
+      "target_number" : 1, "target_reqshots" : 4 }, {
+      "target_number" : 2, "target_reqshots" : 4 }, {
+      "target_number" : 3, "target_reqshots" : 4 }, {
+      "target_number" : 4, "target_reqshots" : 4 } ],
+    "stage_briefing" : "Start Position: Standing facing down range in Box A, revolver loaded and holstered, hands relaxed at sides\n\nProcedure: At start signal, engage T1 thru T4 with only one (1) round each in any order. Perform a mandatory reload and re-engage T1 thru T4 with only one (1) round each in any order. Perform a mandatory reload and re-engage T1 thru T4 with only one (1) round each in any order, STRONG HAND ONLY. Perform a mandatory reload and re-engage T1 thru T4 with only one (1) round each in any order, WEAK HAND ONLY. One continuous string.\n\nScoring: Shots Limited\n\nTargets: 4 NRA D-1 paper\n\nRounds: 16 maximum\n\nStart: Audible\n\nStop: Last shot\n\nPenalties: Per the ICORE rulebook. Foot faults, extra shots, extra hits, procedurals and misses +5 seconds per occurrence" },
+  {
+    "stage_classifier" : true, "stage_classifiercode" : "CS-041",
+    "stage_name" : "Drawing Attention",
+    "stage_scoretype" : "IcoreShotsLimited", "stage_strings" : 4,
+    "stage_targets" : [ {
+      "target_number" : 1, "target_reqshots" : 8 }, {
+      "target_number" : 2, "target_reqshots" : 8 } ],
+    "stage_briefing" : "Start Position: Standing facing down range in Box A, revolver loaded and holstered, wrists above respective shoulders\n\nProcedure:\nString 1: At start signal, engage T1 and T2 with only two (2) rounds each in any order, FREESTYLE.\nString 2: At start signal, engage T1 and T2 with only two (2) rounds each in any order, STRONG HAND ONLY.\nString 3: At start signal, engage T1 and T2 with only two (2) rounds each in any order, WEAK HAND ONLY.\nString 4: Repeat String 1.\n\nScoring: Shots Limited\nTargets: 2 NRA D-1 paper\nRounds: 16 maximum\nStart: Audible\nStop: Last shot\nPenalties: Per the ICORE rulebook. Foot faults, extra shots, extra hits, procedurals and misses +5 seconds per occurrence" },
+  {
+    "stage_classifier" : true, "stage_classifiercode" : "CS-042",
+    "stage_name" : "Bill In Total",
+    "stage_scoretype" : "IcoreShotsLimited", "stage_strings" : 1,
+    "stage_targets" : [ {
+      "target_number" : 1, "target_reqshots" : 6 }, {
+      "target_number" : 2, "target_reqshots" : 6 }, {
+      "target_number" : 3, "target_reqshots" : 6 } ],
+    "stage_briefing" : "Start Position: Standing facing down range in Box A, revolver loaded and holstered, wrists above respective shoulders\n\nProcedure: At start signal, from Box A, engage T1 through T3 with only 3 rounds each in any order. Move to Box B and re-engage T1 through T3 with only 2 rounds each in any order. Move to Box C and re-engage T1 through T3 with only 1 round each in any order. One continuous string. MANDATORY RELOAD BETWEEN SHOOTING BOXES.\n\nScoring: Shots Limited\nTargets: 3 NRA D-1 paper\nRounds: 18 maximum\nStart: Audible\nStop: Last shot\n\nPenalties: Per the ICORE rulebook. Foot faults, extra shots, extra hits, procedurals and misses +5 seconds per occurrence" },
+  {
+    "stage_classifier" : true, "stage_classifiercode" : "CS-043",
+    "stage_name" : "In Your Face",
+    "stage_scoretype" : "IcoreShotsUnlimited", "stage_strings" : 1,
+    "stage_poppers" : 2,
+    "stage_targets" : [ {
+      "target_number" : 1, "target_reqshots" : 2 }, {
+      "target_number" : 2, "target_reqshots" : 2 }, {
+      "target_number" : 3, "target_reqshots" : 2 }, {
+      "target_number" : 4, "target_reqshots" : 2 }, {
+      "target_number" : 5, "target_reqshots" : 2 }, {
+      "target_number" : 6, "target_reqshots" : 2 }, {
+      "target_number" : 7, "target_reqshots" : 2 }, {
+      "target_number" : 8, "target_reqshots" : 2 } ],
+    "stage_briefing" : "Start Position: Standing in Box A or B, facing downrange, revolver loaded and holstered, hands relaxed at sides\n\nProcedure: At start signal, engage T1, T2, T3 in any order from Box A OR engage T6, T7, T8 in any order from Box B. Enter the free fire zone to engage T4 and T5 and knock down P1 and P2 in any order. From the remaining box, engage the associated targets\n\nScoring: Shots unlimited, best 2 on paper, steel must fall to score\n\nTargets: 8 NRA D-1 paper, 2 pepper poppers\n\nRounds: 18 minimum\n\nStart: Audible\n\nStop: Last shot\n\nPenalties: Per the ICORE rulebook. Foot faults, procedurals, and misses are +5 seconds per occurence" },
+  {
+    "stage_classifier" : true, "stage_classifiercode" : "CS-044",
+    "stage_name" : "Four From Three",
+    "stage_scoretype" : "IcoreShotsLimited", "stage_strings" : 1,
+    "stage_targets" : [ {
+      "target_number" : 1, "target_reqshots" : 3 }, {
+      "target_number" : 2, "target_reqshots" : 3 }, {
+      "target_number" : 3, "target_reqshots" : 3 }, {
+      "target_number" : 4, "target_reqshots" : 3 } ],
+    "stage_briefing" : "Start Position: Standing in Box A or C, facing downrange, revolver loaded and holstered, hands relaxed at sides\n\nProcedure: Standing in Box A or C at start signal, engage T1 through T4 with only one (1) round each in any order. From Box B, engage T1 through T4 with only one (1) round each in any order. From the remaining box, engage T1 through T4 with only one (1) round each in any order. Mandatory reload between boxes\n\nScoring: Shots limited\n\nTargets: 4 NRA D-1 paper\n\nRounds: 12 maximum\n\nStart: Audible\n\nStop: Last shot\n\nPenalties: Per the ICORE rulebook. Foot faults, extra shots, extra hits, procedurals, and misses are +5 seconds per occurrence" },
+  {
+    "stage_classifier" : true, "stage_classifiercode" : "CS-045",
+    "stage_name" : "One, the Other, and Both",
+    "stage_scoretype" : "IcoreShotsLimited", "stage_strings" : 1,
+    "stage_targets" : [ {
+      "target_number" : 1, "target_reqshots" : 4 }, {
+      "target_number" : 2, "target_reqshots" : 4 }, {
+      "target_number" : 3, "target_reqshots" : 4 }, {
+      "target_number" : 4, "target_reqshots" : 4 }, {
+      "target_number" : 5, "target_reqshots" : 4 }, {
+      "target_number" : 6, "target_reqshots" : 4 } ],
+    "stage_briefing" : "Start Position: Standing in Box B, facing downrange, revolver loaded and holstered, hands relaxed at sides\n\nProcedure: Shooter’s choice to shoot in the order 1-2-3-4 OR 1-3-2-4:\n(1) From Box B at start signal, engage T1 through T6 with only one (1) round each, freestyle; (2) From Box A, engage T1 through T3 with only two (2) rounds each, left hand only;\n(3) From Box C, engage T4 through T6 with only two (2) rounds each, right hand only;\n(4) From Box B, engage T1 through T6 with only one (1) round each, freestyle\n\nScoring: Shots limited\n\nTargets: 6 NRA D-1 paper\n\nRounds: 24 maximum\n\nStart: Audible\n\nStop: Last shot\n\nPenalties: Per the ICORE rulebook. Foot faults, extra shots, extra hits, procedurals, and misses are +5 seconds per occurrence" },
+  {
+    "stage_classifier" : true, "stage_classifiercode" : "CS-046",
+    "stage_name" : "Both Sides",
+    "stage_scoretype" : "IcoreShotsLimited", "stage_strings" : 1,
+    "stage_targets" : [ {
+      "target_number" : 1, "target_reqshots" : 4 }, {
+      "target_number" : 2, "target_reqshots" : 4 }, {
+      "target_number" : 3, "target_reqshots" : 4 }, {
+      "target_number" : 4, "target_reqshots" : 4 } ],
+    "stage_briefing" : "Start Position: Standing in Box A, facing downrange, revolver loaded and holstered, hands relaxed at sides\n\nProcedure: In the following order:\n(1) At start signal, engage T1 through T4 with only one (1) round each in any order from one side of the barricade;\n(2) Perform a mandatory reload and engage T1 through T4 with only one (1) round each in any order from the other side of the barricade;\n(3) Perform a mandatory reload and engage T1 through T4 with only one (1) round each in any order from one side of the barricade, strong hand only;\n(4) Perform a mandatory reload and engage T1 through T4 with only one (1) round each in any order from the other side of the barricade, support hand only\n\nScoring: Shots limited\n\nTargets: 4 NRA D-1 paper\n\nRounds: 16 maximum\n\nStart: Audible\n\nStop: Last shot\n\nPenalties: Per the ICORE rulebook. Foot faults, extra shots, extra hits, procedurals, and misses are +5 seconds per occurrence" },
+  {
+    "stage_classifier" : true, "stage_classifiercode" : "CS-047",
+    "stage_name" : "Bring It In",
+    "stage_scoretype" : "IcoreShotsLimited", "stage_strings" : 1,
+    "stage_targets" : [ {
+      "target_number" : 1, "target_reqshots" : 2 }, {
+      "target_number" : 2, "target_reqshots" : 2 }, {
+      "target_number" : 3, "target_reqshots" : 2 }, {
+      "target_number" : 4, "target_reqshots" : 2 }, {
+      "target_number" : 5, "target_reqshots" : 2 }, {
+      "target_number" : 6, "target_reqshots" : 2 }, {
+      "target_number" : 7, "target_reqshots" : 2 }, {
+      "target_number" : 8, "target_reqshots" : 2 }, {
+      "target_number" : 9, "target_reqshots" : 2 }, {
+      "target_number" : 10, "target_reqshots" : 2 } ],
+    "stage_briefing" : "Start Position: Standing in Box A, facing downrange, revolver loaded and holstered, hands relaxed at sides\n\nProcedure: Standing in Box A at start signal, engage T1-T2 with only two (2) rounds each. From Box B, engage T3-T4 with only two (2) rounds each.\nFrom Box C, engage T5-T6 with only two (2) rounds each.\nFrom Box D, engage T7-T8 with only two (2) round each.\nFrom Box E, engage T9-T10 with only two (2) rounds each\n\nScoring: Shots limited\n\nTargets: 10 NRA D-1 paper\n\nRounds: 20 maximum\n\nStart: Audible\n\nStop: Last shot\n\nPenalties: Per the ICORE rulebook. Foot faults, extra shots, extra hits, procedurals, and misses are +5 seconds per occurrence" },
+  {
+    "stage_classifier" : true, "stage_classifiercode" : "CS-048",
+    "stage_name" : "Accuracy Is Final",
+    "stage_scoretype" : "IcoreShotsLimited", "stage_strings" : 1,
+    "stage_targets" : [ {
+      "target_number" : 1, "target_reqshots" : 3 }, {
+      "target_number" : 2, "target_reqshots" : 3 }, {
+      "target_number" : 3, "target_reqshots" : 3 }, {
+      "target_number" : 4, "target_reqshots" : 3 }, {
+      "target_number" : 5, "target_reqshots" : 3 }, {
+      "target_number" : 6, "target_reqshots" : 3 } ],
+    "stage_briefing" : "Start Position: Standing in Box A, facing downrange, revolver loaded and holstered, hands relaxed at sides\n\nProcedure: At start signal, from Box A, engage T1-T6 in any order with three (3) rounds each\n\nScoring: Shots limited\n\nTargets: 6 NRA D-1 paper\n\nRounds: 18 maximum\n\nStart: Audible\n\nStop: Last shot\n\nPenalties: Per the ICORE rulebook. Foot faults, extra shots, extra hits, procedurals, and misses are +5 seconds per occurrence" },
+  {
+    "stage_classifier" : true, "stage_classifiercode" : "CS-049",
+    "stage_name" : "Staggered Hands",
+    "stage_scoretype" : "IcoreShotsUnlimited", "stage_strings" : 1,
+    "stage_targets" : [ {
+      "target_number" : 1, "target_reqshots" : 2 }, {
+      "target_number" : 2, "target_reqshots" : 2 }, {
+      "target_number" : 3, "target_reqshots" : 2 }, {
+      "target_number" : 4, "target_reqshots" : 2 }, {
+      "target_number" : 5, "target_reqshots" : 2 }, {
+      "target_number" : 6, "target_reqshots" : 2 }, {
+      "target_number" : 7, "target_reqshots" : 2 }, {
+      "target_number" : 8, "target_reqshots" : 2 }, {
+      "target_number" : 9, "target_reqshots" : 2 } ],
+    "stage_briefing" : "Start Position: Standing in Box A or B, facing downrange, revolver loaded and holstered, hands relaxed at sides\n\nProcedure: At start signal, engage T1, T2, T3 with the Left Hand in any order from Box A OR engage T7, T8, T9 with the Right Hand in any order from Box B. Then enter the free fire zone to engage T4, T5, T6 freestyle in any order. From the remaining box, engage the associated targets in any order with the appropriate hand specified in this paragraph\n\nScoring: Shots unlimited, best 2 on paper\n\n Targets: 9 NRA D-1 paper\n\nRounds: 18 minimum\n\nStart: Audible\n\nStop: Last shot\n\nPenalties: Per the ICORE rulebook. Foot faults, procedurals, and misses are +5 seconds per occurrence" },
+  {
+    "stage_classifier" : true, "stage_classifiercode" : "CS-050",
+    "stage_name" : "Near, Far, Tight",
+    "stage_scoretype" : "IcoreShotsLimited", "stage_strings" : 1,
+    "stage_targets" : [ {
+      "target_number" : 1, "target_reqshots" : 3 }, {
+      "target_number" : 2, "target_reqshots" : 3 }, {
+      "target_number" : 3, "target_reqshots" : 3 }, {
+      "target_number" : 4, "target_reqshots" : 3 }, {
+      "target_number" : 5, "target_reqshots" : 3 }, {
+      "target_number" : 6, "target_reqshots" : 3 }, {
+      "target_number" : 7, "target_reqshots" : 3 } ],
+    "stage_briefing" : "Start Position: Standing facing up range in Box A or Box C, revolver loaded and holstered, hands relaxed at sides.\n\nProcedure: At start signal, turn, then engage targets.\nFrom Box A, engage T1 and T2 with only 3 rounds each in any order.\nFrom Box B, engage T3 and T4 with only three (3) rounds each in any order.\nFrom Box C, engage T5, T6, and T7 with only three (3) rounds each in any order.\nOne continuous string. Perform a mandatory reload between boxes!\n\nScoring: Shots Limited\nTargets: 7 NRA D-1 paper\nRounds: 21 maximum\nStart: Audible\nStop: Last shot\nPenalties: Per the ICORE rulebook. Foot faults, extra shots, extra hits, procedurals and misses +5 seconds per occurrence. Failure to perform mandatory reload +5 seconds per each occurrence." },
+  {
+    "stage_classifier" : true, "stage_classifiercode" : "CS-051",
+    "stage_name" : "Smoke and Hope-is",
+    "stage_scoretype" : "IcoreShotsLimited", "stage_strings" : 3,
+    "stage_targets" : [ {
+      "target_number" : 1, "target_reqshots" : 3 }, {
+      "target_number" : 2, "target_reqshots" : 3 }, {
+      "target_number" : 3, "target_reqshots" : 3 }, {
+      "target_number" : 4, "target_reqshots" : 3 }, {
+      "target_number" : 5, "target_reqshots" : 3 } ],
+    "stage_briefing" : "Start Position: Each string - standing facing down range in Box A, revolver loaded and holstered, wrists above respective shoulders.\nProcedure:\nString 1: At start signal, engage T1 thru T4 with only one (1) round each in any order, then engage T5 last with only one (1) round.\nString 2: At start signal, engage T1 thru T4 with only one (1) round each in any order, then engage T5 last with only one (1) round, STRONG HAND ONLY.\nString 3: At start signal, engage T1 thru T4 with only one (1) round each in any order, then engage T5 last with only one (1) round, WEAK HAND ONLY.\n\nScoring: Shots Limited\nTargets: 5 NRA D-1 paper\nRounds: 15 maximum\nStart: Audible\nStop: Last shot\nPenalties: Per the ICORE rulebook. Foot faults, extra shots, extra hits, procedurals and misses +5 seconds per occurrence" },
+  {
+    "stage_classifier" : true, "stage_classifiercode" : "CS-052",
+    "stage_name" : "Around the Boxes",
+    "stage_scoretype" : "IcoreShotsLimited", "stage_strings" : 1,
+    "stage_targets" : [ {
+      "target_number" : 1, "target_reqshots" : 4 }, {
+      "target_number" : 2, "target_reqshots" : 4 }, {
+      "target_number" : 3, "target_reqshots" : 4 }, {
+      "target_number" : 4, "target_reqshots" : 4 }, {
+      "target_number" : 5, "target_reqshots" : 8 } ],
+    "stage_briefing" : "Start Position: Standing facing down range in Box A or Box B. Revolver loaded and holstered, wrists above respective shoulders.\nProcedure: At start signal, engage targets T1 through T4 with only 1 round each and T5 with only 2 rounds in any order.\nRepeat from each of the three remaining boxes in any order in one continuous string. ALL boxes must be used.\nScoring: Shots Limited.\nTargets: 5 NRA D-1 paper.\nRounds: 24 maximum\nStart: Audible\nStop: Last shot\nPenalties: Per the ICORE rulebook. Foot faults, extra shots, extra hits, procedurals and misses +5 seconds per occurrence" },
+  {
+    "stage_classifier" : true, "stage_classifiercode" : "CS-053",
+    "stage_name" : "Toll Free",
+    "stage_scoretype" : "IcoreShotsLimited", "stage_strings" : 1,
+    "stage_targets" : [ {
+      "target_number" : 1, "target_reqshots" : 3, "target_xmult" : 1 }, {
+      "target_number" : 2, "target_reqshots" : 3, "target_xmult" : 1 }, {
+      "target_number" : 3, "target_reqshots" : 3 }, {
+      "target_number" : 4, "target_reqshots" : 3 }, {
+      "target_number" : 5, "target_reqshots" : 3 }, {
+      "target_number" : 6, "target_reqshots" : 3 } ],
+    "stage_briefing" : "Start Position: Standing facing downrange in any box of shooter's choice. Revolver loaded and holstered, hands on head with fingers interlaced.\nProcedure: At start signal, engage all targets with only 3 rounds each in any order.\nT1 and T2 must be engaged from Box A.\nT3 and T4 must be engaged from right and left sides of barricade, respectively.\nT5 and T6 must be engaged through Port C.\nScoring: Shots Limited, X hits count minus 1 second on T1 and T2 only.\nTargets: 6 NRA D-1 paper, T1 and T2 may be AP-1 targets or X Zone may be painted black or 4\" round black sticker used.\nRounds: 18 maximum\nStart: Audible\nStop: Last shot\nPenalties: Per the ICORE rulebook. Foot faults, extra shots, extra hits, procedurals and misses +5 seconds per occurrence" }
+  
+]

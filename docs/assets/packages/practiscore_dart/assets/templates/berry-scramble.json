@@ -1,0 +1,56 @@
+{
+  "ios": true,
+  "android": false,
+  "match_name": "Berry's Scramble",
+  "match_type": "proam",
+  "match_subtype": "berryscramble",
+  "match_cats": [ "Open", "Limited", "Production", "Single Stack", "PCC", "Revolver", "Open Revolver", "Carry Optics"],
+  "match_ctgs": "[\"Lady\",\"Junior\",\"Senior\",\"Super Senior\",\"Law\",\"Military\"]",
+  "match_cls": [ "U"],
+  "match_chkins": [ "Checked in", "Paid", "Staff" ],
+
+  "match_maxteamresults": 4,
+  "match_useOpenSquadding": false,
+
+  "match_penalties": [
+    {
+      "pen_val": 3,
+      "pen_name": "Penalty",
+      "pen_bin": false
+    }
+  ],
+  "match_bonuses": [],
+
+  "match_custom_targets": [
+    {
+      "target_reqshots": 40,
+      "target_name": "ProAm",
+      "target_targdesc": [
+        [
+          "Hit(1 Point)",
+          "1"
+        ],
+        [
+          "Alpha(2 Points)",
+          "2"
+        ],
+        [
+          "Spinner(12 Points)",
+          "12"
+        ],
+        [
+          "Procedural(-5 Points)",
+          "-5"
+        ],
+        [
+          "Penalty(-3 Points)",
+          "-3"
+        ],
+        [
+          "No Shoot(-3 Points)",
+          "-3"
+        ]
+      ]
+    }
+  ]
+}

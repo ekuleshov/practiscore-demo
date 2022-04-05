@@ -1,0 +1,21 @@
+{
+  "match_name" : "Sportsman's Team Challenge",
+  "match_type" : "timeplus_p",
+  "match_subtype" : "stc",
+  "match_cats" : [ "2 Man Division", "3 Man Division" ],
+  "match_cls" : [ "Industry", "Industry Open", "Sportsman Open", "Sportsman A",
+      "Sportsman B", "Sportsman C", "Sportsman AA", "Sportsman Lady",
+      "Sportsman Junior", "Sub-Junior A", "Sub-Junior B" ],
+      
+  "match_custom_targets": [
+    {
+      "target_reqshots": 40,
+      "target_name": "ProAm",
+      "target_targdesc": [
+        [ "Hit", "1" ],
+        [ "Procedural", "-5" ],
+        [ "Overtime", "-1" ]
+      ]
+    }
+  ]      
+}

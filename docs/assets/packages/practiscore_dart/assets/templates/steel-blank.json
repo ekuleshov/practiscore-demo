@@ -1,0 +1,22 @@
+{
+  "match_name" : "Action Steel",
+  "match_type" : "sc",
+  "match_cats" : [ "ISP", "ISR", "OSR", "PROD", "SS", "CO" ,"OPN", "LTD", "RFPI", "RFPO", "RFRI", "RFRO", "SGP", "PCCI", "PCCO" ],
+  "match_cls" : [ "U", "D", "C", "B", "A", "M", "G", "X" ],
+  "match_stages" : [],
+  "match_ctgs" : "[\"Preteen\",\"Junior\",\"Senior\",\"Super Senior\",\"Lady\",\"Foreign\",\"Law Enforcement\",\"Military\"]",
+  "match_penalties" : [ {
+    "pen_name" : "Procedural",
+    "pen_val" : 3.0,
+    "pen_bin" : false
+  }, {
+    "pen_name" : "Miss",
+    "pen_val" : 3.0,
+    "pen_bin" : false
+  }, {
+    "pen_name" : "Miss Stop Plate",
+    "pen_val" : 30.0,
+    "pen_bin" : true
+  } ],
+  "match_bonuses" : []
+}

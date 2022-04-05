@@ -1,0 +1,24 @@
+{
+  "ios": true,
+  "android": true,
+  "private": false,
+  "match_name" : "ASI",
+  "match_type" : "idpa",
+  "match_subtype" : "asi",
+  "match_pointsdownvalue" : 1,
+  "match_steelmisspdcount" : 5,
+  "match_penalties" : [
+  {
+    "pen_name" : "Hits on Penalty Target",
+    "pen_val" : 5,
+    "pen_bin" : false,
+    "pen_warn" : false
+  },
+  {
+    "pen_name" : "Procedural Error",
+    "pen_val" : 5,
+    "pen_bin" : false,
+    "pen_warn" : false
+  } ],
+  "match_chkins": [ "Checked in", "Paid", "Staff" ]
+}

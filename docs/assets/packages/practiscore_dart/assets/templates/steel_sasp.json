@@ -1,0 +1,112 @@
+{
+  "match_name" : "SASP",
+  "match_subtype" : "sasp",
+  "match_type" : "sc",
+  "match_ctgs" : "[\"Preteen\",\"Junior\",\"Senior\",\"Super Senior\",\"Lady\",\"Foreign\",\"Law Enforcement\",\"Military\"]",
+  "match_cats" : [ "ISP", "ISR", "OSR", "PROD", "SS", "CO", "OPN", "LTD", "RFPI", "RFPO", "RFRI", "RFRO", "SGP", "PCCI", "PCCO", "RPO", "CPO" ],
+  "match_chkins" : [ "Checked in", "Paid", "Staff" ],
+  "match_cls" : [ "U", "D", "C", "B", "A", "M", "G", "X" ],
+
+  "match_docs" : [
+    {
+      "url": "https://sssfonline.org/wp-content/uploads/2019/10/SASP-handbook-2019-2020-FINAL-1.pdf",
+      "name": "SASP Rules",
+      "type": "rules",
+      "chksum": "40f1c9689413cc43d4b7127e9689b513c72f87ef"
+    }
+  ],
+
+  "match_stages" : [
+    {
+      "stage_number" : 1,
+      "stage_name" : "Go Fast",
+      "stage_strings" : 5,
+      "stage_removeworststring" : true,
+      "stage_maxstringtime" : 30,
+      "stage_scoretype" : "SteelChallenge",
+      "stage_classifier" : true,
+      "stage_classifiercode" : "sasp-go-fast"
+    },
+    {
+      "stage_number" : 2,
+      "stage_name" : "Focus",
+      "stage_strings" : 5,
+      "stage_removeworststring" : true,
+      "stage_maxstringtime" : 30,
+      "stage_scoretype" : "SteelChallenge",
+      "stage_classifier" : true,
+      "stage_classifiercode" : "sasp-focus"
+    },
+    {
+      "stage_number" : 3,
+      "stage_name" : "In and Out",
+      "stage_strings" : 5,
+      "stage_removeworststring" : true,
+      "stage_maxstringtime" : 30,
+      "stage_scoretype" : "SteelChallenge",
+      "stage_classifier" : true,
+      "stage_classifiercode" : "sasp-in-and-out"
+    },
+    {
+      "stage_number" : 4,
+      "stage_name" : "Speed Trap",
+      "stage_strings" : 5,
+      "stage_removeworststring" : true,
+      "stage_maxstringtime" : 30,
+      "stage_scoretype" : "SteelChallenge",
+      "stage_classifier" : true,
+      "stage_classifiercode" : "sasp-speed-trap"
+    },
+    {
+      "stage_number" : 5,
+      "stage_name" : "Exclamation",
+      "stage_strings" : 5,
+      "stage_removeworststring" : true,
+      "stage_maxstringtime" : 30,
+      "stage_scoretype" : "SteelChallenge",
+      "stage_classifier" : true,
+      "stage_classifiercode" : "sasp-exclamation"
+    },
+    {
+      "stage_number" : 6,
+      "stage_name" : "M",
+      "stage_strings" : 5,
+      "stage_removeworststring" : true,
+      "stage_maxstringtime" : 30,
+      "stage_scoretype" : "SteelChallenge",
+      "stage_classifier" : true,
+      "stage_classifiercode" : "sasp-m"
+    },
+    {
+      "stage_number" : 7,
+      "stage_name" : "V for V",
+      "stage_strings" : 5,
+      "stage_removeworststring" : true,
+      "stage_maxstringtime" : 30,
+      "stage_scoretype" : "SteelChallenge",
+      "stage_classifier" : true,
+      "stage_classifiercode" : "sasp-v-for-v"
+    }
+  ],
+
+  "match_penalties" : [
+  {
+    "pen_bin" : false,
+    "pen_warn" : false,
+    "pen_val" : 3,
+    "pen_name" : "Procedural"
+  },
+  {
+    "pen_bin" : false,
+    "pen_warn" : false,
+    "pen_val" : 3,
+    "pen_name" : "Miss"
+  },
+  {
+    "pen_bin" : true,
+    "pen_warn" : false,
+    "pen_val" : 30,
+    "pen_name" : "Miss Stop Plate"
+  }
+  ]
+}

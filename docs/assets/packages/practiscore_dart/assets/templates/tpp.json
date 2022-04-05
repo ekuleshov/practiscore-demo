@@ -1,0 +1,18 @@
+{
+  "match_name" : "Time Plus (Points)",
+  "match_type" : "timeplus_p",
+
+  "match_chkins": [ "Checked in", "Paid", "Staff" ],
+
+  "match_custom_targets": [
+    {
+      "target_reqshots": 40,
+      "target_name": "ProAm",
+      "target_targdesc": [
+        [ "Hit", "1" ],
+        [ "Procedural", "-5" ],
+        [ "Overtime", "-1" ]
+      ]
+    }
+  ]
+}

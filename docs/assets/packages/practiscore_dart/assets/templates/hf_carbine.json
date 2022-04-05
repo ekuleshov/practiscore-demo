@@ -1,0 +1,17 @@
+{
+  "match_name" : "HF Carbine",
+  "match_type" : "uspsa_p",
+  "match_subtype" : "hf_carbine",
+
+  "match_cats" : [ "22", "PCC", "Rifle" ],
+  "match_cls" : [ "Novice", "Expert" ],
+  "match_ctgs" : "[\"Junior\",\"Senior\",\"Lady\"]",
+  "match_chkins" : [ "Checked in", "Paid", "Staff" ],
+  "match_maxteamresults" : 3,
+
+  "match_pfs" : [
+    { "name" : "22", "short" : "22", "A" : 5, "B" : 3, "C" : 3, "D" : 1, "M" : 10, "NS" : 10, "disabled" : "PCC,Rifle" }, 
+    { "name" : "PCC", "short" : "PCC", "A" : 5, "B" : 4, "C" : 4, "D" : 2, "M" : 10, "NS" : 10, "disabled" : "Rifle,22" },
+    { "name" : "Rifle", "short" : "Rifle", "A" : 5, "B" : 5, "C" : 5, "D" : 3, "M" : 10, "NS" : 10, "disabled" : "PCC,22" } 
+  ]
+}

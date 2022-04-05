@@ -1,0 +1,145 @@
+{
+  "match_name": "IDPA Classifier",
+  "match_type": "idpa",
+  "match_subtype" : "idpa",
+  "match_cats" : [ "CDP", "SSP", "ESP", "REV", "BUG", "SPD", "SSR", "ESR", "PCC", "NFC", "CCP", "CO" ],
+  "match_cls" : [ "UN", "NV", "MM", "SS", "EX", "MA", "DM" ],
+  "match_ctgs" : "[\"Junior\",\"Senior\",\"Distinguished Senior\",\"Lady\",\"International\",\"Industry\",\"Press\",\"Military\",\"Law Enforcement\",\"Veteran\"]",
+  "match_chkins": [ "Checked in", "Paid", "Staff", "RO" ],
+
+  "match_pointsdownvalue": 1.0,
+  "match_steelmisspdcount": 5,
+  
+  "match_docs" : [
+    {
+      "url": "https://www.idpa.com/wp-content/uploads/2018/09/IDPA-Rulebook-2017.pdf",
+      "name": "IDPA Rules",
+      "file": "2017_IDPA_Rulebook.pdf",
+      "type": "rules",
+      "chksum": "0b7234635119991933779398d3e5d24aa9bba69c"
+    },
+    {
+      "url": "https://www.idpa.com/wp-content/uploads/2019/05/Appendix-B-PCC.pdf",
+      "name": "IDPA PCC",
+      "file": "2017_IDPA_Rulebook_PCC.pdf",
+      "type": "rules",
+      "chksum": "d9f03f9c945275e31b0f98d0d3b98760b02af3b6"
+    },
+    {
+      "url": "https://www.idpa.com/wp-content/uploads/2020/07/Appendix-C-Carry-Optics.pdf",
+      "name": "IDPA Carry Optics",
+      "file": "2017_IDPA_Rulebook_CO.pdf",
+      "type": "rules",
+      "chksum": "38220c71e7296303243128576ef91984ed580d3e"
+    }
+  ],
+
+  "match_penalties": [
+    {
+      "pen_name": "Hits on Non-Threat",
+      "pen_val": 5.0,
+      "pen_bin": false,
+      "pen_warn": false
+    },
+    {
+      "pen_name": "Procedural Error",
+      "pen_val": 3.0,
+      "pen_bin": false,
+      "pen_warn": false
+    },
+    {
+      "pen_name": "Failure to Do Right",
+      "pen_val": 20.0,
+      "pen_bin": false,
+      "pen_warn": false
+    },
+    {
+      "pen_name": "Flagrant",
+      "pen_val": 10.0,
+      "pen_bin": false,
+      "pen_warn": true
+    },
+    {
+      "pen_name": "Finger PE",
+      "pen_val": 3.0,
+      "pen_bin": false,
+      "pen_warn": true
+    }
+  ],
+  "match_bonuses" : [],
+
+  "match_stages": [
+     {
+     "stage_name": "Stage 1",
+     "stage_number": 1,
+     "stage_strings": 3,
+     "stage_scoretype": "IDPA",
+     "stage_poppers": 0,
+     "stage_noshoots": false,
+     "stage_numtargs": 3,
+     "stage_classictargets": false,
+     "stage_classifier": true,
+     "stage_classifiercode": "2017_1",
+     "stage_tppoints": 100,
+     "stage_targets": [],
+     "stage_briefing": "Stage 1 LIMITED (7-yard line) 24 rounds total All Shot from P1 (6.4 Meters)\n\n9.8.9 Start position is standing erect with hands naturally at sides.\n\nSTAGE PROCEDURE\n\nString 1 (12 shots): Load exactly 6 rounds in the firearm. Draw and fire 2 shots to each body, re-load from slide-lock and fire 2 shots at each head.\n\nString 2 (6 shots): Draw and fire 2 shots at each target strong hand only.\n\nString 3 (6 shots): Start with firearm in weak hand, pointed down range at a 45 degree down angle, safety may be off but the trigger finger must be out of trigger guard. Fire 2 shots at each target weak hand only."
+     },
+     {
+     "stage_name": "Stage 2",
+     "stage_number": 2,
+     "stage_strings": 3,
+     "stage_scoretype": "IDPA",
+     "stage_poppers": 0,
+     "stage_noshoots": false,
+     "stage_numtargs": 3,
+     "stage_classictargets": false,
+     "stage_classifier": true,
+     "stage_classifiercode": "2017_2",
+     "stage_tppoints": 100,
+     "stage_targets": [],
+     "stage_briefing": "Stage 2 LIMITED (5 and 10-yard line) 24 rounds total P2 and P3 (9.1 & 4.6 meters)\n\n9.8.9 Start position is standing erect with hands naturally at sides.\n\nSTAGE PROCEDURE\n\nString 1 (12 shots): Load exactly 6 rounds total in the firearm at P2. Start back to the target, turn, draw and fire 2 rounds to each target, re-load from slide-lock and fire 2 more shots at each target.\n\nString 2 (6 shots): From the 10 yard line (P2), draw and fire 2 shots at each target while moving forward. Do not cross the line at P3.\n\nString 3 (6 shots): From the 5 yard line (P3), draw and fire 2 shots at each target while retreating from the targets."
+     },
+     {
+     "stage_name": "Stage 3",
+     "stage_number": 3,
+     "stage_strings": 2,
+     "stage_scoretype": "IDPA",
+     "stage_poppers": 0,
+     "stage_noshoots": false,
+     "stage_numtargs": 3,
+     "stage_classictargets": false,
+     "stage_classifier": true,
+     "stage_classifiercode": "2017_3",
+     "stage_tppoints": 100,
+     "stage_targets": [],
+     "stage_briefing": "START POSITION\nShooter Position 4 (20y)\nShooter Position 5 (15y)\n\n9.8.9 The start position for all strings is standing erect with hands naturally at sides.\n\nSTAGE PROCEDURE\n\nString 1 (12 shots): Load exactly 6 rounds total in the firearm at P4. Draw and fire 2 shots at each target using from either side of the barricade, re-load from slide-lock using cover, advance to barrels at the 15 yard line (P5) and fire 2 shots at each target using cover shooting inside of the barrels on either side. Shooters choice. Shooter may not shoot around outside of barrels without incurring a penalty Per 5.1.\n\nString 2 (12 shots): Load exactly 6 rounds total in the firearm at P5. Draw and fire 2 shots at each target using cover from inside of the barrels, re-load from slide-lock using cover, move to the opposite barrels and fire 2 shots at each target using cover from inside the barrels. Shooter may not shoot around outside of barrels without incurring a penalty Per 5.1."
+     }
+  ],
+  "match_divisionpfs": {
+    "SSP": { "minor": 125 },
+    "ESP": { "minor": 125 },
+    "CCP": { "minor": 125 },
+    "CDP": { "minor": 165 },
+    "SSR": { "minor": 105 },
+    "ESR": { "minor": 155 },
+    "BUG": { "minor": 95 },
+    "SPD": { "minor": 125 },
+    "PCC": { "minor": 135 },
+    "CO":  { "minor": 125 }
+  },
+
+  "match_dqs" : [
+    { "uuid" : "5dXCcs", "name" : "2.2.A Sweeping yourself or others" },
+    { "uuid" : "2tJpXo", "name" : "2.2.B Broke muzzle safe point/180 plane" },
+    { "uuid" : "a1WDSU", "name" : "2.2.C Intentionally engaging a non target" },
+    { "uuid" : "myjDvW", "name" : "2.2.D A discharge off of the firing line" },
+    { "uuid" : "maPhv2", "name" : "2.2.E Removing a firearm from the holster without supervision" },
+    { "uuid" : "i8KE5Z", "name" : "2.2.F Pointing muzzle of the gun over berm during \"Pull the Trigger\"" },
+    { "uuid" : "xe88QC", "name" : "2.2.G Drawing a firearm while facing up range" },
+    { "uuid" : "9YLHX2", "name" : "2.3.1 Dropping firearm during or after \"Load And Make Ready\"" }, 
+    { "uuid" : "q0xOog", "name" : "2.3.2 Dropped firearm within a stage boundary" },
+    { "uuid" : "A8tRZZ", "name" : "2.6.B Second \"Finger in Trigger Guard\" offense" },
+    { "uuid" : "RMhlND", "name" : "5.4.C Violation of Code of Conduct" },
+    { "uuid" : "xlivNA", "name" : "5.4.D Shooting at a steel target less than 10 yards" }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "match_name" : "DCAPS",
+  "match_type" : "idpa",
+  "match_subtype" : "dcaps",
+  "match_cats" : [ "Stock", "Limited", "Limited Major", "Optic", "PCC", "Revolver", "Compact" ],
+  "match_cls" : [ "1st Time", "Novice", "Marksman", "Sharpshooter", "Expert", "Master", "Elite" ],
+  "match_ctgs" : "[\"Junior\",\"Senior\",\"Lady\",\"Military\",\"Law Enforcement\"]",
+  "match_chkins" : [ "Checked in", "Paid", "Staff" ],
+  "match_pointsdownvalue" : 0.5,
+  "match_steelmisspdcount" : 5,
+  "match_penalties" : [ 
+  { "pen_name" : "Hits on Non-Shoot",
+    "pen_val" : 10,
+    "pen_bin" : false,
+    "pen_warn" : false },
+  { "pen_name" : "Did not Neutralize",
+    "pen_val" : 10,
+    "pen_bin" : false,
+    "pen_warn" : false },
+  { "pen_name" : "Penalty",
+    "pen_val" : 5,
+    "pen_bin" : false,
+    "pen_warn" : false }
+  ]
+}

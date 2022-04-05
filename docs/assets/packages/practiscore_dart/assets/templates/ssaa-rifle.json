@@ -1,0 +1,86 @@
+{
+  "match_name" : "SSAA: Rifle",
+  "match_type" : "uspsa_p",
+  "match_subtype" : "ssaa",
+  "match_modifieddate": "2021-03-30 23:09:10.877",
+
+  "match_cats" : [
+    "Semi-Automatic Open",
+    "Semi-Automatic Standard",
+    "Pump Action Open",
+    "Pump Action Standard",
+    "Lever Action Open",
+    "Lever Action Standard",
+    "Bolt Action Open",
+    "Bolt Action Standard",
+    "Straight Pull Open",
+    "Straight Pull Standard"
+  ],
+  "match_cls" : [ "U", "D", "C", "B", "A", "Master" ],
+  "match_ctgs" : "[\"Lady\",\"Senior\",\"Super Senior\",\"Junior\",\"Rookie\"]",
+  "match_chkins": [ "Checked in", "Paid", "Staff", "RO" ],
+  "match_maxteamresults" : 3,
+
+  "match_docs" : [
+    {
+      "url": "https://ssaa.org.au/assets/disciplines/practical-shooting/Practical_shooting_rule_book_-_No._6__Rev_July_2019_-_for_publication.pdf",
+      "name": "SSAA Rules 2019",
+      "file": "SSAA_Rules_July_2019.pdf",
+      "type": "rules",
+      "chksum": "ef3c36f29ccb8b43bb19b034f2da4f23e0734f28"
+    }
+  ],
+
+  "match_pfs" : [
+    { "name" : "Major", "short" : "Maj", "A" : 5, "B" : 4, "C" : 4, "D" : 2, "M" : 10, "NS" : 10 },
+    { "name" : "Minor", "short" : "Min", "A" : 5, "B" : 3, "C" : 3, "D" : 1, "M" : 10, "NS" : 10 },
+    { "name" : "Small Power", "short" : "SP", "A" : 3, "B" : 2, "C" : 2, "D" : 0, "M" : 10, "NS" : 10 },
+    { "name" : "Subminor", "short" : "Sub", "A" : 0, "B" : 0, "C" : 0, "D" : 0, "M" : 0, "NS" : 0 } ],
+
+  "match_divisionpfs" : {
+    "Semi-Automatic Open": { "minor" : 160, "major" : 340, "small power": 35 },
+    "Semi-Automatic Standard": { "minor" : 160, "major" : 340, "small power": 35 },
+    "Pump Action Open": { "minor" : 160, "major" : 340, "small power": 35 },
+    "Pump Action Standard": { "minor" : 160, "major" : 340, "small power": 35 },
+    "Lever Action Open": { "minor" : 160, "major" : 340, "small power": 35 },
+    "Lever Action Standard": { "minor" : 160, "major" : 340, "small power": 35 },
+    "Bolt Action Open": { "minor" : 160, "major" : 340, "small power": 35 },
+    "Bolt Action Standard": { "minor" : 160, "major" : 340, "small power": 35 },
+    "Straight Pull Open": { "minor" : 160, "major" : 340, "small power": 35 },
+    "Straight Pull Standard": { "minor" : 160, "major" : 340, "small power": 35 }
+  },
+
+  "match_procs" : [
+    { "uuid" : "jkaZwk", "name" : "8.2.4 Failure to Engage Target" },
+    { "uuid" : "7wTzBw", "name" : "8.2.1 Foot Fault" },
+    { "uuid" : "s8g7Dn", "name" : "8.2.2 Charge Line Breach" },
+    { "uuid" : "s8g7Dm", "name" : "8.2.3 Unauthorized Shooting Position" },
+    { "uuid" : "kddJxe", "name" : "8.2.5 Tunnel / Roofing Obstruction" },
+    { "uuid" : "v9pLTA", "name" : "8.2.6 Wrong Shooting Hand Used" },
+    { "uuid" : "EQRTwQ", "name" : "8.2.7 Breach of Standby Command" },
+    { "uuid" : "s7g7D1", "name" : "8.1.1 Extra Shot" },
+    { "uuid" : "s8g7a2", "name" : "8.1.1 Missed Shot" },
+    { "uuid" : "E1RTwA", "name" : "8.2 Prohibited Action" },
+    { "uuid" : "E2RTwB", "name" : "8.2 General Procedural" } ],
+
+  "match_dqs" : [
+    { "uuid" : "Nk2R9M", "name" : "8.3.2 Accidental Discharge" },
+    { "uuid" : "CzfrxQ", "name" : "8.3.1 Muzzle pointing rearwards" },
+    { "uuid" : "Gtmb6C", "name" : "8.3.1 Dropped firearm" },
+    { "uuid" : "4LZ3Dt", "name" : "8.3.1 Loaded firearm outside the course of fire" },
+    { "uuid" : "6kQPCu", "name" : "8.3.1 Unauthorized firearm handling" },
+    { "uuid" : "uZmpFr", "name" : "8.3.1 Loaded firearm outside the RO authority" },
+    { "uuid" : "snewMA", "name" : "8.3.1 Safety not engaged" },
+    { "uuid" : "Dn5Cxd", "name" : "8.3.1 Finger in trigger guard while moving or changing position" },
+    { "uuid" : "xy5hNj", "name" : "8.3.1 Sweeping body with muzzle" },
+    { "uuid" : "xy6hN2", "name" : "8.3.1 Using a firearm to open door, window or prop" },
+    { "uuid" : "7Ars2B", "name" : "8.3.1 Unsportsmanship behaviour" },
+    { "uuid" : "7Crs3B", "name" : "8.3.1 General DQ" }
+  ],
+
+  "match_dnfs" : [
+    { "uuid" : "R4cPM8", "name" : "Not present at the stage" },
+    { "uuid" : "R4cPM9", "name" : "Refused reshoot" },
+    { "uuid" : "Hd2QA1", "name" : "Missing time" },
+    { "uuid" : "4AEvHd", "name" : "Unrealistic score" } ]
+}

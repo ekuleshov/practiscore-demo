@@ -1,0 +1,22 @@
+{
+  "match_type" : "proam",
+  "match_name" : "ProAm",
+  "match_maxteamresults" : 4,
+
+  "match_cats" : [ "Open", "Limited", "Production", "Single Stack",
+      "Limited 10", "PCC", "Revolver", "Open Revolver", "Carry Optics" ],
+  "match_ctgs" : "[\"Junior\",\"Senior\",\"Super Senior\",\"Lady\",\"Law Enforcement\",\"Military\",\"Foreign\"]",
+  "match_cls" : [ "Pro", "Am" ],
+  "match_chkins": [ "Checked in", "Paid", "Staff", "RO" ],
+
+  "match_custom_targets" : [ {
+    "target_reqshots" : 40,
+    "target_name" : "ProAm",
+    "target_targdesc" : [ [ "Hit", "1" ], [ "Over Time", "0" ],
+        [ "Procedural", "0" ], [ "Bonus", "2" ], [ "Penalty", "0" ] ] } ],
+  "match_penalties" : [ {
+    "pen_val" : 3,
+    "pen_name" : "Penalty",
+    "pen_bin" : false } ],
+  "match_bonuses" : []
+}

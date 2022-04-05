@@ -1,0 +1,35 @@
+{
+  "match_type" : "precisionrifle",
+  "match_name" : "Long Range Rifle + Skills",
+  
+  "match_cats": [ "Open", "Tactical", "Production" ],
+  "match_ctgs": "[\"Lady\",\"Military/Law\",\"Junior\",\"Senior\",\"Club\",\"International\"]",
+  "match_cls" : [],
+  "match_chkins": [ "Checked in", "Paid", "Staff" ],
+
+  "match_stages" : [
+      {
+        "stage_number" : 1,
+        "stage_name" : "PRS Skills Stage 1",
+        "stage_scoretype" : "PrecisionRifle", 
+        "stage_doesntrequiretime" : false,
+        "stage_targets" : [
+            { "target_precval" : 1, "target_number" : 1 },
+            { "target_precval" : 1, "target_number" : 2 },
+            { "target_precval" : 1, "target_number" : 3 },
+            { "target_precval" : 1, "target_number" : 4 },
+            { "target_precval" : 1, "target_number" : 5 },
+            { "target_precval" : 1, "target_number" : 6 } ], 
+        "stage_classifier" : true,
+        "stage_classifiercode" : "Skills1" },
+      {
+        "stage_number" : 2,
+        "stage_name" : "PRS Skills Stage 2", 
+        "stage_scoretype" : "PRSShotsLimited", 
+        "stage_doesntrequiretime" : false,
+        "stage_targets" : [], 
+        "stage_classifier" : true,
+        "stage_classifiercode" : "Skills2", 
+        "stage_numtargs" : 8,
+        "stage_prsnsval" : 0.5 } ]
+}

@@ -1,0 +1,23 @@
+{
+  "match_name": "USSL-UPL-TFS",
+  "match_type": "timeplus_p",
+  "match_subtype": "upl",
+
+  "match_cats": [ "Production", "Limited Major", "Limited Minor", "Open",
+      "Carry Optics", "PCC", "22lr", "Single Stack Major", "Single Stack Minor" ],
+  "match_cls": [ "PRO", "SP", "EX", "SS", "MM", "R" ],
+  "match_ctgs": "[\"Lady\",\"Junior\",\"Super Senior\",\"Law Enforcement\",\"Military\",\"Senior\"]",
+  "match_chkins": [ "QTP","Checked in", "Paid", "Staff" ],
+  "match_pfs": [
+    { "name": "Major", "short": "Maj", "A": 0.0, "B": 0.0, "C": 0.2, "D": 0.6, "M": 2.0, "PT": 3.0, "disabled": "" }
+  ],
+
+  "match_penalties": [
+    {
+      "pen_warn": false,
+      "pen_bin": false,
+      "pen_name": "Spinner",
+      "pen_val": 30.0
+    }
+  ]
+}

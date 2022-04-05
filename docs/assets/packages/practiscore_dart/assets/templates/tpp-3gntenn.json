@@ -1,0 +1,54 @@
+{
+  "match_name" : "Tennessee 3 Gun Series",
+  "match_type" : "timeplus_p",
+  "match_subtype" : "tn3g",
+  "match_ctgs" : "[\"Preteen\",\"Junior\",\"Senior\",\"Super Senior\",\"Lady\",\"Foreign,\",\"Law Enforcement\",\"Military\"]",
+  "match_cats" : [ "Open", "Limited", "Tactical" ],
+  "match_cls" : [ "G", "M", "A", "B", "C", "D", "U", "X" ],
+  "match_penalties" : [ { 
+     "pen_val":2.5,
+     "pen_name":"Paper w one hit",
+     "pen_bin":false
+   }, {
+     "pen_val":5,
+     "pen_name":"Paper W\/no hits",
+     "pen_bin":false
+   }, {
+     "pen_val":5,
+     "pen_name":"Clay\/Steel FTN",
+     "pen_bin":false
+   }, {
+     "pen_val":7.5,
+     "pen_name":"Target not Engaged",
+     "pen_bin":false
+   }, {
+     "pen_val":5,
+     "pen_name":"No Shoot",
+     "pen_bin":false
+   }, {
+     "pen_val":5,
+     "pen_name":"Procedural",
+     "pen_bin":false
+   }, {
+     "pen_val":15,
+     "pen_name":">100 yd Steel FTN",
+     "pen_bin":false
+   }, {
+     "pen_val":20,
+     "pen_name":">100 yd Steel FTE",
+     "pen_bin":false
+   } ],
+  "match_bonuses" : [],
+  
+  "match_custom_targets": [
+    {
+      "target_reqshots": 40,
+      "target_name": "ProAm",
+      "target_targdesc": [
+        [ "Hit", "1" ],
+        [ "Procedural", "-5" ],
+        [ "Overtime", "-1" ]
+      ]
+    }
+  ]  
+}

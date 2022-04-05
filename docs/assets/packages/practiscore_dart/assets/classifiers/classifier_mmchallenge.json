@@ -1,0 +1,233 @@
+[
+    {
+      "stage_name" : "KYL",
+      "stage_scoretype" : "NRAAction",
+      "stage_classifiercode" : "KYL",
+      "stage_number" : 1,
+      "stage_strings" : 1,
+      "stage_customtargets" : [
+          {
+            "target_number" : 1,
+            "target_targdesc" : [ [ "Hit", "10" ], [ "Miss", "0.00" ] ],
+            "target_name" : "Cold bore",
+            "target_reqshots" : 1 },
+          {
+            "target_number" : 2,
+            "target_targdesc" : [ [ "1", "5.00" ], [ "2", "15.00" ],
+                [ "3", "35.00" ], [ "4", "65.00" ], [ "5", "105.00" ],
+                [ "Miss", "0.00" ] ],
+            "target_name" : "KYL",
+            "target_reqshots" : 1 } ]
+    },
+    {
+      "stage_name" : "Bullseye Only",
+      "stage_scoretype" : "NRAAction",
+      "stage_briefing" : "\n1 shot per circle scored.\n",
+      "stage_classifiercode" : "Bullseye Only",
+      "stage_number" : 2,
+      "stage_customtargets" : [
+          {
+            "target_number" : 1,
+            "target_targdesc" : [ [ "Dot", "15.00" ], [ "Circle", "1.00" ],
+                [ "Miss", "-5.00" ] ],
+            "target_name" : "1",
+            "target_reqshots" : 1 },
+          {
+            "target_number" : 2,
+            "target_targdesc" : [ [ "Dot", "14.00" ], [ "Circle", "1.00" ],
+                [ "Miss", "-5.00" ] ],
+            "target_name" : "2",
+            "target_reqshots" : 1 },
+          {
+            "target_number" : 3,
+            "target_targdesc" : [ [ "Dot", "13.00" ], [ "Circle", "1.00" ],
+                [ "Miss", "-5.00" ] ],
+            "target_name" : "3",
+            "target_reqshots" : 1 },
+          {
+            "target_number" : 4,
+            "target_targdesc" : [ [ "Dot", "12.00" ], [ "Circle", "1.00" ],
+                [ "Miss", "0.01" ] ],
+            "target_name" : "4",
+            "target_reqshots" : 1 },
+          {
+            "target_number" : 5,
+            "target_targdesc" : [ [ "Dot", "11.00" ], [ "Circle", "1.00" ],
+                [ "Miss", "-5.00" ] ],
+            "target_name" : "5",
+            "target_reqshots" : 1 },
+          {
+            "target_number" : 6,
+            "target_targdesc" : [ [ "Dot", "10.00" ], [ "Circle", "1.00" ],
+                [ "Miss", "-5.00" ] ],
+            "target_name" : "6",
+            "target_reqshots" : 1 },
+          {
+            "target_number" : 7,
+            "target_targdesc" : [ [ "Dot", "9.00" ], [ "Circle", "1.00" ],
+                [ "Miss", "-5.00" ] ],
+            "target_name" : "7",
+            "target_reqshots" : 1 },
+          {
+            "target_number" : 8,
+            "target_targdesc" : [ [ "Dot", "8.00" ], [ "Circle", "1.00" ],
+                [ "Miss", "-5.00" ] ],
+            "target_name" : "8",
+            "target_reqshots" : 1 },
+          {
+            "target_number" : 9,
+            "target_targdesc" : [ [ "Dot", "7.00" ], [ "Circle", "1.00" ],
+                [ "Miss", "-5.00" ] ],
+            "target_name" : "9",
+            "target_reqshots" : 1 },
+          {
+            "target_number" : 10,
+            "target_targdesc" : [ [ "Dot", "6.00" ], [ "Circle", "1.00" ],
+                [ "Miss", "-5.00" ] ],
+            "target_name" : "10",
+            "target_reqshots" : 1 },
+          {
+            "target_number" : 11,
+            "target_targdesc" : [ [ "Dot", "5.00" ], [ "Circle", "1.00" ],
+                [ "Miss", "-5.00" ] ],
+            "target_name" : "11",
+            "target_reqshots" : 1 },
+          {
+            "target_number" : 12,
+            "target_targdesc" : [ [ "Dot", "4.00" ], [ "Circle", "1.00" ],
+                [ "Miss", "-5.00" ] ],
+            "target_name" : "12",
+            "target_reqshots" : 1 },
+          {
+            "target_number" : 13,
+            "target_targdesc" : [ [ "Dot", "3.00" ], [ "Circle", "1.00" ],
+                [ "Miss", "-5.00" ] ],
+            "target_name" : "13",
+            "target_reqshots" : 1 },
+          {
+            "target_number" : 14,
+            "target_targdesc" : [ [ "Dot", "2.00" ], [ "Circle", "1.00" ],
+                [ "Miss", "-5.00" ] ],
+            "target_name" : "14",
+            "target_reqshots" : 1 },
+          {
+            "target_number" : 15,
+            "target_targdesc" : [ [ "Dot", "1.00" ], [ "Circle", "1.00" ],
+                [ "Miss", "-5.00" ] ],
+            "target_name" : "15",
+            "target_reqshots" : 1 } ]
+    },
+    {
+      "stage_name" : "Black Death",
+      "stage_scoretype" : "NRAAction",
+      "stage_classifiercode" : "Black Death",
+      "stage_number" : 3,
+      "stage_customtargets" : [
+          {
+            "target_number" : 1,
+            "target_targdesc" : [ [ "Dot", "10.00" ], [ "Circle", "1.00" ],
+                [ "Miss", "-10.00" ], [ "Square", "1" ] ],
+            "target_name" : "1",
+            "target_reqshots" : 1 },
+          {
+            "target_number" : 2,
+            "target_targdesc" : [ [ "Dot", "10.00" ], [ "Circle", "2.00" ],
+                [ "Miss", "-8.00" ], [ "Square", "1" ] ],
+            "target_name" : "2",
+            "target_reqshots" : 1 },
+          {
+            "target_number" : 3,
+            "target_targdesc" : [ [ "Dot", "10.00" ], [ "Circle", "5.00" ],
+                [ "Miss", "-6.00" ] ],
+            "target_name" : "3",
+            "target_reqshots" : 1 },
+          {
+            "target_number" : 4,
+            "target_targdesc" : [ [ "Dot", "10.00" ], [ "Circle", "7.00" ],
+                [ "Miss", "-4.00" ] ],
+            "target_name" : "4",
+            "target_reqshots" : 1 },
+          {
+            "target_number" : 5,
+            "target_targdesc" : [ [ "Dot", "10.00" ], [ "Circle", "10.00" ],
+                [ "Miss", "-2.00" ] ],
+            "target_name" : "5",
+            "target_reqshots" : 1 },
+          {
+            "target_number" : 6,
+            "target_reqshots" : 1,
+            "target_name" : "6",
+            "target_targdesc" : [ [ "Dot", "15.00" ], [ "Circle", "1.00" ],
+                [ "Miss", "-5.00" ], [ "Name", "1" ] ] } ]
+    },
+    {
+      "stage_name" : "Tin Man",
+      "stage_scoretype" : "NRAAction",
+      "stage_classifiercode" : "Tin Man",
+      "stage_number" : 4,
+      "stage_customtargets" : [ {
+        "target_number" : 1,
+        "target_targdesc" : [ [ "Body", "5.00" ], [ "Head", "10.00" ],
+            [ "Heart", "15.00" ], [ "FTN", "0.00" ] ],
+        "target_name" : "Tin Man",
+        "target_reqshots" : 5 } ]
+    },
+    {
+      "stage_name" : "KYL Steel",
+      "stage_scoretype" : "NRAAction",
+      "stage_classifiercode" : "KYL Steel",
+      "stage_number" : 5,
+      "stage_customtargets" : [ {
+        "target_number" : 1,
+        "target_targdesc" : [ [ "1", "5.00" ], [ "2", "10.00" ],
+            [ "3", "15.00" ], [ "4", "20.00" ], [ "5", "25.00" ],
+            [ "6", "35.00" ], [ "7", "50.00" ], [ "8", "75.00" ],
+            [ "Miss", "1" ] ],
+        "target_name" : "KYL",
+        "target_reqshots" : 1 } ]
+    },
+    {
+      "stage_name" : "Positional",
+      "stage_scoretype" : "NRAAction",
+      "stage_classifiercode" : "Positional",
+      "stage_number" : 6,
+      "stage_customtargets" : [
+          {
+            "target_number" : 1,
+            "target_targdesc" : [ [ "15", "15.00" ], [ "10", "10.00" ],
+                [ "5", "5.00" ], [ "Miss", "0.00" ] ],
+            "target_name" : "Standing",
+            "target_reqshots" : 2 },
+          {
+            "target_number" : 2,
+            "target_targdesc" : [ [ "15", "15.00" ], [ "10", "10.00" ],
+                [ "5", "5.00" ], [ "Miss", "0.00" ] ],
+            "target_name" : "Sitting/Kneeling",
+            "target_reqshots" : 2 },
+          {
+            "target_number" : 3,
+            "target_targdesc" : [ [ "15", "15.00" ], [ "10", "10.00" ],
+                [ "5", "5.00" ], [ "Miss", "0.00" ] ],
+            "target_name" : "Prone",
+            "target_reqshots" : 2 } ]
+    },
+    {
+      "stage_name" : "Hostage",
+      "stage_scoretype" : "NRAAction",
+      "stage_classifiercode" : "Hostage",
+      "stage_number" : 7,
+      "stage_customtargets" : [
+          {
+            "target_number" : 1,
+            "target_targdesc" : [ [ "Eye", "10.00" ], [ "Head", "5.00" ],
+                [ "Body", "15.00" ], [ "Hostage", "-10.00" ] ],
+            "target_name" : "Perp 1",
+            "target_reqshots" : 10 },
+          {
+            "target_number" : 2,
+            "target_targdesc" : [ [ "Eye", "10.00" ], [ "Head", "5.00" ],
+                [ "Body", "15.00" ], [ "Hostage", "-10.00" ] ],
+            "target_name" : "Perp 2",
+            "target_reqshots" : 10 } ]
+    }
+]

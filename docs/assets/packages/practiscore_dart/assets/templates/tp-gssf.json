@@ -1,0 +1,28 @@
+{
+  "match_name" : "GSSF",
+  "match_type" : "timeplus",
+  "match_subtype" : "gssf",
+  "match_ctgs" : "[\"Lady\",\"Junior\",\"Senior\",\"Super Senior\",\"Challenged\"]",
+  "match_cats" : [ "Civilian", "Guardian", "Subcompact", "Competition", "Heavy Metal", "Major-Subcompact", "Unlimited", "Master-Stock" ],
+  "match_cls" : [ "Amateur", "Master" ],
+  "match_usemaxstagetime" : false,
+  "match_penalties" : [ {
+    "pen_warn" : false,
+    "pen_bin" : false,
+    "pen_name" : "C hit",
+    "pen_val" : 1.0 }, {
+    "pen_warn" : false,
+    "pen_bin" : false,
+    "pen_name" : "D hit",
+    "pen_val" : 3.0 }, {
+    "pen_warn" : false,
+    "pen_bin" : false,
+    "pen_name" : "Miss",
+    "pen_val" : 10.0 }, {
+    "pen_warn" : false,
+    "pen_bin" : false,
+    "pen_name" : "Procedural",
+    "pen_val" : 10.0 } ],
+  "match_bonuses" : [],
+  "match_chkins" : [ "Checked in", "Paid", "Staff" ]
+}

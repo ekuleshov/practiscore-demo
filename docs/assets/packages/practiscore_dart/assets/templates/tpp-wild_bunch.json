@@ -1,0 +1,72 @@
+{
+  "ios": true,
+  "android": true,
+  "match_modifieddate": "2021-04-01 00:00:00.00",
+  "match_template": true,
+  "match_name" : "SASS: Wild Bunch (2021)",
+  "match_type" : "timeplus",
+  "match_subtype" : "sass",
+  "match_ctgs" : "[\"Lady\",\"Junior\",\"Senior\"]",
+  "match_cats" : [ "Modern", "Traditional", "Lady Modern", "Lady Traditional", "Senior Ladies Traditional", "Senior Ladies Modern", "Senior Modern", "Senior Traditional" ],
+  "match_chkins" : [ "Checked in", "Paid", "Staff", "RO" ],
+  "match_cls" : [],
+  "match_usemaxstagetime" : false,
+
+  "match_docs" : [
+    {
+      "url": "https://www.sassnet.com/Downloads/SASS%20WILD%20BUNCH%20Action%20Shooting%20Handbook%20Vers%2015%203.5.21.pdf",
+      "name": "SASS Wildbunch Rules",
+      "file": "2021_SASS_WildBunch_15.pdf",
+      "type": "rules",
+      "chksum": "0760bf363daa90b6664181a7ed6ad752dcd8f376"
+    }
+  ],
+
+  "match_penalties" : [ 
+    { "pen_val" : 5,  "pen_name" : "Misses",     "pen_bin" : false },
+    { "pen_val" : 10, "pen_name" : "Procedural", "pen_bin" : true },
+    { "pen_val" : 10, "pen_name" : "Minor Safety", "pen_bin" : false },
+    { "pen_val" : 30, "pen_name" : "Spirit of the Game", "pen_bin" : true, "pen_warn" : true } ],
+  "match_bonuses" : [],
+  
+  "match_dqs" : [
+    { "uuid" : "Nk2R9M", "name" : "Two accumulated SDQ" },
+    { "uuid" : "CzfrxQ", "name" : "Two accumulated Spirit of the Game" },
+    { "uuid" : "4LZ3Dt", "name" : "Belligerent attitude / Unsportsman-like conduct" },
+    { "uuid" : "6kQPCu", "name" : "Alcohol, prescription, or other medication" },
+    { "uuid" : "uZmpFr", "name" : "Shooting illegal ammunition" },
+    { "uuid" : "snewMA", "name" : "Dropping a loaded firearm" },
+    { "uuid" : "Dn5Cxd", "name" : "Discharge that hits the ground or stage prop less than 5 feet" },
+    { "uuid" : "xy5hNj", "name" : "Discharge at the loading/unloading areas" },
+    { "uuid" : "7Ars2B", "name" : "Sweeping anyone with a loaded firearm" },
+    { "uuid" : "2BuGHU", "name" : "Third offense for failure to adhere to the guidelines of the category" },
+    { "uuid" : "XMxAjX", "name" : "Leaving the stage with a malfunctioning firearm containing live ammo" },
+    { "uuid" : "BeMf46", "name" : "Interpersonal conflicts" },
+    { "uuid" : "wuzpsg", "name" : "Failure to comply with a Cease Fire or Stop command" },
+    
+    { "uuid" : "cRhKE7", "name" : "Ammunition that does not meet power factor" },
+    { "uuid" : "jBKK5Q", "name" : "Illegal equipment or an illegal or illegally modified firearm" } ],
+
+  "match_sdqs" : [
+    { "uuid" : "EQRTwQ", "name" : "Shooting on the move" },
+    { "uuid" : "v9pLTA", "name" : "Dropped unloaded gun on the firing line" },
+    { "uuid" : "s8g7Dn", "name" : "Long guns that fall and break the 170 safety rule" },
+    { "uuid" : "7wTzBw", "name" : "Discharge striking anything 5 to 10 feet from the shooter" },
+    { "uuid" : "jkaZwk", "name" : "Violation of the 170 safety rule" },
+    { "uuid" : "kddJxe", "name" : "Cocked pistol with a chambered live round leaving the shooter's hand" },
+    { "uuid" : "xdnYza", "name" : "Live round left in the chamber of a long gun" },
+    { "uuid" : "WEkBf8", "name" : "Second offense for failure to adhere to the guidelines of the category" },
+    { "uuid" : "bJQy4F", "name" : "Changing location with a live round under a cocked hammer" },
+    { "uuid" : "eWtfmL", "name" : "Gun with the hammer down on a live round" },
+    { "uuid" : "eWtfmK", "name" : "Unsafe firearm handling" },
+    { "uuid" : "GsjtMt", "name" : "Loaded shotgun" },
+    { "uuid" : "ebYfyV", "name" : "Loading at other than the designated loading position" },
+    { "uuid" : "7x3MQr", "name" : "Sweeping anyone with an unloaded firearm" },
+    { "uuid" : "uBTRY2", "name" : "Failure to adhere to loading/unloading procedures" },
+    { "uuid" : "HkvzTR", "name" : "Restaging a long gun with the hammer NOT fully down on an empty chamber" },
+    { "uuid" : "x2TVQF", "name" : "De-cocking a firearm with a live round under the hammer" },
+    { "uuid" : "x2TVQ1", "name" : "Uncleared firearm at the designated loading area after completing a stage" },
+    { "uuid" : "BgXQGK", "name" : "Leaving the firing line after being committed to the stage" },
+    { "uuid" : "R8cMDc", "name" : "Re-holstering the pistol without it being cleared by a stage official" },
+    { "uuid" : "7NeDtm", "name" : "Use or presence of an outlawed item" } ]
+}

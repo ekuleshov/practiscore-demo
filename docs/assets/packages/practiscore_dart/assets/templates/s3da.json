@@ -1,0 +1,95 @@
+{
+  "match_name": "S3DA",
+  "match_type": "nra_action",
+  "match_subtype" : "s3da",
+  "match_maxteamresults": 4,
+  "match_cats": [
+    "Elementary Male Open",
+    "Elementary Male Fixed Pins",
+    "Elementary Male Traditional",
+    "Elementary Male Olympic Recurve",
+    "Elementary Male UNC Universal Novice Compound",
+    "Elementary Female Open",
+    "Elementary Female Fixed Pins",
+    "Elementary Female Traditional",
+    "Elementary Female Olympic Recurve",
+    "Elementary Female UNC Universal Novice Compound",
+    "Middle Male Open",
+    "Middle Male Fixed Pins",
+    "Middle Male Traditional",
+    "Middle Male Olympic Recurve",
+    "Middle Male UNC Universal Novice Compound",
+    "Middle Female Open",
+    "Middle Female Fixed Pins",
+    "Middle Female Traditional",
+    "Middle Female Olympic Recurve",
+    "Middle Female UNC Universal Novice Compound",
+    "High Male Open",
+    "High Male Fixed Pins",
+    "High Male Advanced Fixed Pins",
+    "High Male Traditional",
+    "High Male Olympic Recurve",
+    "High Male UNC Universal Novice Compound",
+    "High Female Open",
+    "High Female Fixed Pins",
+    "High Female Advanced Fixed Pins",
+    "High Female Traditional",
+    "High Female Olympic Recurve",
+    "High Female UNC Universal Novice Compound"
+  ],
+  "match_ctgs": "",
+  "match_cls": [],
+  "match_chkins": [ "Checked in", "Paid", "Staff" ],
+
+  "match_custom_targets": [
+    {
+      "target_reqshots": 5,
+      "target_name": "6 Ring 5-1",
+      "target_targdesc": [
+        ["X","5"],
+        ["5","5"],
+        ["4","4"],
+        ["3","3"],
+        ["2","2"],
+        ["1","1"],
+        ["0","0"]
+      ]
+    },
+    {
+      "target_reqshots": 5,
+      "target_name": "6 Ring 10-5",
+      "target_targdesc": [
+        ["X","10"],
+        ["9","9"],
+        ["8","8"],
+        ["7","7"],
+        ["6","6"],
+        ["5","5"],
+        ["0","0"]
+      ]
+    },
+    {
+      "target_reqshots": 5,
+      "target_name": "4 Ring",
+      "target_targdesc": [
+        ["X","5"],
+        ["5","5"],
+        ["4","4"],
+        ["4","4"],
+        ["0","0"]
+      ]
+    },
+    {
+      "target_reqshots": 5,
+      "target_name": "3D",
+      "target_targdesc": [
+        ["14","14"],
+        ["12","12"],
+        ["10","10"],
+        ["8","8"],
+        ["5","5"],
+        ["0","0"]
+      ]
+    }
+  ]
+}

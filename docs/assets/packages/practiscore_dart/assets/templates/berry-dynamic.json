@@ -1,0 +1,36 @@
+{
+  "ios": true,
+  "android": true,
+  "match_name": "Berry's Dynamic",
+  "match_type": "timeplus",
+  "match_subtype": "berrysdynamic",
+
+  "match_cats": [ "Open", "Limited", "Production", "Single Stack", "PCC", "Revolver", "Open Revolver", "Carry Optics" ],
+  "match_ctgs": "[\"Lady\",\"Junior\",\"Senior\",\"Super Senior\",\"Law\",\"Military\"]",
+  "match_cls": [ "U" ],
+  "match_chkins": [ "Checked in", "Paid", "Staff" ],
+
+  "match_usemaxstagetime": false,
+
+  "match_penalties": [
+    {
+      "pen_warn": false,
+      "pen_bin": false,
+      "pen_name": "Procedural",
+      "pen_val": 3
+    },
+    {
+      "pen_warn": false,
+      "pen_bin": false,
+      "pen_name": "Missed Target",
+      "pen_val": 3
+    },
+    {
+      "pen_warn": false,
+      "pen_bin": false,
+      "pen_name": "No Shoot",
+      "pen_val": 3
+    }
+  ],
+  "match_bonuses": []
+}

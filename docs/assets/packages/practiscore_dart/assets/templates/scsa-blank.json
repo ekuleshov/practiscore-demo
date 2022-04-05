@@ -1,0 +1,47 @@
+{
+  "ios": true,
+  "android": true,
+  "match_modifieddate": "2021-03-05 00:00:00.00",
+  "match_name": "Steel Challenge: Blank",
+  "match_type": "sc",
+  "match_subtype": "scsa",
+  "match_cats" : [ "ISR", "OSR", "PROD", "SS", "CO", "OPN", "LTD",
+      "RFPI", "RFPO", "RFRI", "RFRO", "PCCI", "PCCO" ],
+  "match_cls" : [ "U", "D", "C", "B", "A", "M", "G", "X" ],
+  "match_ctgs" : "[\"Preteen\",\"Junior\",\"Senior\",\"Super Senior\",\"Lady\",\"Foreign\",\"Law Enforcement\",\"Military\"]",
+  "match_chkins": [ "Checked in", "Paid", "Staff", "RO" ],
+  
+  "match_docs" : [
+    {
+      "url": "https://uspsa.org/viewer/pdf/2021-SCSA-Rulebook-March-2021.pdf",
+      "name": "SCSA Rules 2021",
+      "file": "SCSA_Rules_March_2021.pdf",
+      "type": "rules",
+      "chksum": "fa253ff1ce7451917067a0cf5c668e62948f6901"
+    }
+  ],
+
+  "match_penalties": [
+    {
+      "pen_name": "Procedural",
+      "pen_val": 3,
+      "pen_bin": false
+    },
+    {
+      "pen_name": "Miss",
+      "pen_val": 3,
+      "pen_bin": false
+    },
+    {
+      "pen_name": "Miss Stop Plate",
+      "pen_val": 30,
+      "pen_bin": true
+    },
+    {
+      "pen_name": "Center Box Only",
+      "pen_val": 4,
+      "pen_bin": true
+    }
+  ],
+  "match_bonuses": []
+}

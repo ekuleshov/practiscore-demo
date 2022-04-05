@@ -1,0 +1,264 @@
+[
+  {
+    "stage_strings": 0,
+    "stage_doesntrequiretime": true,
+    "stage_maxstringtime": 120.00,
+    "stage_classifiercode": "code1",
+    "stage_customtargets": [
+      {
+      "target_targdesc": [
+        [ "10", "10" ],
+        [ "8", "8" ],
+        [ "6", "6" ],
+        [ "4", "4" ],
+        [ "2", "2" ],
+        [ "1", "1" ],
+        [ "Miss", "0" ]
+      ],
+      "target_name": "3” Paper",
+      "target_reqshots": 5
+    },
+      {
+      "target_targdesc": [
+        [ "10", "10" ],
+        [ "8", "8" ],
+        [ "6", "6" ],
+        [ "4", "4" ],
+        [ "2", "2" ],
+        [ "1", "1" ],
+        [ "Miss", "0" ]
+      ],
+      "target_name": "3” Paper",
+      "target_reqshots": 5
+    }
+    ],
+    "stage_scoretype": "NRAAction",
+    "stage_name": "3” Paper"
+  },
+  {
+    "stage_strings": 0,
+    "stage_doesntrequiretime": true,
+    "stage_maxstringtime": 120.00,
+    "stage_classifiercode": "code2",
+    "stage_customtargets": [
+      {
+      "target_targdesc": [
+        [ "10", "10" ],
+        [ "8", "8" ],
+        [ "6", "6" ],
+        [ "4", "4" ],
+        [ "Miss", "0" ]
+      ],
+      "target_name": "2” Paper",
+      "target_reqshots": 2
+    },
+      {
+      "target_targdesc": [
+        [ "10", "10" ],
+        [ "8", "8" ],
+        [ "6", "6" ],
+        [ "4", "4" ],
+        [ "Miss", "0" ]
+      ],
+      "target_name": "2” Paper",
+      "target_reqshots": 2
+    },
+      {
+      "target_targdesc": [
+        [ "10", "10" ],
+        [ "8", "8" ],
+        [ "6", "6" ],
+        [ "4", "4" ],
+        [ "Miss", "0" ]
+      ],
+      "target_name": "2” Paper",
+      "target_reqshots": 2
+    },
+      {
+      "target_targdesc": [
+        [ "10", "10" ],
+        [ "8", "8" ],
+        [ "6", "6" ],
+        [ "4", "4" ],
+        [ "Miss", "0" ]
+      ],
+      "target_name": "2” Paper",
+      "target_reqshots": 2
+    }
+    ],
+    "stage_scoretype": "NRAAction",
+    "stage_name": "2” Paper"
+  },
+  {
+    "stage_strings": 0,
+    "stage_doesntrequiretime": true,
+    "stage_maxstringtime": 120.00,
+    "stage_classifiercode": "code3",
+    "stage_customtargets": [
+      {
+        "target_targdesc": [
+          [ "10", "10" ],
+          [ "7", "7" ],
+          [ "5", "5" ],
+          [ "Miss", "0" ]
+        ],
+        "target_name": "1.5” Paper",
+        "target_reqshots": 2
+      },
+      {
+        "target_targdesc": [
+          [ "10", "10" ],
+          [ "7", "7" ],
+          [ "5", "5" ],
+          [ "Miss", "0" ]
+        ],
+        "target_name": "1.5” Paper",
+        "target_reqshots": 2
+      },
+      {
+        "target_targdesc": [
+          [ "10", "10" ],
+          [ "7", "7" ],
+          [ "5", "5" ],
+          [ "Miss", "0" ]
+        ],
+        "target_name": "1.5” Paper",
+        "target_reqshots": 2
+      },
+      {
+        "target_targdesc": [
+          [ "10", "10" ],
+          [ "7", "7" ],
+          [ "5", "5" ],
+          [ "Miss", "0" ]
+        ],
+        "target_name": "1.5” Paper",
+        "target_reqshots": 2
+      },
+      {
+      "target_targdesc": [
+        [ "10", "10" ],
+        [ "7", "7" ],
+        [ "5", "5" ],
+        [ "Miss", "0" ]
+      ],
+      "target_name": "1.5” Paper",
+      "target_reqshots": 2
+    }
+    ],
+    "stage_scoretype": "NRAAction",
+    "stage_name": "1.5” Paper"
+  },
+  {
+    "stage_strings": 0,
+    "stage_doesntrequiretime": true,
+    "stage_maxstringtime": 120.00,
+    "stage_classifiercode": "code4",
+    "stage_customtargets": [
+      {
+        "target_targdesc": [
+          [ "Hit", "10" ],
+          [ "Miss", "0" ]
+        ],
+        "target_name": "Steel Hit/Miss",
+        "target_reqshots": 1
+      },
+      {
+        "target_targdesc": [
+          [ "Hit", "10" ],
+          [ "Miss", "0" ]
+        ],
+        "target_name": "Steel Hit/Miss",
+        "target_reqshots": 1
+      },
+      {
+        "target_targdesc": [
+          [ "Hit", "10" ],
+          [ "Miss", "0" ]
+        ],
+        "target_name": "Steel Hit/Miss",
+        "target_reqshots": 1
+      },
+      {
+        "target_targdesc": [
+          [ "Hit", "10" ],
+          [ "Miss", "0" ]
+        ],
+        "target_name": "Steel Hit/Miss",
+        "target_reqshots": 1
+      },
+      {
+        "target_targdesc": [
+          [ "Hit", "10" ],
+          [ "Miss", "0" ]
+        ],
+        "target_name": "Steel Hit/Miss",
+        "target_reqshots": 1
+      },
+      {
+        "target_targdesc": [
+          [ "Hit", "10" ],
+          [ "Miss", "0" ]
+        ],
+        "target_name": "Steel Hit/Miss",
+        "target_reqshots": 1
+      },
+      {
+        "target_targdesc": [
+          [ "Hit", "10" ],
+          [ "Miss", "0" ]
+        ],
+        "target_name": "Steel Hit/Miss",
+        "target_reqshots": 1
+      },
+      {
+        "target_targdesc": [
+          [ "Hit", "10" ],
+          [ "Miss", "0" ]
+        ],
+        "target_name": "Steel Hit/Miss",
+        "target_reqshots": 1
+      },
+      {
+        "target_targdesc": [
+          [ "Hit", "10" ],
+          [ "Miss", "0" ]
+        ],
+        "target_name": "Steel Hit/Miss",
+        "target_reqshots": 1
+      },
+      {
+      "target_targdesc": [
+        [ "Hit", "10" ],
+        [ "Miss", "0" ]
+      ],
+      "target_name": "Steel Hit/Miss",
+      "target_reqshots": 1
+    }
+    ],
+    "stage_scoretype": "NRAAction",
+    "stage_name": "Standard Hit/Miss"
+  },
+  {
+    "stage_strings": 0,
+    "stage_doesntrequiretime": true,
+    "stage_maxstringtime": 120.00,
+    "stage_classifiercode": "code5",
+    "stage_customtargets": [
+      {
+        "target_targdesc": [
+          [ "Highest Value Target description", "10" ],
+          [ "2nd Highest Value Target description", "7" ],
+          [ "3rd Highest Value Target description", "5" ],
+          [ "4th Highest Value Target description", "3" ],
+          [ "Lowest Value Target description", "1" ],
+          [ "Miss", "0" ]
+        ],
+        "target_name": "Variable Point Value/Shooters Choice",
+        "target_reqshots": 10
+      }
+    ],
+    "stage_scoretype": "NRAAction",
+    "stage_name": "Variable Point Value / Shooters Choice"
+  }
+]

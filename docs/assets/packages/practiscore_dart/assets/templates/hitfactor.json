@@ -1,0 +1,10 @@
+{
+  "match_name" : "Hit Factor",
+  "match_type" : "uspsa_p",
+  "match_subtype" : "none",
+  "match_maxteamresults" : 3,
+  "match_cats" : [ "Open" ],
+  "match_cls" : [ "Novice", "Expert" ],
+  "match_ctgs" : "[\"Junior\",\"Senior\",\"Lady\"]",
+  "match_chkins" : [ "Checked in", "Paid", "Staff" ]
+}

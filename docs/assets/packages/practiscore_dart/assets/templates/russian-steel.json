@@ -1,0 +1,121 @@
+{
+  "ios": false,
+  "android": true,
+  "match_name": "Russian Steel",
+  "match_type": "sc",
+  "match_subtype": "rs",
+  "match_cats" : [ "Open", "Production", "Production Optics", "Production Optics Light", "Standard", "Classic", "Revolver", "PCC" ],
+  "match_cls" : [ "U", "D", "C", "B", "A", "M", "G" ],
+  "match_ctgs" : "[\"Junior\",\"Senior\",\"Super Senior\",\"Super Junior\",\"Lady\"]",
+  "match_chkins": [ "Checked in", "Paid", "Staff", "RO" ],
+
+  "match_penalties": [
+    {
+      "pen_name": "Miss",
+      "pen_val": 5,
+      "pen_bin": false
+    },
+    {
+      "pen_name": "Procedural",
+      "pen_val": 3,
+      "pen_bin": false
+    },
+    {
+      "pen_name": "Did Not Fire",
+      "pen_val": 30,
+      "pen_bin": true
+    }
+  ],
+  "match_bonuses": [],
+
+  "match_stages" : [
+    {
+      "stage_number" : 1,
+      "stage_strings" : 3,
+      "stage_scoretype" : "SteelChallenge",
+      "stage_name" : "Pizzicato",
+      "stage_classifier" : true,
+      "stage_classifiercode" : "RS-001",
+      "stage_removeworststring" : true,
+      "stage_maxstringtime" : 30,
+      "stage_briefing" : "Targets: 7 PL\nMinimum rounds: 21 rounds, 3 strings, each with 7 rounds\n\n\nStart position: Standing relaxed in Area A, facing the targets. The loaded gun, hammer cocked, safety encaged, placed in the holster. Only for calibre 22LR: Standing relaxed in Area A, facing the targets, holding the loaded gun with both hands, safety engaged, muzzle pointing down the range, elbows touching the body.\nStart: On audible signal.\nStop: Last shot.\n\nSTAGE PROCEDURE:\n1. String: On the signal, from Area A the competitor shoots only targets T1-T2, from Area B only targets T5, T6, T7 and from Area C only targets T3, T4 – one round per target\n2. String: On the signal, from Area C the competitor shoots only targets T3-T4, from Area B only targets T5, T6, T7 and from Area A only targets T1, T2 – one round per target.\n3. String: The competitor shoots according to his own choice either the String 1 or the String 2"
+    },
+    {
+      "stage_number" : 2,
+      "stage_strings" : 4,
+      "stage_scoretype" : "SteelChallenge",
+      "stage_name" : "Viking",
+      "stage_classifier" : true,
+      "stage_classifiercode" : "RS-002",
+      "stage_removeworststring" : 2,
+      "stage_maxstringtime" : 30,
+      "stage_briefing" : "Targets: 5 PL\nMinimum rounds: 20 rounds, 4 strings, each with 5 rounds\n\nStart position: Standing relaxed in Area A, facing the targets. The loaded gun, hammer cocked, safety encaged, placed in the holster. Only for calibre 22LR: Standing relaxed in Area A, facing the targets, holding the loaded gun with one hand only, safety engaged, muzzle pointing down the range, elbows touching the body.Start: On audible signal\nStop: Last shot\n\nSTAGE PROCEDURE:\n1. String: On the signal the competitor shoots from Area A targets T1-T5 – one round per target – using the strong hand only\n2. String: Like 1. String\n3. String: On the signal the competitor shoots from Area A targets T1-T5 – one round per target - using the weak hand only (notice the draw and a safety transfer of the gun to the weaker hand!)\n4. String: Like 3. String"
+    },
+    {
+      "stage_number" : 3,
+      "stage_strings" : 3,
+      "stage_scoretype" : "SteelChallenge",
+      "stage_name" : "Quadro",
+      "stage_classifier" : true,
+      "stage_classifiercode" : "RS-003",
+      "stage_removeworststring" : true,
+      "stage_maxstringtime" : 30,
+      "stage_briefing" : "Targets: 4 PL\nMinimum rounds: 24 rounds, three strings each with 8 rounds\n\nStart position: Start seated at the table in Area A, facing the targets. Soles touching the Area A, heels touching the front legs of the chair. Palms touch the table corners. The loaded gun, hammer cocked, safety encaged, is located in the middle of the table, muzzle pointing the targets\nStart: On audible signal\nStop: Last shot\n\nSTAGE PROCEDURE:\n1. String: Start in area A. On the signal the competitor shoots (one round per target) the targets T1-T4 from Area A. Then through the Gate P1 the competitor shoots the targets T1-T4 – one round per target\n2. String: Start in area A. On the signal the competitor shoots (one round per target) the targets T1-T4 from Area A. Then through the Gate P2 the competitor shoots the targets T1-T4 – one round per target\n3. String: The competitor shoots according to his own choice either the String 1 or the String 2"
+    },
+    {
+      "stage_number" : 4,
+      "stage_strings" : 3,
+      "stage_scoretype" : "SteelChallenge",
+      "stage_name" : "Baikal",
+      "stage_classifier" : true,
+      "stage_classifiercode" : "RS-004",
+      "stage_removeworststring" : true,
+      "stage_maxstringtime" : 30,
+      "stage_briefing" : "Targets: 2 PL, 3 IPSC\nMinimum rounds: 24 rounds, three strings each with 8 rounds\n\nStart position: Standing relaxed in Area A, facing the targets. The loaded gun, hammer cocked, safety encaged, placed in the holster. Only for calibre 22LR: Standing relaxed in Area A, facing the targets, holding the loaded gun with both hands, safety engaged, muzzle pointing down the range, elbows touching the body. One heel touching the back line of Area A\nStart: On audible signal\nStop: Last shot\n\nSTAGE PROCEDURE:\n1. String: Start in area A. On the signal the competitor shoots from Area A through the gate P1 only the target T1 - one round per target, then from Areas A and B only the targets M1-M3 - two rounds per target and from Area C through the gate P2 only the target T2 - one round per target\n2. 3. String: Like String 1"
+    },
+    {
+      "stage_number" : 5,
+      "stage_strings" : 3,
+      "stage_scoretype" : "SteelChallenge",
+      "stage_name" : "Scherzo",
+      "stage_classifier" : true,
+      "stage_classifiercode" : "RS-005",
+      "stage_removeworststring" : true,
+      "stage_maxstringtime" : 30,
+      "stage_briefing" : "Targets: 4 PL, 4 IPSC\nMinimum rounds: 36 rounds, three strings, each with 12 rounds\n\nStart position: Standing relaxed in Area A, facing the targets. The loaded gun, hammer cocked, safety encaged, placed in the holster. Both hands touch the neck\nOnly for calibre 22LR: Standing relaxed in Area A, facing the targets, holding the loaded gun with both hands, safety engaged, muzzle pointing down the range, elbows touching the body\nStart: On audible signal\nStop: Last shot\n\nSTAGE PROCEDURE:\n1. String: On the signal the competitor shoots from Area A targets T1 and T2 - one round per target, and targets M1 ja M2 - two rounds per target. When proceeding to Area B make a mandatory reload. From Area B shoot targets T3 and T4 – one round per target and targets M3 and M4 – two rounds per targets\n2. String: On the signal the competitor shoots from Area B targets T3 and T4 – one round per target, and targets M3 and M4 – two rounds per target. When proceeding to Area A make a mandatory reload. From Area A shoot T1 and T2 – one round per target and targets M1 and M2 - two rounds per target\n3. String: The competitor shoots according to his own choice either the String 1 or the String 2"
+    },
+    {
+      "stage_number" : 6,
+      "stage_strings" : 3,
+      "stage_scoretype" : "SteelChallenge",
+      "stage_name" : "Kalashnikov",
+      "stage_classifier" : true,
+      "stage_classifiercode" : "RS-006",
+      "stage_removeworststring" : true,
+      "stage_maxstringtime" : 30,
+      "stage_briefing" : "Targets: 8 PL\nMinimum rounds: 24 rounds, 3 strings, each with 8 rounds\n\nStart position: Standing relaxed at arm’s length from the barricade, hands touching the sides of the barricade at any height. Both feet totally inside the borders. The loaded gun, hammer cocked, safety encaged, placed in the holster\nOnly for calibre 22LR: The competitor stands relaxed at arm’s length from the barricade. Both feet totally inside the borders. Holding the loaded gun with both hands, safety engaged, muzzle pointing down the range, elbows touching the body\nStart: On audible signal\nStop: Last shot\n\nSTAGE PROCEDURE:\n1. String: On the signal, shoot behind the corridor from the strong side targets T1-T8 - one round per target\n2. String: On the signal, shoot behind the corridor from the weak side targets T1-T8 - one round per target\n3. String: The competitor shoots according to his own choice either the String 1 or the String 2"
+    },
+    {
+      "stage_number" : 7,
+      "stage_strings" : 4,
+      "stage_scoretype" : "SteelChallenge",
+      "stage_name" : "Extreme",
+      "stage_classifier" : true,
+      "stage_classifiercode" : "RS-007",
+      "stage_removeworststring" : 2,
+      "stage_maxstringtime" : 30,
+      "stage_briefing" : "Targets: 3 PL, 2 IPSC\nMinimum rounds: 28 rounds, 4 strings, each with 7 rounds\n\nStart position: Standing relaxed in Area A, facing the targets, holding the loaded gun with both hands, safety engaged, muzzle pointing down the range, elbows touching the body\nStart: On audible signal\nStop: Last shot\n\nSTAGE PROCEDURE:\n1. String: On the signal, the competitor shoots targets T1-T3 - one round per target and targets M1, M2 – two rounds per target, staying inside Area A\n2., 3., 4. String: Like 1. String"
+    },
+    {
+      "stage_number" : 8,
+      "stage_strings" : 3,
+      "stage_scoretype" : "SteelChallenge",
+      "stage_name" : "Pyramid",
+      "stage_classifier" : true,
+      "stage_classifiercode" : "RS-008",
+      "stage_removeworststring" : true,
+      "stage_maxstringtime" : 30,
+      "stage_briefing" : "Targets: 8 PL\nMinimum rounds: 24 rounds, 3 strings, each with 8 rounds\n\nStart position: Standing relaxed in Area A, facing the targets. The loaded gun, hammer cocked, safety encaged, placed in the holster\nOnly for calibre 22LR: Standing relaxed in Area A, facing the targets, holding the loaded gun with both hands, safety engaged, muzzle pointing down the range, elbows touching the body\nStart: On audible signal\nStop: Last shot\n\nSTAGE PROCEDURE:\n1. String: On the signal, from Area A the competitor shoots only targets T1-T4 - one round per target, then the competitor proceeds to Area B and shoots only targets T5-T8 - one round per target\n2. String: On the signal, from Area B, the competitor shoots only targets T5-T8 - one round per target, then the competitor proceeds to Area A and shoots only targets T1-T4 - one round per target\n3. String: The competitor shoots according to his own choice either the String 1 or the String 2"
+    }
+  ]
+}

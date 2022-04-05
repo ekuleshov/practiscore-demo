@@ -1,0 +1,68 @@
+{
+  "ios": true,
+  "android": false,
+  "match_name": "Berry's Steel",
+  "match_type": "combined",
+  "match_cats": [ "ISP", "ISR", "OSR", "PROD", "SS", "CO", "OPN", "LTD", "RFPI", "RFPO", "RFRI", "RFRO", "SGP", "PCCI", "PCCO" ],
+  "match_cls": [ "U", "D", "C", "B", "A", "M", "G", "X" ],
+  "match_chkins": [ "Checked in", "Paid", "Staff" ],
+  "match_ctgs": "[\"Preteen\",\"Junior\",\"Senior\",\"Super Senior\",\"Lady\",\"Foreign\",\"Law Enforcement\",\"Military\"]",
+
+  "match_stages": [],
+
+  "match_penalties": [
+    {
+      "pen_name": "Procedural",
+      "pen_val": 3,
+      "pen_bin": false
+    },
+    {
+      "pen_name": "Miss",
+      "pen_val": 3,
+      "pen_bin": false
+    },
+    {
+      "pen_name": "Miss Stop Plate",
+      "pen_val": 30,
+      "pen_bin": true
+    },
+    {
+      "pen_val": 3,
+      "pen_name": "Penalty",
+      "pen_bin": false
+    },
+    {
+      "pen_warn": false,
+      "pen_bin": false,
+      "pen_name": "No Shoot",
+      "pen_val": 3
+    }
+  ],
+  "match_bonuses": [
+    {
+      "bon_name": "Bonus",
+      "bon_val": 3,
+      "bon_bin": false
+    }
+  ],
+  "match_custom_targets": [
+    {
+      "target_reqshots": 40,
+      "target_name": "ProAm",
+      "target_targdesc": [
+        [
+          "Hit",
+          "1"
+        ],
+        [
+          "Procedural",
+          "-5"
+        ],
+        [
+          "Overtime",
+          "-1"
+        ]
+      ]
+    }
+  ]
+}

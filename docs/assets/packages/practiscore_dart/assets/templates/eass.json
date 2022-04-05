@@ -1,0 +1,14 @@
+{
+  "match_type":"idpa",
+  "match_name":"EASS",
+  "match_subtype": "eass",
+  "match_cats":["Unlimited","Irons Major"],
+  "match_ctgs": "[\"Junior\",\"Lady\"]",
+
+  "match_pointsdownvalue":0.25,
+  "match_steelmisspdcount":6,
+
+  "match_penalties":[
+     {"pen_val":1.5,"pen_name":"Miss","pen_bin":false},
+     {"pen_val":1,"pen_name":"Procedural","pen_bin":false} ]
+}

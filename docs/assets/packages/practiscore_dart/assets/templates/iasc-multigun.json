@@ -1,0 +1,43 @@
+{
+    "match_name": "IASC - Multigun",
+    "match_type": "idpa",
+    "match_subtype": "iasc",
+
+    "match_cats": [ "IRON", "OPEN", "PCCI", "PCCO", "RIPS", "SG-P", "SSG-P", "SAR-PI", "SAR-PO", "PCC-PI", "PCC-PO" ],
+    "match_cls": [ "PI", "BE", "AS", "EX", "MA" ],
+    "match_ctgs": "[\"Junior\",\"Lady\",\"Senior\",\"Veteran\",\"Law Enforcement\",\"Military\",\"International\",\"Sigle Stack\"]",
+    "match_chkins": [ "Checked in", "Paid", "Staff" ],
+
+    "match_usemaxstagetime": false,
+    "match_pointsdownvalue": 1,
+
+    "match_penalties": [
+        {
+            "pen_name": "Hits on Non-Threat Target",
+            "pen_val": 5,
+            "pen_bin": false
+        },
+        {
+            "pen_name": "Procedural Error",
+            "pen_val": 5,
+            "pen_bin": false
+        },
+        {
+            "pen_name": "Failure to Neutralize",
+            "pen_val": 5,
+            "pen_bin": false
+        },
+        {
+            "pen_name": "Failure to do Right",
+            "pen_val": 20,
+            "pen_bin": false
+        }
+    ],
+    "match_bonuses": [
+        {
+            "bon_name": "Yolly",
+            "bon_val": 1,
+            "bon_bin": false
+        }
+    ]
+}

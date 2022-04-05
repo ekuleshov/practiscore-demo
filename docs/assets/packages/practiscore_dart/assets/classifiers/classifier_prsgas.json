@@ -1,0 +1,38 @@
+[
+ {
+ "stage_doesntrequiretime": false,
+ "stage_classifier": true,
+ "stage_name": "Skills Stage 1",
+ "stage_scoretype": "TimePlus",
+ "stage_classifiercode": "Skills1",
+ "stage_briefing": "Skills Stage 1 will consist of three targets, 12” x 12” placed at a distance of 400 yards and will have a spacing of 25 yards between targets 1 and 2 and 50 yards of spacing between targets 2 and 3. Start position is 10 yards behind the shooter’s box on level terrain with the rifle staged on the firing line. At the sound of the beep the shooter will move to the shooter’s box, assume a prone position and engage the targets from left to right with two shots each and may only advance to the next target once the previous target has been hit. Once the shooter has successfully engaged all three targets from left to right, they will then reengage in the same fashion from right to left with two rounds each starting with the far right target. Par time is 90 seconds and round count is unlimited."
+ },
+ {
+ "stage_targets": [],
+ "stage_classifier": true,
+ "stage_doesntrequiretime": false,
+ "stage_scoretype": "TimePlus",
+ "stage_classifiercode": "Skills2",
+ "stage_name": "Skills Stage 2",
+ "stage_prsnsval": 0,
+ "stage_briefing": "Skills Stage 2 will consist of one target, 12” in diameter placed at a distance of 400 yards. Start position is 10 yards behind the firing position which is a barricade marked with 4 firing points. At the sound of the beep the shooter will move to the barricade to a firing point of his/her choice and engage the target with 2 rounds only. Shooter will then move to the remaining firing positions in any order and engage the target with two rounds from each position. Par time is 90 seconds and round count is 8. A platform should be provided to any shooter wishing to use it on Skills Stage 2."
+ },
+ {
+ "stage_targets": [],
+ "stage_classifier": true,
+ "stage_doesntrequiretime": false,
+ "stage_scoretype": "TimePlus",
+ "stage_classifiercode": "Skills3",
+ "stage_numtargs": 10,
+ "stage_name": "Skills Stage 3",
+ "stage_briefing": "Skills Stage 3 will consist of 2 targets at 300 or 400 yards (2MOA target left and 3MOA target right) and 2 targets at 500 yards or 600 yards (2MOA target left and 3MOA target right). Start position-rifle in hand, mag in, bolt back. (Target distances must be either 300 and 500 yards or 400 and 600 yards and is up to the Match Director).\n\nSound of the buzzer shooter drops into a prone position and engages the near left target and the far left target with one round each. Shooter then conducts a mandatory mag change and reengages far left and near left targets in that order. Shooter then moves to a prop 18” x 18” x 6” box and engages near right and far right targets with one round each. Mandatory mag change and then reengage far right and near right with one round each.\n\nRound count of 12 total rounds (8 rounds total if shot clean).\n\n3 magazines required (2 minimum if start mag is reused for second mag change).\n\nPar time 90 seconds."
+ },
+ {
+ "stage_doesntrequiretime": false,
+ "stage_classifier": true,
+ "stage_name": "Skills Stage 4",
+ "stage_scoretype": "TimePlus",
+ "stage_classifiercode": "Skills4",
+ "stage_briefing": "Skills Stage 4 will consist of 3 moa targets at 300, 400, 500, and 600 yards. Start position 10 yards behind firing line, mag out, bolt back. Sound of the buzzer, the shooter moves to the firing line, assumes a prone position and engages all 4 targets with one round each from near to far without dialing any dope on their scopes. After the 600 yard target is successfully engaged the shooter must drop their magazine, move back to the start point to retrieve their second magazine and return to the firing line. Shooter will then reengage all targets from near to far shooting from the prone support side position.\n\nRound count unlimited\n\n2 magazine minimum\n\nPar time 90 seconds."
+ }
+ ]

@@ -1,0 +1,29 @@
+{
+  "match_name": "Rimfire Challenge Match",
+  "match_type" : "sc",
+  "match_subtype" : "rcsa",
+  "match_cats": [ "Limited", "Open" ],
+  "match_ctgs" : "[\"Youth\",\"Junior\",\"Senior\",\"Lady\",\"Cowboy\"]",
+  "match_cls" : [],
+  "match_chkins" : [ "Checked in", "Paid", "Staff", "RO" ],
+  "match_penalties" : [ {
+    "pen_name" : "Miss",
+    "pen_val" : 2,
+    "pen_bin" : false }, {
+    "pen_name" : "Foot Fault",
+    "pen_val" : 2,
+    "pen_bin" : false }, {
+    "pen_name" : "False Start",
+    "pen_val" : 2,
+    "pen_bin" : true }, {
+    "pen_name" : "More Than 11 Shots Fired",
+    "pen_val" : 30,
+    "pen_bin" : true }, {
+    "pen_name" : "Missed Stop Plate",
+    "pen_val" : 30,
+    "pen_bin" : true }, {
+    "pen_name" : "Deliberately Skipping Targets",
+    "pen_val" : 30,
+    "pen_bin" : true } ],
+  "match_bonuses" : []
+}

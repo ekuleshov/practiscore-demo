@@ -1,0 +1,300 @@
+[
+    {
+      "stage_classifiercode" : "C-01", "stage_name" : "IPSC CLC-01",
+      "stage_scoretype" : "Comstock", "stage_classictargets" : true,
+      "stage_targets" : [ {
+        "target_number" : 1, "target_reqshots" : 2 }, {
+        "target_number" : 2, "target_reqshots" : 2 } ],
+      "stage_classifier" : true, "stage_poppers" : 3, "stage_noshoots" : true,
+      "stage_strings" : 1,
+      "stage_briefing" : "Type of Course: Short Course\n\nTargets (type & number): 2 IPSC Targets, 3 IPSC Popper, 3 No Shoots\n\nNo. of rounds to be scored: 7\n\nMaximum points: 35\n\nStart position: Standing relaxed in area A, facing downrange with both hands relaxed by sides.\n\nHandgun ready condition: Handgun loaded and holstered.\n\nProcedure: After the audible start signal engage targets, strong hand only, from within the designated area A.\n\nSetup Notes: Set IPSC Targets/No Shoots to 1.52m (5') to the top of the targets. Area A is 1m (3'3\") by 1m (3'3\")." },
+    {
+      "stage_classifiercode" : "C-03", "stage_name" : "IPSC CLC-03",
+      "stage_scoretype" : "Comstock", "stage_classictargets" : true,
+      "stage_targets" : [ {
+        "target_number" : 1, "target_reqshots" : 2 }, {
+        "target_number" : 2, "target_reqshots" : 2 } ],
+      "stage_classifier" : true, "stage_poppers" : 2, "stage_noshoots" : false,
+      "stage_strings" : 1,
+      "stage_briefing" : "Type of Course: Short Course\n\nTargets (type & number): 2 IPSC Targets, 2 IPSC Popper\n\nNo. of rounds to be scored: 6\n\nMaximum points: 30\n\nStart position: Start seated in area A, facing downrange with both hands on top of a table palms flat.\n\nHandgun ready condition: Loaded handgun pointing downrange will be located on the X in between hands. The handgun must lie flat on one side and may not be propped up in any artificial manner.\n\nProcedure: After the audible start signal, using the weak hand only, pick up the handgun and engage targets, weak hand only, from within the designated area A.\n\nSetup Notes: Set IPSC Targets to 1.52m (5') to the top of the targets. Area A is 1m (3'3\") by 1m (3'3\"). Chair must be inside the confines of area A. Table immediately in front of area A. Center of X should be 0.25m (10\") from the edge facing area A." },
+    {
+      "stage_classifiercode" : "C-05", "stage_name" : "IPSC CLC-05",
+      "stage_scoretype" : "Comstock", "stage_classictargets" : true,
+      "stage_targets" : [ {
+        "target_number" : 1, "target_reqshots" : 2 }, {
+        "target_number" : 2, "target_reqshots" : 2 }, {
+        "target_number" : 3, "target_reqshots" : 2 } ],
+      "stage_classifier" : true, "stage_poppers" : 2, "stage_noshoots" : true,
+      "stage_strings" : 1,
+      "stage_briefing" : "Type of Course: Short Course\n\nTargets (type & number): 3 IPSC Targets, 2 IPSC Popper, 2 No Shoots\n\nNo. of rounds to be scored: 8\n\nMaximum points: 40\n\nStart position: Standing relaxed in area A, facing downrange with both hands relaxed by sides.\n\nHandgun ready condition: Handgun loaded and holstered.\n\nProcedure: After the audible start signal engage targets from within the designated area A.\n\nSetup Notes: Set IPSC Targets/No Shoots to 1.52m (5') to the top of the targets. Area A is 1m (3'3\") by 1m (3'3\")." },
+    {
+      "stage_classifiercode" : "C-07", "stage_name" : "IPSC CLC-07",
+      "stage_scoretype" : "Comstock", "stage_classictargets" : true,
+      "stage_targets" : [ {
+        "target_number" : 1, "target_reqshots" : 2 }, {
+        "target_number" : 2, "target_reqshots" : 2 }, {
+        "target_number" : 3, "target_reqshots" : 2 }, {
+        "target_number" : 4, "target_reqshots" : 2 }, {
+        "target_number" : 5, "target_reqshots" : 2 } ],
+      "stage_classifier" : true, "stage_poppers" : 4, "stage_noshoots" : true,
+      "stage_strings" : 1,
+      "stage_briefing" : "Type of Course: Medium Course\n\nTargets (type & number): 5 IPSC Targets, 4 IPSC Popper, 3 No Shoots\n\nNo. of rounds to be scored: 14\n\nMaximum points: 70\n\nStart position: Standing relaxed in area A, facing center of barricade with arms folded, wrist overlapping across the chest.\n\nHandgun ready condition: Handgun loaded and holstered.\n\nProcedure: After the audible start signal engage the first group of targets (Group A) from within the designated area A. Then move to area B and engage the second group of targets (Group B) from within the designated area B.\n\nSetup Notes: Set IPSC Targets/No Shoots to 1.52m (5') to the top of the targets. Areas A and B are 0,92m (3') by 0,92m (3')." },
+    {
+      "stage_classifiercode" : "C-11", "stage_name" : "IPSC CLC-11",
+      "stage_scoretype" : "Comstock", "stage_classictargets" : true,
+      "stage_targets" : [ {
+        "target_number" : 1, "target_reqshots" : 2 }, {
+        "target_number" : 2, "target_reqshots" : 2 }, {
+        "target_number" : 3, "target_reqshots" : 2 }, {
+        "target_number" : 4, "target_reqshots" : 2 } ],
+      "stage_classifier" : true, "stage_poppers" : 4, "stage_noshoots" : false,
+      "stage_strings" : 1,
+      "stage_briefing" : "Type of Course: Short Course\n\nTargets (type & number): 4 IPSC Targets, 4 IPSC Popper\n\nNo. of rounds to be scored: 12\n\nMaximum points: 60\n\nStart position: Standing relaxed in center of area A, facing center of barricade.\n\nHandgun ready condition: Handgun loaded and holstered.\n\nProcedure: After the audible start signal engage targets P1, P2, T1 and T2 only from left side of the barricade, make a mandatory reload and engage targets P3, P4, T3 and T4 from the right side of the barricade. Targets may only be shot from the designated side of the barricade.\n\nSetup Notes: Set IPSC Targets to 1.52m (5') to the top of the targets. Area A is 1.22m (4') wide by 0.92m (3') deep. Barricade is 2.44m (8') high and 1.22m (4') wide." },
+    {
+      "stage_classifiercode" : "C-15", "stage_name" : "IPSC CLC-15",
+      "stage_scoretype" : "Comstock", "stage_classictargets" : true,
+      "stage_targets" : [ {
+        "target_number" : 1, "target_reqshots" : 2 }, {
+        "target_number" : 2, "target_reqshots" : 2 }, {
+        "target_number" : 3, "target_reqshots" : 2 }, {
+        "target_number" : 4, "target_reqshots" : 2 } ],
+      "stage_classifier" : true, "stage_poppers" : 1, "stage_noshoots" : false,
+      "stage_strings" : 1,
+      "stage_briefing" : "Type of Course: Short Course\n\nTargets (type & number): 4 IPSC Targets, 1 IPSC Popper\n\nNo. of rounds to be scored: 9\n\nMaximum points: 45\n\nStart position: Standing relaxed in area A, with both wrists above respective shoulders.\n\nHandgun ready condition: Handgun loaded and holstered.\n\nProcedure: After the audible start signal engage targets from within the designated area A.\n\nSetup Notes: Set IPSC Targets to 1.52m (5') to the top of the targets. Area A is 0.92m (3') by 0.92m (3'). Angle T1, T2 and T4 to face shooting area." },
+    {
+      "stage_classifiercode" : "C-19", "stage_name" : "IPSC CLC-19",
+      "stage_scoretype" : "Comstock", "stage_classictargets" : true,
+      "stage_targets" : [ {
+        "target_number" : 1, "target_reqshots" : 6 }, {
+        "target_number" : 2, "target_reqshots" : 6 }, {
+        "target_number" : 3, "target_reqshots" : 6 } ],
+      "stage_classifier" : true, "stage_poppers" : 0, "stage_noshoots" : false,
+      "stage_strings" : 1,
+      "stage_briefing" : "Type of Course: Medium Course\n\nTargets (type & number): 3 IPSC Targets\n\nNo. of rounds to be scored: 18\n\nMaximum points: 90\n\nStart position: Standing relaxed in area A, with both wrists above respective shoulders.\n\nHandgun ready condition: Handgun loaded and holstered.\n\nProcedure: After the audible start signal engage target T3 only with six rounds from within the designated area A, make a mandatory reload and engage target T2 with six rounds from within the designated area A. Perform another mandatory reload and engage target T1 with six rounds, strong hand only, from within the designated area A.\n\nSetup Notes: Set IPSC Targets to 1.52m (5') to the top of the targets. Area A is 0.92m (3') by 0.92m (3')." },
+    {
+      "stage_classifiercode" : "C-21", "stage_name" : "IPSC CLC-21",
+      "stage_scoretype" : "Comstock", "stage_classictargets" : true,
+      "stage_targets" : [ {
+        "target_number" : 1, "target_reqshots" : 2 }, {
+        "target_number" : 2, "target_reqshots" : 2 }, {
+        "target_number" : 3, "target_reqshots" : 2 }, {
+        "target_number" : 4, "target_reqshots" : 2 } ],
+      "stage_classifier" : true, "stage_poppers" : 4, "stage_noshoots" : true,
+      "stage_strings" : 1,
+      "stage_briefing" : "Type of Course: Short Course\n\nTargets (type & number): 4 IPSC Targets, 4 IPSC Popper, 1 No Shoot\n\nNo. of rounds to be scored: 12\n\nMaximum points: 60\n\nStart position: Standing relaxed in area A with palms of both hands flat on the marks above the windows.\n\nHandgun ready condition: Handgun loaded and holstered.\n\nProcedure: After the audible start signal engage targets P1, P2, T1 and T2 through the left port only from within the designated area A. Make a mandatory reload and engage targets P3, P4, T3 and T4 through the right port only from the designated area A. All shots must pass through respective ports.\n\nSetup Notes: Set IPSC Targets to 1.52m (5') to the top of the targets. Place a No Shoot at the end of the barricade with the top of the No Shoot even with the top of the barricade. X marks are 0.15m (6\") left and right of barricade center line and touching top of the window. The barricade is 1.83m (6') wide. The port is 0.61 m (2') wide by 0.305m (1') high. Use a vision barrier in center of the port to create two 0.305m*0.305m (12 inch-square) ports." },
+    {
+      "stage_classifiercode" : "C-25", "stage_name" : "IPSC CLC-25",
+      "stage_scoretype" : "Comstock", "stage_classictargets" : true,
+      "stage_targets" : [ {
+        "target_number" : 1, "target_reqshots" : 6 }, {
+        "target_number" : 2, "target_reqshots" : 6 }, {
+        "target_number" : 3, "target_reqshots" : 6 } ],
+      "stage_classifier" : true, "stage_poppers" : 3, "stage_noshoots" : false,
+      "stage_strings" : 1,
+      "stage_briefing" : "Type of Course: Medium Course\n\nTargets (type & number): 3 IPSC Targets, 3 IPSC Popper\n\nNo. of rounds to be scored: 21\n\nMaximum points: 105\n\nStart position: Standing crouched in area A, facing downrange with toes of both feet against front line of area A, hands on knees.\n\nHandgun ready condition: Handgun loaded and holstered.\n\nProcedure: After the audible start signal engage targets T1, T2 and T3 with 2 rounds each, make a mandatory reload and engage targets T1, T2 and T3, with two rounds each, again. Perform another mandatory reload and engage targets T1, T2 and T3, with two rounds each, again. Make another mandatory reload and engage P1, P2 and P3 strong hand only.\n\nSetup Notes: Set IPSC Targets to 1.52m (5') to the top of the targets. Area A is 0.92m (3') by 0.92m (3'). Hard cover on IPSC Targets T2 and T3, as shown, diagonal from lower notch across the center of A-zone to upper point of angle cut. Hard cover on IPSC Target T1 is even with the edges of A-zone." },
+    {
+      "stage_classifiercode" : "C-31", "stage_name" : "IPSC CLC-31",
+      "stage_scoretype" : "Comstock", "stage_classictargets" : true,
+      "stage_targets" : [ {
+        "target_number" : 1, "target_reqshots" : 2 }, {
+        "target_number" : 2, "target_reqshots" : 2 } ],
+      "stage_classifier" : true, "stage_poppers" : 2, "stage_noshoots" : true,
+      "stage_strings" : 1,
+      "stage_briefing" : "Type of Course: Short Course\n\nTargets (type & number): 2 IPSC Targets, 2 IPSC Popper, 1 No Shoot\n\nNo. of rounds to be scored: 6\n\nMaximum points: 30\n\nStart position: Kneeling with at least one knee touching the ground in area A. Facing downrange with both hands on top of a car tire which is standing upright.\n\nHandgun ready condition: The loaded handgun will be placed on a pad on the ground on either side of the tire. The handgun is pointing downrange.\n\nProcedure: After the audible start signal, using the weak hand only, engage targets, weak hand only, from within the designated area A.\n\nSetup Notes: Set IPSC Targets/No Shoot to 1.52m (5') to the top of the targets. Area A is 0.92m (3') by 0.92m (3'). The car tire is not rimmed and is from a minimum of 14 inches rim." },
+    {
+      "stage_classifiercode" : "C-33", "stage_name" : "IPSC CLC-33",
+      "stage_scoretype" : "Comstock", "stage_classictargets" : true,
+      "stage_targets" : [ {
+        "target_number" : 1, "target_reqshots" : 2 }, {
+        "target_number" : 2, "target_reqshots" : 2 }, {
+        "target_number" : 3, "target_reqshots" : 2 } ],
+      "stage_classifier" : true, "stage_poppers" : 0, "stage_noshoots" : false,
+      "stage_strings" : 1,
+      "stage_briefing" : "Type of Course: Short Course\n\nTargets (type & number): 3 IPSC Targets\n\nNo. of rounds to be scored: 6\n\nMaximum points: 30\n\nStart position: Standing relaxed in area A, facing downrange with both hands relaxed by sides.\n\nHandgun ready condition: Handgun loaded and holstered.\n\nProcedure: After the audible start signal engage targets, strong hand only, from within the designated area A.\n\nSetup Notes: Set IPSC Targets to 1.52m (5') to the top of the targets. Area A is 0.92m (3') by 0.92m (3'). Hard cover on IPSC Target T2 covers from notch to notch, as shown. Hard cover on IPSC Target T3 is in line with the A-zone scoring line." },
+    {
+      "stage_classifiercode" : "C-35", "stage_name" : "IPSC CLC-35",
+      "stage_scoretype" : "Comstock", "stage_classictargets" : true,
+      "stage_targets" : [ {
+        "target_number" : 1, "target_reqshots" : 2 }, {
+        "target_number" : 2, "target_reqshots" : 2 } ],
+      "stage_classifier" : true, "stage_poppers" : 2, "stage_noshoots" : true,
+      "stage_strings" : 1,
+      "stage_briefing" : "Type of Course: Short Course\n\nTargets (type & number): 2 IPSC Targets, 2 IPSC Popper, 2 No Shoots\n\nNo. of rounds to be scored: 6\n\nMaximum points: 30\n\nStart position: Standing relaxed in area A, facing downrange with both hands relaxed by sides. All magazines will be placed on a pad on the ground in front of the competitor.\n\nHandgun ready condition: Unloaded handgun placed on the pad, muzzle pointing downrange.\n\nProcedure: After the audible start signal engage targets from within the designated area A.\n\nSetup Notes: Set IPSC Targets/No Shoots to 1.52m (5') to the top of the targets. Area A is 0.92m (3') by 0.92m (3')." },
+    {
+      "stage_classifiercode" : "C-37", "stage_name" : "IPSC CLC-37",
+      "stage_scoretype" : "Comstock", "stage_classictargets" : true,
+      "stage_targets" : [ {
+        "target_number" : 1, "target_reqshots" : 2 }, {
+        "target_number" : 2, "target_reqshots" : 2 }, {
+        "target_number" : 3, "target_reqshots" : 2 }, {
+        "target_number" : 4, "target_reqshots" : 2 }, {
+        "target_number" : 5, "target_reqshots" : 2 } ],
+      "stage_classifier" : true, "stage_poppers" : 2, "stage_noshoots" : true,
+      "stage_strings" : 1,
+      "stage_briefing" : "Type of Course: Short Course\n\nTargets (type & number): 5 IPSC Targets, 2 IPSC Popper, 1 No Shoot\n\nNo. of rounds to be scored: 12\n\nMaximum points: 60\n\nStart position: Standing relaxed in area A, facing downrange with both hands relaxed by sides.\n\nHandgun ready condition: Handgun loaded and holstered.\n\nProcedure: After the audible start signal engage targets T1, T2, P1 and P2 from within the designated area A. Then engage all remaining targets from within the designated area B.\n\nSetup Notes: Set IPSC Targets/No Shoot to 1.52m (5') to the top of the targets. Area A and area B are 0.92m (3') by 0.92m (3'). Hard cover on IPSC Target T4 covers from notch to notch, as shown. Hard cover on IPSC Target T5 is in line with the A-zone scoring line." },
+    {
+      "stage_classifiercode" : "C-41", "stage_name" : "IPSC CLC-41",
+      "stage_scoretype" : "Comstock", "stage_classictargets" : true,
+      "stage_targets" : [ {
+        "target_number" : 1, "target_reqshots" : 2 }, {
+        "target_number" : 2, "target_reqshots" : 2 }, {
+        "target_number" : 3, "target_reqshots" : 2 }, {
+        "target_number" : 4, "target_reqshots" : 2 }, {
+        "target_number" : 5, "target_reqshots" : 2 }, {
+        "target_number" : 6, "target_reqshots" : 2 } ],
+      "stage_classifier" : true, "stage_poppers" : 0, "stage_noshoots" : true,
+      "stage_strings" : 1,
+      "stage_briefing" : "Type of Course: Short Course\n\nTargets (type & number): 6 IPSC Targets, 3 No Shoots\n\nNo. of rounds to be scored: 12\n\nMaximum points: 60\n\nStart position: Seated on the chair in area A, elbows on X-marks.\n\nHandgun ready condition: Handgun loaded and holstered.\n\nProcedure: After the audible start signal engage targets T1, T2 and T3 (or T4, T5 and T6) with two rounds per target from within the designated area A. Make a mandatory reload and engage the remaining targets with two rounds per target from within the designated area A.\n\nSetup Notes: Set IPSC Targets/No Shoots to 1.52m (5') to the top of the targets. Area A is 1.22m (4') by 1.22m (4'). X-marks are 0.15m (6\") right and left of the centerline and 0.15m (6\") from the edge of the table. The bases of all No Shoots are set at table height." },
+    {
+      "stage_classifiercode" : "C-45", "stage_name" : "IPSC CLC-45",
+      "stage_scoretype" : "Comstock", "stage_classictargets" : true,
+      "stage_targets" : [ {
+        "target_number" : 1, "target_reqshots" : 2 }, {
+        "target_number" : 2, "target_reqshots" : 2 } ],
+      "stage_classifier" : true, "stage_poppers" : 4, "stage_noshoots" : false,
+      "stage_strings" : 1,
+      "stage_briefing" : "Type of Course: Short Course\n\nTargets (type & number): 2 IPSC Targets, 4 IPSC Popper\n\nNo. of rounds to be scored: 8\n\nMaximum points: 40\n\nStart position: Standing relaxed in area A, facing downrange with both hands relaxed by sides.\n\nHandgun ready condition: Handgun loaded and holstered.\n\nProcedure: After the audible start signal engage targets T1 and T2 from above top board of 1.22m-by-1.22m (4-foot-by-4-foot) frame, then shoot P1 to P4 from below board from within the designated area A.\n\nSetup Notes: Set IPSC Targets to 1.52m (5') to the top of the targets. Area A is 1.22m (4') by 1.22m (4'). The 1.22m-by-1.22m (4'-by-4') frame is made out of 5cm*10cm (2*4's). Place a 2.44m (8' long) 5cm*10cm (2*4) flat over the top of the frame allowing an equal distance to overhang at both ends. This will be the board that IPSC Poppers must be engaged under. Hard cover on T1 and T2 is as shown and covers half of the IPSC Target from top to bottom." },
+    {
+      "stage_classifiercode" : "C-47", "stage_name" : "IPSC CLC-47",
+      "stage_scoretype" : "Comstock", "stage_classictargets" : true,
+      "stage_targets" : [ {
+        "target_number" : 1, "target_reqshots" : 2 }, {
+        "target_number" : 2, "target_reqshots" : 2 } ],
+      "stage_classifier" : true, "stage_poppers" : 2, "stage_noshoots" : false,
+      "stage_strings" : 1,
+      "stage_briefing" : "Type of Course: Short Course\n\nTargets (type & number): 2 IPSC Targets, 2 IPSC Popper\n\nNo. of rounds to be scored: 6\n\nMaximum points: 30\n\nStart position: Standing relaxed in area A, facing downrange with both hands relaxed by sides.\n\nHandgun ready condition: Handgun loaded and holstered.\n\nProcedure: After the audible start signal engage targets, strong hand only, from within the designated area A.\n\nSetup Notes: Set IPSC Targets to 1.52m (5') to the top of the targets. Area A is 0.92m (3') by 0.92m (3')." },
+    {
+      "stage_classifiercode" : "C-49", "stage_name" : "IPSC CLC-49",
+      "stage_scoretype" : "Comstock", "stage_classictargets" : true,
+      "stage_targets" : [ {
+        "target_number" : 1, "target_reqshots" : 2 }, {
+        "target_number" : 2, "target_reqshots" : 2 }, {
+        "target_number" : 3, "target_reqshots" : 2 }, {
+        "target_number" : 4, "target_reqshots" : 2 }, {
+        "target_number" : 5, "target_reqshots" : 2 } ],
+      "stage_classifier" : true, "stage_poppers" : 4, "stage_noshoots" : false,
+      "stage_strings" : 1,
+      "stage_briefing" : "Type of Course: Medium Course\n\nTargets (type & number): 5 IPSC Targets, 4 IPSC Popper\n\nNo. of rounds to be scored: 14\n\nMaximum points: 70\n\nStart position: Kneeling (both knees on the ground) in area A, facing downrange with both hands on top of the head.\n\nHandgun ready condition: Handgun loaded and holstered.\n\nProcedure: After the audible start signal engage targets T1-T3 from within the designated area A. Then proceed to area B and engage all remaining targets from behind the barricade from with the designated area B.\n\nSetup Notes: Set IPSC Targets to 1.52m (5') to the top of the targets. Areas A and B are 0.92m (3') by 0.92m (3'). Hard cover on IPSC Targets T1 and T3 cover from notch to notch, as shown. The barricade is 0.92m (3') wide and 1.83m (6') high." },
+    {
+      "stage_classifiercode" : "C-51", "stage_name" : "IPSC CLC-51",
+      "stage_scoretype" : "Comstock", "stage_classictargets" : true,
+      "stage_targets" : [ {
+        "target_number" : 1, "target_reqshots" : 2 }, {
+        "target_number" : 2, "target_reqshots" : 2 }, {
+        "target_number" : 3, "target_reqshots" : 2 } ],
+      "stage_classifier" : true, "stage_poppers" : 0, "stage_noshoots" : false,
+      "stage_strings" : 1,
+      "stage_briefing" : "Type of Course: Short Course\n\nTargets (type & number): 3 IPSC Targets\n\nNo. of rounds to be scored: 6\n\nMaximum points: 30\n\nStart position: Standing relaxed in area A, facing downrange with both hands relaxed by sides.\n\nHandgun ready condition: Handgun loaded and holstered.\n\nProcedure: After the audible start signal engage targets from within the designated area A.\n\nSetup Notes: Set IPSC Targets to 1.52m (5') to the top of the targets. Area A is 0.92m (3') by 0.92m (3'). Hard cover on IPSC Targets T1 and T3 cover from notch to notch, as shown." },
+    {
+      "stage_classifiercode" : "C-53", "stage_name" : "IPSC CLC-53",
+      "stage_scoretype" : "Comstock", "stage_classictargets" : true,
+      "stage_targets" : [ {
+        "target_number" : 1, "target_reqshots" : 2 }, {
+        "target_number" : 2, "target_reqshots" : 2 }, {
+        "target_number" : 3, "target_reqshots" : 2 }, {
+        "target_number" : 4, "target_reqshots" : 2 } ],
+      "stage_classifier" : true, "stage_poppers" : 6, "stage_noshoots" : false,
+      "stage_strings" : 1,
+      "stage_briefing" : "Type of Course: Medium Course\n\nTargets (type & number): 4 IPSC Targets, 6 IPSC Popper\n\nNo. of rounds to be scored: 14\n\nMaximum points: 70\n\nStart position: Standing relaxed in area A, facing downrange with both hands relaxed by sides.\n\nHandgun ready condition: Handgun loaded and holstered.\n\nProcedure: After the audible start signal engage targets T1, T2, P1 and P2 from within the designated area A. Then proceed to area B and engage all remaining targets from behind the barricade within the designated area B.\n\nSetup Notes: Set IPSC Targets to 1.52m (5') to the top of the targets. Areas A and B are 0.92m (3') by 0.92m (3'). The barricade is 0.92m (3') wide by 1.83m (6') high." },
+    {
+      "stage_classifiercode" : "C-55", "stage_name" : "IPSC CLC-55",
+      "stage_scoretype" : "Comstock", "stage_classictargets" : true,
+      "stage_targets" : [ {
+        "target_number" : 1, "target_reqshots" : 2 }, {
+        "target_number" : 2, "target_reqshots" : 2 }, {
+        "target_number" : 3, "target_reqshots" : 2 }, {
+        "target_number" : 4, "target_reqshots" : 2 }, {
+        "target_number" : 5, "target_reqshots" : 2 } ],
+      "stage_classifier" : true, "stage_poppers" : 2, "stage_noshoots" : true,
+      "stage_strings" : 1,
+      "stage_briefing" : "Type of Course: Short Course\n\nTargets (type & number): 5 IPSC Targets, 2 IPSC Popper, 3 No Shoots\n\nNo. of rounds to be scored: 12\n\nMaximum points: 60\n\nStart position: Standing relaxed in area A, facing downrange with both hands relaxed by sides.\n\nHandgun ready condition: Handgun loaded and holstered.\n\nProcedure: After the audible start signal engage targets T1, T2 and T3 from within the designated area A. Then move towards area B and engage IPSC Popper P2 after both feet left area A and before one foot has entered area B. Engage all remaining targets from within the designated area B, from either side of the barrel and underneath the cross bar on top of the barrel.\n\nSetup Notes: Set IPSC Targets/No Shoots to 1.52m (5') to the top of the targets. Area A is 0.92m (3') by 0.92m (3'), Area B is 1.22m (4') by 1.22m (4'). Set the No Shoot behind IPSC Popper P1 to 1.37m (4'6\") high at top of the target. The bar on top of the barrel is 1.22m (4') long and placed in the middle of the barrel. Scoring lines of No Shoots at IPSC Target T3 overlay A-zone scoring lines. The barrel is a standard 55 gallon drum." },
+    {
+      "stage_classifiercode" : "C-57", "stage_name" : "IPSC CLC-57",
+      "stage_scoretype" : "Comstock", "stage_classictargets" : true,
+      "stage_targets" : [ {
+        "target_number" : 1, "target_reqshots" : 2 }, {
+        "target_number" : 2, "target_reqshots" : 2 }, {
+        "target_number" : 3, "target_reqshots" : 2 }, {
+        "target_number" : 4, "target_reqshots" : 2 }, {
+        "target_number" : 5, "target_reqshots" : 2 } ],
+      "stage_classifier" : true, "stage_poppers" : 2, "stage_noshoots" : false,
+      "stage_strings" : 1,
+      "stage_briefing" : "Type of Course: Short Course\n\nTargets (type & number): 5 IPSC Targets, 2 IPSC Popper\n\nNo. of rounds to be scored: 12\n\nMaximum points: 60\n\nStart position: Standing at center of the barricade in area A with palms flat on barricade covering the X-marks.\n\nHandgun ready condition: Handgun loaded and holstered.\n\nProcedure: After the audible start signal engage alternatively IPSC Targets T1 and T2 from the left side of the barricade or IPSC Targets T3 and T4 from the right side of the barricade. Then make a mandatory reload and alternatively engage IPSC Targets T3 and T4 from the right side of the barricade or IPSC Targets T1 and T2 from the left side of the barricade. IPSC Target T5, IPSC Popper P1 and P2 may be shot from either side of the barricade. All targets must be engaged for within the designated area A.\n\nSetup Notes: Set IPSC Targets to 1.52m (5') to the top of the targets. Area A is 0.61m (2') by 0.92m (3'). X-marks are placed 0.15m (6\") inside each edge of the barricade." },
+    {
+      "stage_classifiercode" : "C-59", "stage_name" : "IPSC CLC-59",
+      "stage_scoretype" : "Comstock", "stage_classictargets" : true,
+      "stage_targets" : [ {
+        "target_number" : 1, "target_reqshots" : 2 }, {
+        "target_number" : 2, "target_reqshots" : 2 }, {
+        "target_number" : 3, "target_reqshots" : 2 }, {
+        "target_number" : 4, "target_reqshots" : 2 }, {
+        "target_number" : 5, "target_reqshots" : 2 }, {
+        "target_number" : 6, "target_reqshots" : 2 } ],
+      "stage_classifier" : true, "stage_poppers" : 0, "stage_noshoots" : true,
+      "stage_strings" : 1,
+      "stage_briefing" : "Type of Course: Short Course\n\nTargets (type & number): 6 IPSC Targets, 3 No Shoots\n\nNo. of rounds to be scored: 12\n\nMaximum points: 60\n\nStart position: Standing relaxed in area A, facing downrange with both hands relaxed by sides.\n\nHandgun ready condition: Handgun loaded and holstered.\n\nProcedure: After the audible start signal engage all IPSC Targets with one round each from within the designated area A. Then make a mandatory reload and engage all IPSC Targets with one round each from with the designated area A again.\n\nSetup Notes: Set IPSC Targets T3 and T4 to 0.92m (3') high at top of the targets. Set IPSC Targets T1, T2, T5 and T6 to 1.52m (5') high at top of target. Set No Shoots so that they go from  A-zone to A-zone. No Shoot on IPSC Targets T3 and T4 is centered on center line. Area A is 0.92m (3') by 0.92 (3')." },
+    {
+      "stage_classifiercode" : "C-63", "stage_name" : "IPSC CLC-63",
+      "stage_scoretype" : "Comstock", "stage_classictargets" : true,
+      "stage_targets" : [ {
+        "target_number" : 1, "target_reqshots" : 2 }, {
+        "target_number" : 2, "target_reqshots" : 2 }, {
+        "target_number" : 3, "target_reqshots" : 2 }, {
+        "target_number" : 4, "target_reqshots" : 2 }, {
+        "target_number" : 5, "target_reqshots" : 2 }, {
+        "target_number" : 6, "target_reqshots" : 2 }, {
+        "target_number" : 7, "target_reqshots" : 2 } ],
+      "stage_classifier" : true, "stage_poppers" : 2, "stage_noshoots" : true,
+      "stage_strings" : 1,
+      "stage_briefing" : "Type of Course: Medium Course\n\nTargets (type & number): 7 IPSC Targets, 2 IPSC Popper, 3 No Shoots\n\nNo. of rounds to be scored: 16\n\nMaximum points: 80\n\nStart position: Standing relaxed in area A, facing downrange with both hands relaxed by sides. The heels of both feet against the marks.\n\nHandgun ready condition: Handgun loaded and holstered.\n\nProcedure: After the audible start signal engage IPSC Targets T1-T3 from within the designated area A. Move to area B and engage IPSC Target T4, IPSC Popper P1 and P2 from within the designated area B. Move to area ‘C' and engage IPSC Targets T5-T7 from within the designated area ‘C'.\n\nSetup Notes: Set IPSC Targets/No Shoots to 1.52m (5') to the top of the targets. Edges of IPSC Targets T1 and T3 are butted to No Shoots. The A-zone scoring lines of IPSC Target T2 are directly under the scoring lines of the No Shoots. The edge of IPSC Target T5 is butted to the edge of the No Shoot. IPSC Targets T6 and T7 are butted together. Areas A and ‘C' are 0.92m (3') by 0.92m (3'). Area B is 6.10m (20') long and 1.22m (4') wide. Nail a 2*2 or 2*4 to the ground at both ends of area B." },
+    {
+      "stage_classifiercode" : "C-65", "stage_name" : "IPSC CLC-65",
+      "stage_scoretype" : "Comstock", "stage_classictargets" : true,
+      "stage_targets" : [ {
+        "target_number" : 1, "target_reqshots" : 2 } ],
+      "stage_classifier" : true, "stage_poppers" : 4, "stage_noshoots" : false,
+      "stage_strings" : 1,
+      "stage_briefing" : "Type of Course: Short Course\n\nTargets (type & number): 1 IPSC Target, 4 IPSC Popper\n\nNo. of rounds to be scored: 6\n\nMaximum points: 30\n\nStart position: Standing relaxed in area A, facing downrange with both wrists above respective shoulder.\n\nHandgun ready condition: Handgun loaded and holstered.\n\nProcedure: After the audible start signal engage targets from within the designated area A.\n\nSetup Notes: Set IPSC Targets to 1.52m (5') to the top of the targets. Area A is 0.92m (3') by 0.92m (3')." },
+    {
+      "stage_classifiercode" : "C-67", "stage_name" : "IPSC CLC-67",
+      "stage_scoretype" : "Comstock", "stage_classictargets" : true,
+      "stage_targets" : [ {
+        "target_number" : 1, "target_reqshots" : 2 }, {
+        "target_number" : 2, "target_reqshots" : 2 }, {
+        "target_number" : 3, "target_reqshots" : 2 }, {
+        "target_number" : 4, "target_reqshots" : 2 }, {
+        "target_number" : 5, "target_reqshots" : 2 }, {
+        "target_number" : 6, "target_reqshots" : 2 } ],
+      "stage_classifier" : true, "stage_poppers" : 0, "stage_noshoots" : true,
+      "stage_strings" : 1,
+      "stage_briefing" : "Type of Course: Short Course\n\nTargets (type & number): 6 IPSC Targets, 1 No Shoot\n\nNo. of rounds to be scored: 12\n\nMaximum points: 60\n\nStart position: Standing relaxed in area A, facing downrange with both hands relaxed by sides.\n\nHandgun ready condition: Handgun loaded and holstered.\n\nProcedure: After the audible start signal engage targets with one round each from within the designated area A. Make a mandatory reload and engage all targets with one round each again from within the designated area A.\n\nSetup Notes: Set IPSC Targets/No Shoot to 1.52m (5') to the top of the targets. Area A is 0.92m (3') by 0.92m (3'). Hard cover on IPSC Targets T1 and T5 cuts through from notch to notch, as shown. Hard cover on IPSC Target T2 is from perforation of A-zone outward from top to bottom on both sides of the A-zone. Hard cover on IPSC Target T6 runs diagonal from top left notch downwards to top bottom notch. IPSC Targets T3 and T4 are butted edge to edge, the No Shoot is the centered on them. Center the No Shoot on center line." },
+    {
+      "stage_classifiercode" : "C-69", "stage_name" : "IPSC CLC-69",
+      "stage_scoretype" : "Comstock", "stage_classictargets" : true,
+      "stage_targets" : [ {
+        "target_number" : 1, "target_reqshots" : 8 }, {
+        "target_number" : 2, "target_reqshots" : 8 }, {
+        "target_number" : 3, "target_reqshots" : 8 } ],
+      "stage_classifier" : true, "stage_poppers" : 0, "stage_noshoots" : false,
+      "stage_strings" : 1,
+      "stage_briefing" : "Type of Course: Medium Course\n\nTargets (type & number): 3 IPSC Targets\n\nNo. of rounds to be scored: 24\n\nMaximum points: 120\n\nStart position: Standing relaxed in area A, facing downrange with both hands relaxed by sides.\n\nHandgun ready condition: Handgun loaded and holstered.\n\nProcedure: After the audible start signal engage targets with a minimum of two rounds each from within the designated area A. Then make a mandatory reload and engage targets with a minimum of two rounds each from within the designated area B. Then make a mandatory reload and engage targets with a minimum of two rounds each from within the designated area ‘C'. Then make another mandatory reload and engage targets with a minimum of two rounds each from within the designated area ‘D'. Set IPSC Targets to 1.52m (5') to the top of the targets.\n\nSetup Notes: All areas are 0.92m (3') by 0.92m (3')." },
+    {
+      "stage_classifiercode" : "C-71", "stage_name" : "IPSC CLC-71",
+      "stage_scoretype" : "Comstock", "stage_classictargets" : true,
+      "stage_targets" : [ {
+        "target_number" : 1, "target_reqshots" : 2 }, {
+        "target_number" : 2, "target_reqshots" : 2 }, {
+        "target_number" : 3, "target_reqshots" : 2 } ],
+      "stage_classifier" : true, "stage_poppers" : 2, "stage_noshoots" : false,
+      "stage_strings" : 1,
+      "stage_briefing" : "Type of Course: Short Course\n\nTargets (type & number): 3 IPSC Targets, 2 IPSC Popper\n\nNo. of rounds to be scored: 8\n\nMaximum points: 40\n\nStart position: Standing relaxed in area A, facing center of the barricade, with arms folded, wrists overlapping across the chest.\n\nHandgun ready condition: Handgun loaded and holstered.\n\nProcedure: After the audible start signal engage targets from within the designated area A.\n\nSetup Notes: Set IPSC Targets to 1.52m (5') to the top of the targets. Area A is 0.92m (3') by 0.92m (3'). The barricade is 0.92m (3') wide and 1.83m (6') high." },
+    {
+      "stage_classifiercode" : "C-73", "stage_name" : "IPSC CLC-73",
+      "stage_scoretype" : "Comstock", "stage_classictargets" : true,
+      "stage_targets" : [ {
+        "target_number" : 1, "target_reqshots" : 2 }, {
+        "target_number" : 2, "target_reqshots" : 2 } ],
+      "stage_classifier" : true, "stage_poppers" : 2, "stage_noshoots" : true,
+      "stage_strings" : 1,
+      "stage_briefing" : "Type of Course: Short Course\n\nTargets (type & number): 2 IPSC Targets, 2 IPSC Popper, 3 No Shoots\n\nNo. of rounds to be scored: 6\n\nMaximum points: 30\n\nStart position: Standing relaxed in area A, facing downrange with arms folded, wrists overlapping across the chest.\n\nHandgun ready condition: Handgun loaded and holstered.\n\nProcedure: After the audible start signal engage targets, strong hand only, from within the designated area A.\n\nSetup Notes: Set IPSC Targets/No Shoots to 1.52m (5') to the top of the targets. Area A is 0.92m (3') by 0.92m (3')." }
+]

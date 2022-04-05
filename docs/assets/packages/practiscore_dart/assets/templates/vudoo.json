@@ -1,0 +1,92 @@
+{
+  "match_name" : "Vudoo Rimfire",
+  "match_type" : "nra_action",
+  "match_subtype" : "vudoo",
+  "match_cats" : [ "Bolt Action", "Semi Auto" ],
+  "match_ctgs" : "[\"Junior\",\"Senior\",\"Super Senior\",\"Lady\",\"Law Enforcement\",\"Military\",\"Foreign\"]",
+  "match_cls" : [ "Unclassified", "Marksman", "Sharp Shooter", "Master", "Expert" ],
+  "match_chkins" : [ "Checked in", "Paid", "Staff" ],
+  "match_maxteamresults" : 4,
+  
+  "match_custom_targets" : [
+      {
+        "target_reqshots" : 1,
+        "target_name" : "Under 101yd",
+        "target_targdesc" : [ [ "Hit on 1st", "2" ], [ "Hit on 2nd", "1" ], [ "Miss", "0" ] ] },
+      {
+        "target_reqshots" : 1,
+        "target_name" : "101yd - 200",
+        "target_targdesc" : [ [ "Hit on 1st", "3" ], [ "Hit on 2nd", "2" ], [ "Hit on 3rd", "1" ], [ "Miss", "0" ] ] },
+      {
+        "target_reqshots" : 1,
+        "target_name" : "201yd - 300",
+        "target_targdesc" : [ [ "Hit on 1st", "4" ], [ "Hit on 2nd", "3" ], [ "Hit on 3rd", "2" ], [ "Hit on 4th", "1" ], [ "Miss", "0" ] ] },
+      {
+        "target_reqshots" : 1,
+        "target_name" : "301yd - 400",
+        "target_targdesc" : [ [ "Hit on 1st", "5" ], [ "Hit on 2nd", "4" ], [ "Hit on 3rd", "3" ], [ "Hit on 4th", "2" ], [ "Hit on 5th", "1" ], [ "Miss", "0" ] ] },
+      {
+        "target_reqshots" : 1,
+        "target_name" : "401yd - 500",
+        "target_targdesc" : [ [ "Hit on 1st", "5" ], [ "Hit on 2nd", "4" ], [ "Hit on 3rd", "3" ], [ "Hit on 4th", "2" ], [ "Hit on 5th", "1" ], [ "Miss", "0" ] ] },
+      {
+        "target_reqshots" : 1,
+        "target_name" : "501yd - 600",
+        "target_targdesc" : [ [ "Hit on 1st", "6" ], [ "Hit on 2nd", "5" ],
+            [ "Hit on 3rd", "4" ], [ "Hit on 4th", "3" ],
+            [ "Hit on 5th", "2" ], [ "Hit on 6th", "1" ], [ "Miss", "0" ] ] },
+      {
+        "target_reqshots" : 1,
+        "target_name" : "601yd - 700",
+        "target_targdesc" : [ [ "Hit on 1st", "7" ], [ "Hit on 2nd", "6" ],
+            [ "Hit on 3rd", "5" ], [ "Hit on 4th", "4" ],
+            [ "Hit on 5th", "3" ], [ "Hit on 6th", "2" ],
+            [ "Hit on 7th", "1" ], [ "Miss", "0" ] ] },
+      {
+        "target_reqshots" : 1,
+        "target_name" : "701yd - 800",
+        "target_targdesc" : [ [ "Hit on 1st", "8" ], [ "Hit on 2nd", "7" ],
+            [ "Hit on 3rd", "6" ], [ "Hit on 4th", "5" ],
+            [ "Hit on 5th", "4" ], [ "Hit on 6th", "3" ],
+            [ "Hit on 7th", "2" ], [ "Hit on 8th", "1" ], [ "Miss", "0" ] ] },
+      {
+        "target_reqshots" : 1,
+        "target_name" : "801yd - 900",
+        "target_targdesc" : [ [ "Hit on 1st", "9" ], [ "Hit on 2nd", "8" ],
+            [ "Hit on 3rd", "7" ], [ "Hit on 4th", "6" ],
+            [ "Hit on 5th", "5" ], [ "Hit on 6th", "4" ],
+            [ "Hit on 7th", "3" ], [ "Hit on 8th", "2" ],
+            [ "Hit on 9th", "1" ], [ "Miss", "0" ] ] },
+      {
+        "target_reqshots" : 1,
+        "target_name" : "801yd - 900",
+        "target_targdesc" : [ [ "Hit on 1st", "9" ], [ "Hit on 2nd", "8" ],
+            [ "Hit on 3rd", "7" ], [ "Hit on 4th", "6" ],
+            [ "Hit on 5th", "5" ], [ "Hit on 6th", "4" ],
+            [ "Hit on 7th", "3" ], [ "Hit on 8th", "2" ],
+            [ "Hit on 9th", "1" ], [ "Miss", "0" ] ] },
+      {
+        "target_reqshots" : 1,
+        "target_name" : "901yd - 1000",
+        "target_targdesc" : [ [ "Hit on 1st", "10" ], [ "Hit on 2nd", "9" ],
+            [ "Hit on 3rd", "8" ], [ "Hit on 4th", "7" ],
+            [ "Hit on 5th", "6" ], [ "Hit on 6th", "5" ],
+            [ "Hit on 7th", "4" ], [ "Hit on 8th", "3" ],
+            [ "Hit on 9th", "2" ], [ "Hit on 10th", "1" ], [ "Miss", "0" ] ] },
+      {
+        "target_reqshots" : 1,
+        "target_name" : "KYL 5",
+        "target_targdesc" : [ [ "1 Hit", "1" ], [ "2 Hits", "2" ],
+            [ "3 Hits", "4" ], [ "4 Hits", "8" ], [ "5 Hits", "16" ],
+            [ "Miss", "0" ] ] },
+      {
+        "target_reqshots" : 1,
+        "target_name" : "KYL 8",
+        "target_targdesc" : [ [ "1 Hit", "1" ], [ "2 Hits", "3" ],
+            [ "3 Hits", "5" ], [ "4 Hits", "7" ], [ "5 Hits", "9" ],
+            [ "5 Hits", "11" ], [ "5 Hits", "13" ], [ "5 Hits", "15" ],
+            [ "Miss", "0" ] ] }, {
+        "target_reqshots" : 1,
+        "target_name" : "1st Round Bonus",
+        "target_targdesc" : [ [ "All 1st Hits", "4" ], [ "Miss", "0" ] ] } ]
+}

@@ -1,0 +1,22 @@
+{
+  "match_name" : "Long Range Gas Gun",
+  "match_type" : "timeplus",
+  "match_subtype" : "precisionrifle",
+  "match_ctgs" : "[\"Mil/LE\",\"Lady\",\"Senior\",\"Junior\",\"International\"]",
+  "match_cats" : [ "Open", "Tactical Light", "Tactical Heavy" ],
+  "match_cls" : [],
+  "match_penalties" : [ {
+    "pen_val" : 30,
+    "pen_name" : "Rifle Target Not Hit",
+    "pen_bin" : false }, {
+    "pen_val" : 15,
+    "pen_name" : "Pistol Target Not Hit",
+    "pen_bin" : false }, {
+    "pen_val" : 15,
+    "pen_name" : "No Shoot",
+    "pen_bin" : false }, {
+    "pen_val" : 15,
+    "pen_name" : "Procedural",
+    "pen_bin" : false } ],
+  "match_chkins" : [ "Checked in", "Paid", "Staff" ]
+}

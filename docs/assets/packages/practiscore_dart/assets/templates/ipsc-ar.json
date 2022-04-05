@@ -1,0 +1,98 @@
+{
+  "match_name" : "IPSC: Action Air",
+  "match_type" : "uspsa_p",
+  "match_subtype" : "ipsc",
+  "match_cats" : [ "Open", "Production", "Standard", "Classic" ],
+  "match_cls" : [ "U", "D", "C", "B", "A", "M", "G" ],
+  "match_ctgs" : "[\"Junior\",\"Senior\",\"Super Senior\",\"Super Junior\",\"Lady\"]",
+  "match_chkins": [ "Checked in", "Paid", "Staff", "RO" ],
+  "match_maxteamresults" : 3,
+
+  "match_pfs" : [
+     { "name" : "Minor", "short" : "Min", "A" : 5, "B" : 3, "C" : 3, "D" : 1, "M" : 10, "NS" : 10 } 
+   ],
+
+  "match_docs" : [
+     {
+       "url": "https://www.ipsc.org/pdf/RulesAir.pdf",
+       "name": "IPSC Action Air",
+       "file": "2019_IPSC_RulesAir.pdf",
+       "type": "rules",
+       "chksum": "a54e839b47a6cb0c2e7d7b52bd9390927cd8b9a4"
+     }
+   ],
+
+  "match_procs" : [
+    { "uuid" : "EQRTwQ", "name" : "10.2.7 Failure to engage target" },
+    { "uuid" : "v9pLTA", "name" : "2.2.1.5 Shortcut outside shooting area" },
+    
+    { "uuid" : "s8g7Dn", "name" : "10.2.1 Shooting while beyond a Fault Line" },
+    { "uuid" : "s8g7Dm", "name" : "10.2.1.1 Shooting while beyond a Fault Line (per shot)" },
+    { "uuid" : "7wTzBw", "name" : "10.2.2 Fail to comply with WSB" },
+    { "uuid" : "jkaZwk", "name" : "10.2.4 Failure to reload" },
+    { "uuid" : "kddJxe", "name" : "10.2.5 Cooper Tunnel" },
+    { "uuid" : "whF4jn", "name" : "10.2.8 SHO/WHO touching the handgun with the other hand" },
+    { "uuid" : "6gWqZ7", "name" : "10.2.8.1 SHO/WHO support the handgun while shooting" },
+    { "uuid" : "dg5MRS", "name" : "10.2.8.2 SHO/WHO increase stability while shooting" },
+    { "uuid" : "xdnYza", "name" : "10.2.11 Shots over a barrier 1.8m tall" },
+    
+    { "uuid" : "WEkBf8", "name" : "8.6.2 Assisting competitor" },
+    { "uuid" : "bJQy4F", "name" : "8.7.2 Sighting aid during walkthrough" },
+    { "uuid" : "eWtfmL", "name" : "10.2.9 Prohibited action" },
+    { "uuid" : "eWtfmK", "name" : "4.5.1 Rearrangement of stage equipment" },
+    
+    { "uuid" : "GsjtM1", "name" : "8.1.3 Chambering projectile with trigger action" },
+    { "uuid" : "GuAaQu", "name" : "A.D4.9 Production - first shot must be DA" },
+    
+    { "uuid" : "GsjtMt", "name" : "8.7.1 Sight picture and/or dry firing (after a warning)" },
+    { "uuid" : "uBTRY2", "name" : "9.1.1 Approaching targets (after a warning)" },
+    { "uuid" : "HkvzTR", "name" : "10.2.6 Creeping prior Start Signal (after a warning)" },
+    
+    { "uuid" : "x2TVQ1", "warn" : true, "name" : "6.2.5.1 Distance from the body (to Open or no score)" },
+    { "uuid" : "x2TVQF", "warn" : true, "name" : "8.7.1 Sight picture and/or dry firing (Procedural)" },
+    { "uuid" : "BgXQGK", "warn" : true, "name" : "9.1.1 Approaching targets during scoring (Procedural)" },
+    { "uuid" : "R8cMDc", "warn" : true, "name" : "10.2.6 Creeping after the Standby command (Procedural)" },
+    { "uuid" : "5mRLuR", "warn" : true, "name" : "5.2.1.2 Non-empty magwell or cocked handgun (DQ 10.6.1)" },
+    { "uuid" : "7NeDtm", "warn" : true, "name" : "8.3.1.1 Moving away from the start location (DQ 10.6.1)" },
+    { "uuid" : "zLG6ev", "warn" : true, "name" : "8.7.3 Unauthorized presence on stage (DQ 10.6)" },
+    { "uuid" : "XXTzeE", "warn" : true, "name" : "9.7.8 Unauthorized handling of score sheets (DQ 10.6)" }
+   ],
+   
+  "match_dqs" : [
+    { "uuid" : "Nk2R9M", "name" : "10.5.2 Muzzle pointed uprange or past safe angle" },
+    { "uuid" : "CzfrxQ", "name" : "10.5.5 Sweeping" },
+    { "uuid" : "6kQPC1", "name" : "10.5 Unsafe Gun Handling" },
+    { "uuid" : "Gtmb6C", "name" : "10.5.8 Finger inside trigger guard while clearing malfunction" },
+    { "uuid" : "4LZ3Dt", "name" : "10.5.9 Finger inside trigger guard while loading, reloading, or unloading" },
+    { "uuid" : "6kQPCu", "name" : "10.5.10 Finger inside trigger guard during movement" },
+    { "uuid" : "uZmpFr", "name" : "10.4.1 Shot in unsafe direction" },
+    { "uuid" : "snewMA", "name" : "10.4.2 Shot within 3 meters" },
+    { "uuid" : "Dn5Cxd", "name" : "10.4.3 Shot while loading, reloading, or unloading" },
+    { "uuid" : "xy5hNj", "name" : "10.4.4 Shot during remedial action" },
+    { "uuid" : "7Ars2B", "name" : "10.4.5 Shot while transferring between hands" },
+    { "uuid" : "2BuGHU", "name" : "10.4.6 Shot during movement" },
+    { "uuid" : "XMxAjX", "name" : "10.4.7 Shot at rigid target from unsafe distance" },
+    { "uuid" : "BeMf46", "name" : "10.5.1 Handling without permission" },
+    { "uuid" : "wuzpsg", "name" : "10.5.3 Dropped gun" },
+    { "uuid" : "cGP7cb", "name" : "10.5.4 Drawing/holstering while in tunnel" },
+    { "uuid" : "KWJh2e", "name" : "10.5.6 Muzzle >1 meter uprange during holster or draw while facing downrange" },
+    { "uuid" : "cRhKE7", "name" : "10.5.7 Wearing more than one firearm" },
+    { "uuid" : "TbG2GL", "name" : "10.5.11 Unsafe loaded and holstered handgun" },
+    { "uuid" : "jBKK5Q", "name" : "10.5.12 Handling projectiles or anything with propellant gas in safety area" },
+    { "uuid" : "xuMyA3", "name" : "10.5.13 Unauthorized loaded firearm" },
+    { "uuid" : "jTG7yh", "name" : "10.5.14 Retrieving a dropped firearm" },
+    { "uuid" : "bvkLfz", "name" : "10.5.15 Using prohibited/unsafe ammo" },
+    { "uuid" : "bvkLf1", "name" : "10.5 Unsafe gun handling" },
+    { "uuid" : "pqd939", "name" : "10.6 Unsportsmanlike conduct" },
+    { "uuid" : "eMBquw", "name" : "10.7 Prohibited substances" } ],
+    
+  "match_dnfs" : [
+    { "uuid" : "R4cPM8", "name" : "6.6.1 Not present at the stage" },
+    { "uuid" : "R4cPM9", "name" : "2.3.3.3 Refused reshoot" },
+    { "uuid" : "R4cPMa", "name" : "5.7.1 Using tools to clear malfunction" },
+    { "uuid" : "4AEvHd", "name" : "8.3.4.2 Didn't fire a shot" },
+    { "uuid" : "Hd2QA1", "name" : "9.7.6.1 Missing time" },
+    { "uuid" : "Hd2QA2", "name" : "9.7.7 Scores not available" },
+    { "uuid" : "Hd2QA3", "name" : "10.4.8 AD due to broken firearm" },
+    { "uuid" : "4AEvH5", "name" : "Excluded stage"} ]
+}

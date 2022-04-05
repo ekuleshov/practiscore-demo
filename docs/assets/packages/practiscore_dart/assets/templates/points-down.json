@@ -1,0 +1,44 @@
+{
+  "match_name" : "Points Down",
+  "match_type": "idpa",
+  "match_subtype" : "none",
+  "match_cats" : [ "CDP", "SSP", "ESP", "REV", "BUG", "SPD", "SSR", "ESR", "PCC", "NFC", "CCP", "CO" ],
+  "match_cls" : [ "UN", "NV", "MM", "SS", "EX", "MA", "DM" ],
+  "match_ctgs" : "[\"Junior\",\"Senior\",\"Distinguished Senior\",\"Lady\",\"International\",\"Industry\",\"Press\",\"Military\",\"Law Enforcement\",\"Veteran\"]",
+  "match_pointsdownvalue": 1.0,
+  "match_steelmisspdcount": 5,
+  
+  "match_penalties": [
+      {
+      "pen_name": "Hits on Non-Threat",
+      "pen_val": 5.0,
+      "pen_bin": false,
+      "pen_warn": false
+      },
+      {
+      "pen_name": "Procedural Error",
+      "pen_val": 3.0,
+      "pen_bin": false,
+      "pen_warn": false
+      },
+      {
+      "pen_name": "Failure to Do Right",
+      "pen_val": 20.0,
+      "pen_bin": false,
+      "pen_warn": false
+      },
+      {
+      "pen_name": "Flagrant",
+      "pen_val": 10.0,
+      "pen_bin": false,
+      "pen_warn": false
+      },
+      {
+      "pen_name": "Finger PE",
+      "pen_val": 3.0,
+      "pen_bin": false,
+      "pen_warn": true
+      }
+      ],
+  "match_bonuses" : []
+}

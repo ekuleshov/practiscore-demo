@@ -1,0 +1,74 @@
+{
+  "ios": true,
+  "android": true,
+  "match_modifieddate": "2021-09-21 00:00:00.00",
+  "match_name" : "USPSA MultiGun",
+  "match_type" : "timeplus_p", 
+  "match_subtype" : "uspsamg",
+  "match_ctgs" : "[\"Military\",\"Junior\",\"Lady\",\"Super Senior\",\"Law\",\"Senior\"]",
+  "match_cats" : [ "Tactical", "Limited", "Open", "Heavy Metal Tactical" ],
+  "match_chkins": [ "Checked in", "Paid", "Staff", "RO" ],
+
+  "match_usemaxstagetime" : false,
+  "match_maxteamresults" : 4,
+
+  "match_docs" : [
+    {
+      "url": "https://uspsa.org/viewer/pdf/USPSA-Rifle-Shotgun-Multigun-Rulebook-Sep-2021.pdf",
+      "name": "USPSA Multigun Rules 2021",
+      "file": "USPSA_Multigin_Rules_Sep_2021.pdf",
+      "type": "rules",
+      "chksum": "6ff41176ad63656f2d064639fc55d0468645d31c"
+    }
+  ],
+
+  "match_penalties" : [ {
+    "pen_warn" : false,
+    "pen_bin" : false,
+    "pen_name" : "FTN Paper (9.3.2.1)",
+    "pen_val" : 5 }, {
+    "pen_warn" : false,
+    "pen_bin" : false,
+    "pen_name" : "Complete Miss Paper (9.3.2.2)",
+    "pen_val" : 10 }, {
+    "pen_warn" : false,
+    "pen_bin" : false,
+    "pen_name" : "Clay/Steel Miss < 100 (9.3.2.3)",
+    "pen_val" : 10 }, {
+    "pen_warn" : false,
+    "pen_bin" : false,
+    "pen_name" : "FTE< 100 (9.3.2.4)",
+    "pen_val" : 15 }, {
+    "pen_warn" : false,
+    "pen_bin" : false,
+    "pen_name" : "No Shoot (9.3.2.5)",
+    "pen_val" : 5 }, {
+    "pen_warn" : false,
+    "pen_bin" : false,
+    "pen_name" : "Procedural (9.3.2.6)",
+    "pen_val" : 5 }, {
+    "pen_warn" : false,
+    "pen_bin" : false,
+    "pen_name" : "LR Miss >100 (9.3.2.7)",
+    "pen_val" : 20 }, {
+    "pen_warn" : false,
+    "pen_bin" : false,
+    "pen_name" : "LR FTE >100 (9.3.2.7)",
+    "pen_val" : 25 }, {
+    "pen_warn" : false,
+    "pen_bin" : false,
+    "pen_name" : "Safety",
+    "pen_val" : 30 } ],
+
+  "match_custom_targets": [
+    {
+      "target_reqshots": 40,
+      "target_name": "ProAm",
+      "target_targdesc": [
+        [ "Hit", "1" ],
+        [ "Procedural", "-5" ],
+        [ "Overtime", "-1" ]
+      ]
+    }
+  ]
+}

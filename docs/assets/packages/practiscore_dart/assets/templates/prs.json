@@ -1,0 +1,9 @@
+{
+  "match_name": "Long Range Rifle",
+  "match_type": "precisionrifle",
+
+  "match_cats": [ "Open", "Tactical", "Production" ],
+  "match_ctgs": "[\"Lady\",\"Military/Law\",\"Junior\",\"Senior\",\"Club\",\"International\"]",
+  "match_cls": [],
+  "match_chkins": [ "Checked in", "Paid", "Staff" ]
+}

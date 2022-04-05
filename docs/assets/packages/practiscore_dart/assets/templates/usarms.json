@@ -1,0 +1,29 @@
+{
+  "match_name": "USARMS",
+  "match_type": "idpa",
+  "match_subtype": "usarms",
+  
+  "match_cats": [ "Small Arms Irons", "Small Arms Optics", "Personal Defense Irons",
+                  "Personal Defense Optics", "Service Rifle Irons", "Service Rifle Optics", 
+                  "Battle Rifle Irons", "Battle Rifle Optics" ],
+                  
+  "match_cls": [ "New", "Novice", "Intermediate", "Advanced", "Expert", "Master" ],
+  
+  "match_ctgs": "[\"Junior\",\"Senior\",\"Distinguished Senior\",\"Lady\",\"International\",\"Industry\",\"Press\",\"Military\",\"Law Enforcement\"]",
+  "match_pointsdownvalue": 1,
+  
+  "match_penalties": [
+      { "pen_name": "8.1.1 Penalty",
+        "pen_val": 5,
+        "pen_bin": false },
+      { "pen_name": "10.1 Paper Miss",
+        "pen_val": 5,
+        "pen_bin": false },
+      { "pen_name": "10.4.3 No Shoot",
+        "pen_val": 10,
+        "pen_bin": false },
+      { "pen_name": "8.1.2 Cheating",
+        "pen_val": 60,
+        "pen_bin": false } ],
+  "match_bonuses": []
+}

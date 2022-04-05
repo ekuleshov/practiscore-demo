@@ -1,0 +1,40 @@
+{
+  "match_name" : "ISSA",
+  "match_type" : "sc",
+  "match_subtype" : "issa",
+  "match_cats" : [ 
+      "Rimfire RI Optic",
+      "Rimfire RI Iron",
+      "Rimfire PI Optic",
+      "Rimfire PI Iron",
+      "Rimfire REV Optic",
+      "Rimfire REV Iron",
+      "Centerfire Pistol Caliber Carbine Optic",
+      "Centerfire Pistol Caliber Carbine Iron",
+      "Centerfire Pistol Optic",
+      "Centerfire Pistol Iron",
+      "Centerfire Pistol Production",
+      "Centerfire DA Revolver Optic",
+      "Centerfire DA Revolver Iron",
+      "Centerfire SA Revolver Optic",
+      "Centerfire SA Revolver Iron",
+      "Centerfire Low Ready" ],
+  "match_cls" : [],
+  "match_stages" : [],
+  "match_ctgs" : "[\"Junior\",\"Senior\",\"Super Senior\",\"Lady\",\"Defender\"]",
+  "match_chkins": [ "Checked in", "Paid", "Staff" ],
+
+  "match_penalties" : [
+    {
+      "pen_name" : "Miss",
+      "pen_val" : 3,
+      "pen_bin" : false
+    },
+    {
+      "pen_name" : "Miss Stop Plate",
+      "pen_val" : 10,
+      "pen_bin": true
+    }
+  ],
+  "match_bonuses": []
+}

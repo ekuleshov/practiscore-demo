@@ -1,0 +1,97 @@
+[
+  {
+		"stage_number": 1,
+		"stage_strings": 5,
+		"stage_scoretype": "SteelChallenge",
+		"stage_name": "5 To Go",
+		"stage_classifier": true,
+		"stage_classifiercode": "SC-101",
+		"stage_removeworststring": true,
+		"stage_maxstringtime": 30,
+    "stage_briefing": "Start position: All divisions wrists above shoulders, except rimfire and PCC divisions which use low ready start position.\n\nStage procedure: Upon start signal, from Box A engage the target plates in any order, then engage the stop plate.\n\nScoring: Time Only - Best 4 Runs Out of 5.",
+    "stage_penaltiestohide": [3]
+  },
+  {
+		"stage_number": 2,
+		"stage_strings": 5,
+		"stage_scoretype": "SteelChallenge",
+		"stage_name": "Showdown",
+		"stage_classifier": true,
+		"stage_classifiercode": "SC-102",
+		"stage_removeworststring": true,
+		"stage_maxstringtime": 30,
+    "stage_briefing": "Start position: All divisions wrists above shoulders, except rimfire and PCC divisions which use low ready start position..\n\nStage procedure: Upon start signal, engage the target plates in any order, then engage the stop plate. Two runs must be made from Box A; 2 runs must be made from Box B; and the fifth run may be made from either Box A or Box B at the shooter's choice.\n\nScoring: Time Only - Best 4 Runs Out of 5.",
+    "stage_penaltiestohide": [3]
+  },
+  {
+		"stage_number": 3,
+		"stage_strings": 5,
+		"stage_scoretype": "SteelChallenge",
+		"stage_name": "Smoke & Hope",
+		"stage_classifier": true,
+		"stage_classifiercode": "SC-103",
+		"stage_removeworststring": true,
+		"stage_maxstringtime": 30,
+    "stage_briefing": "Start position: All divisions wrists above shoulders, except rimfire and PCC divisions which use low ready start position.\n\nStage procedure: Upon start signal, from Box A engage the target plates in any order, then engage the stop plate.\n\nScoring: Time Only - Best 4 Runs Out of 5.",
+    "stage_penaltiestohide": [3]
+  },
+  {
+		"stage_number": 4,
+		"stage_strings": 4,
+		"stage_scoretype": "SteelChallenge",
+		"stage_name": "Outer Limits",
+		"stage_classifier": true,
+		"stage_classifiercode": "SC-104",
+		"stage_removeworststring": true,
+		"stage_maxstringtime": 30,
+		"stage_briefing": "Start position: All divisions wrists above shoulders, except rimfire and PCC divisions which use low ready start position.\n\nOuter Limits will have three 4'x4' shooting boxes. The shooter will start on their weak side shooting box and will engage the 20 and 35 yard plates on the weak side of the center line, move to the middle shooting box and engage the remaining two plates and stop plate. The distance between each of the three boxes will be 6'. Note: Only two of the three boxes will be used by each shooter. Depending on whether you are right or left handed, you will begin in the appropriate outside box and finish in the middle box.\n\nScoring: Time Only - Best 3 Runs Out of 4."
+  },
+  {
+		"stage_number": 5,
+		"stage_strings": 5,
+		"stage_scoretype": "SteelChallenge",
+		"stage_name": "Accelerator",
+		"stage_classifier": true,
+		"stage_classifiercode": "SC-105",
+		"stage_removeworststring": true,
+		"stage_maxstringtime": 30,
+    "stage_briefing": "Start position: All divisions wrists above shoulders, except rimfire and PCC divisions which use low ready start position.\n\nStage procedure: Upon start signal, from Box A engage the target plates in any order, then engage the stop plate.\n\nScoring: Time Only - Best 4 Runs Out of 5.",
+    "stage_penaltiestohide": [3]
+  },
+  {
+		"stage_number": 6,
+		"stage_strings": 5,
+		"stage_scoretype": "SteelChallenge",
+		"stage_name": "The Pendulum",
+		"stage_classifier": true,
+		"stage_classifiercode": "SC-106",
+		"stage_removeworststring": true,
+		"stage_maxstringtime": 30,
+    "stage_briefing": "Start position: All divisions wrists above shoulders, except rimfire and PCC divisions which use low ready start position.\n\nStage procedure: Upon start signal, from Box A engage the target plates in any order, then engage the stop plate.\n\nScoring: Time Only - Best 4 Runs Out of 5.",
+    "stage_penaltiestohide": [3]
+  },
+  {
+		"stage_number": 7,
+		"stage_strings": 5,
+		"stage_scoretype": "SteelChallenge",
+		"stage_name": "Speed Option",
+		"stage_classifier": true,
+		"stage_classifiercode": "SC-107",
+		"stage_removeworststring": true,
+		"stage_maxstringtime": 30,
+    "stage_briefing": "Start position: All divisions wrists above shoulders, except rimfire and PCC divisions which use low ready start position.\n\nStage procedure: Upon start signal, from Box A engage the target plates in any order, then engage the stop plate.\n\nScoring: Time Only - Best 4 Runs Out of 5.",
+    "stage_penaltiestohide": [3]
+  },
+  {
+		"stage_number": 8,
+		"stage_strings": 5,
+		"stage_scoretype": "SteelChallenge",
+		"stage_name": "Roundabout",
+		"stage_classifier": true,
+		"stage_classifiercode": "SC-108",
+		"stage_removeworststring": true,
+		"stage_maxstringtime": 30,
+    "stage_briefing": "Start position: All divisions wrists above shoulders, except rimfire and PCC divisions which use low ready start position.\n\nStage procedure: Upon start signal, from Box A engage the target plates in any order, then engage the stop plate.\n\nScoring: Time Only - Best 4 Runs Out of 5.",
+    "stage_penaltiestohide": [3]
+  }
+]

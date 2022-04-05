@@ -1,0 +1,44 @@
+{
+  "match_name" : "USSL-USL",
+  "match_type" : "timeplus_p",
+  "match_subtype" : "umlemg",
+  "match_ctgs" : "[\"Military\",\"Law Enforcement\",\"Junior\",\"Lady\",\"Super Senior\",\"Senior\"]",
+  "match_cats" : [ "Open", "Production ", "PCC Only", "Tac Shotgun",
+                   "Carry Optics", "Open Shotgun", "22LR", "Limited", "Single Stack" ],
+  "match_cls" : [ "PRO", "SP", "EX", "SS", "MM", "R" ],
+  "match_chkins" : [ "QTP", "Checked in", "Paid", "Staff" ],
+  "match_penalties" : [ {
+    "pen_warn" : false,
+    "pen_bin" : false,
+    "pen_name" : "Miss",
+    "pen_val" : 4 }, {
+    "pen_warn" : false,
+    "pen_bin" : false,
+    "pen_name" : "Penalty Target",
+    "pen_val" : 3 }, {
+    "pen_warn" : false,
+    "pen_bin" : false,
+    "pen_name" : "Procedural",
+    "pen_val" : 5 }, {
+    "pen_warn" : false,
+    "pen_bin" : false,
+    "pen_name" : "Failure To Engage ",
+    "pen_val" : 9 }, {
+    "pen_warn" : false,
+    "pen_bin" : false,
+    "pen_name" : "Failure To Complete Sweep",
+    "pen_val" : 10 }, {
+    "pen_warn" : false,
+    "pen_bin" : false,
+    "pen_name" : "Failure To Spin MGM spinner",
+    "pen_val" : 30 }, {
+    "pen_warn" : false,
+    "pen_bin" : false,
+    "pen_name" : "Safety Procedural ",
+    "pen_val" : 30 }, {
+    "pen_warn" : false,
+    "pen_bin" : false,
+    "pen_name" : "Stage Not Fired ",
+    "pen_val" : 500 }
+  ]
+}

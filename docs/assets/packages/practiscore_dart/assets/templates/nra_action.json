@@ -1,0 +1,51 @@
+{
+  "match_type" : "nra_action",
+  "match_name" : "NRA Action",
+  "match_maxteamresults" : 4,
+
+  "match_ctgs" : "[\"Junior\",\"Senior\",\"Super Senior\",\"Lady\",\"Law Enforcement\",\"Military\",\"Foreign\"]",
+  "match_cats" : ["Open", "Open Modified", "Metallic Sight", "Production", "Open Rimfire", "Production Rimfire"],
+  "match_cls" : ["HM", "MA", "EX", "SS", "MK", "UN"],
+  "match_chkins": [ "Checked in", "Paid", "Staff", "RO" ],
+
+  "match_custom_targets" : [
+      {
+        "target_reqshots" : 6,
+        "target_name" : "NRA Bianchi Mover",
+        "target_targdesc" : [ [ "X", "10" ], [ "10", "10" ], [ "8", "8" ],
+            [ "5", "5" ], [ "0", "0" ], [ "-10", "-10" ] ] },
+      {
+        "target_reqshots" : 10,
+        "target_name" : "NRA Pistol",
+        "target_targdesc" : [ [ "X", "10" ], [ "10", "10" ], [ "9", "9" ],
+            [ "8", "8" ], [ "7", "7" ], [ "6", "6" ], [ "5", "5" ],
+            [ "0", "0" ], [ "-10", "-10" ] ] },
+      {
+        "target_reqshots" : 10,
+        "target_name" : "NRA Universal",
+        "target_targdesc" : [ [ "X", "10" ], [ "10", "10" ], [ "9", "9" ],
+            [ "8", "8" ], [ "7", "7" ], [ "6", "6" ], [ "5", "5" ],
+            [ "4", "4" ], [ "3", "3" ], [ "2", "2" ], [ "1", "1" ],
+            [ "0", "0" ], [ "-10", "-10" ] ] },
+      {
+        "target_reqshots" : 10,
+        "target_name" : "NRA High Power Rifle",
+        "target_targdesc" : [ [ "X", "10" ], [ "10", "10" ], [ "9", "9" ],
+            [ "8", "8" ], [ "7", "7" ], [ "6", "6" ], [ "5", "5" ],
+            [ "0", "0" ], [ "-10", "-10" ] ] },
+      {
+        "target_reqshots" : 10,
+        "target_name" : "NRA Small Bore Rifle",
+        "target_targdesc" : [ [ "X", "10" ], [ "10", "10" ], [ "9", "9" ],
+            [ "8", "8" ], [ "7", "7" ], [ "6", "6" ], [ "5", "5" ],
+            [ "0", "0" ], [ "-10", "-10" ] ] },
+      {
+        "target_reqshots" : 6,
+        "target_name" : "NRA Bianchi Falling Plates",
+        "target_targdesc" : [ [ "X/10", "10" ], [ "Pen/-10", "-10" ] ] },
+      {
+        "target_reqshots" : 10,
+        "target_name" : "NRA B27",
+        "target_targdesc" : [ [ "X", "10" ], [ "10", "10" ], [ "9", "9" ],
+            [ "8", "8" ], [ "7", "7" ], [ "0", "0" ], [ "-10", "-10" ] ] } ]
+}

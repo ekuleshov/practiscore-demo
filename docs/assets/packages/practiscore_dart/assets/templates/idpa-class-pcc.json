@@ -1,0 +1,142 @@
+{
+  "match_name": "IDPA PCC Classifier",
+  "match_type": "idpa",
+  "match_subtype" : "idpa",
+  "match_cats" : [ "PCC" ],
+  "match_cls" : [ "UN", "NV", "MM", "SS", "EX", "MA", "DM" ],
+  "match_ctgs" : "[\"Junior\",\"Senior\",\"Distinguished Senior\",\"Lady\",\"International\",\"Industry\",\"Press\",\"Military\",\"Law Enforcement\",\"Veteran\"]",
+  "match_chkins": [ "Checked in", "Paid", "Staff", "RO" ],
+
+  "match_pointsdownvalue": 1.0,
+  "match_steelmisspdcount": 5,
+  
+  "match_docs" : [
+    {
+      "url": "https://www.idpa.com/wp-content/uploads/2018/09/IDPA-Rulebook-2017.pdf",
+      "name": "IDPA Rules",
+      "file": "2017_IDPA_Rulebook.pdf",
+      "type": "rules",
+      "chksum": "0b7234635119991933779398d3e5d24aa9bba69c"
+    },
+    {
+      "url": "https://www.idpa.com/wp-content/uploads/2019/05/Appendix-B-PCC.pdf",
+      "name": "IDPA PCC",
+      "file": "2017_IDPA_Rulebook_PCC.pdf",
+      "type": "rules",
+      "chksum": "d9f03f9c945275e31b0f98d0d3b98760b02af3b6"
+    },
+    {
+      "url": "https://www.idpa.com/wp-content/uploads/2020/07/Appendix-C-Carry-Optics.pdf",
+      "name": "IDPA Carry Optics",
+      "file": "2017_IDPA_Rulebook_CO.pdf",
+      "type": "rules",
+      "chksum": "38220c71e7296303243128576ef91984ed580d3e"
+    }
+  ],
+
+  "match_penalties": [
+    {
+      "pen_name": "Hits on Non-Threat",
+      "pen_val": 5.0,
+      "pen_bin": false,
+      "pen_warn": false
+    },
+    {
+      "pen_name": "Procedural Error",
+      "pen_val": 3.0,
+      "pen_bin": false,
+      "pen_warn": false
+    },
+    {
+      "pen_name": "Failure to Do Right",
+      "pen_val": 20.0,
+      "pen_bin": false,
+      "pen_warn": false
+    },
+    {
+      "pen_name": "Flagrant",
+      "pen_val": 10.0,
+      "pen_bin": false,
+      "pen_warn": true
+    },
+    {
+      "pen_name": "Finger PE",
+      "pen_val": 3.0,
+      "pen_bin": false,
+      "pen_warn": true
+    }
+  ],
+  "match_bonuses" : [],
+
+  "match_stages": [
+     {
+       "stage_name": "PCC Stage 1 2019",
+       "stage_strings": 2,
+       "stage_scoretype": "IDPA",
+       "stage_poppers": 0,
+       "stage_noshoots": false,
+       "stage_numtargs": 3,
+       "stage_classictargets": false,
+       "stage_classifier": true,
+       "stage_classifiercode": "2019_PCC_1",
+       "stage_tppoints": 100,
+       "stage_targets": [],
+       "stage_briefing": "PCC Stage 1 P1 (15yd line) 18 rounds total\n\nString 1 (9 shots): From Low Ready fire 2 shots to the body and one shot to the head on T2 (center), then 2 to the body and one to the head on T1 and T3 in either order.\n\nString 2 (9 shots): From Low Ready fire 3 shots to the head of T2, then 3 shots to the head of T1 & T3 in either order."
+     },
+     {
+       "stage_name": "PCC Stage 2 2019",
+       "stage_strings": 1,
+       "stage_scoretype": "IDPA",
+       "stage_poppers": 0,
+       "stage_noshoots": false,
+       "stage_numtargs": 3,
+       "stage_classictargets": false,
+       "stage_classifier": true,
+       "stage_classifiercode": "2019_PCC_2",
+       "stage_tppoints": 100,
+       "stage_targets": [],
+       "stage_briefing": "PCC Stage 2 P2 (25yd line ) 18 rounds total\n\nString 1: Load exactly 9 rounds total in the firearm at either P2. From Low Ready fire 3 rounds to each target starting with T2, reload and move to opposite P2 and re-engage with 3 shots each starting with T2."
+     },
+     {
+       "stage_name": "PCC Stage 3 2019",
+       "stage_strings": 2,
+       "stage_scoretype": "IDPA",
+       "stage_poppers": 0,
+       "stage_noshoots": false,
+       "stage_numtargs": 3,
+       "stage_classictargets": false,
+       "stage_classifier": true,
+       "stage_classifiercode": "2019_PCC_3",
+       "stage_tppoints": 100,
+       "stage_targets": [],
+       "stage_briefing": "Stage 3 P3 (25yd line) 18 rounds total\n\nString 1 (9 shots): Muzzle on Dot. On signal fire 3 rounds on Each target using support side barricade.\n\nString 2 (9 shots): Muzzle on Dot. On signal fire 3 rounds on Each target using strong side barricade.\n\nOnly score shots inside the lines on targets. Shots outside the lines are scored as misses."
+     }
+  ],
+  "match_divisionpfs": {
+    "SSP": { "minor": 125 },
+    "ESP": { "minor": 125 },
+    "CCP": { "minor": 125 },
+    "CDP": { "minor": 165 },
+    "SSR": { "minor": 105 },
+    "ESR": { "minor": 155 },
+    "BUG": { "minor": 95 },
+    "SPD": { "minor": 125 },
+    "PCC": { "minor": 135 },
+    "CO":  { "minor": 125 }
+  },
+
+  "match_dqs" : [
+    { "uuid" : "5dXCcs", "name" : "2.2.A Sweeping yourself or others" },
+    { "uuid" : "2tJpXo", "name" : "2.2.B Broke muzzle safe point/180 plane" },
+    { "uuid" : "a1WDSU", "name" : "2.2.C Intentionally engaging a non target" },
+    { "uuid" : "myjDvW", "name" : "2.2.D A discharge off of the firing line" },
+    { "uuid" : "maPhv2", "name" : "2.2.E Removing a firearm from the holster without supervision" },
+    { "uuid" : "i8KE5Z", "name" : "2.2.F Pointing muzzle of the gun over berm during \"Pull the Trigger\"" },
+    { "uuid" : "xe88QC", "name" : "2.2.G Drawing a firearm while facing up range" },
+    { "uuid" : "9YLHX2", "name" : "2.3.1 Dropping firearm during or after \"Load And Make Ready\"" }, 
+    { "uuid" : "q0xOog", "name" : "2.3.2 Dropped firearm within a stage boundary" },
+    { "uuid" : "A8tRZZ", "name" : "2.6.B Second \"Finger in Trigger Guard\" offense" },
+    { "uuid" : "RMhlND", "name" : "5.4.C Violation of Code of Conduct" },
+    { "uuid" : "xlivNA", "name" : "5.4.D Shooting at a steel target less than 10 yards" }
+  ]
+}
